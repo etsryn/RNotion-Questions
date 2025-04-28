@@ -10,243 +10,1023 @@
     "answer": "Natural Language Processing"
   },
   {
-    "question": "Which is NOT listed as an application of NLP?",
+    "question": "Which of these is a common application of NLP?",
     "options": [
-      "Machine Translation",
-      "Voice Assistants",
-      "Image Recognition",
-      "Text Analysis"
+      "Text Summarization",
+      "Image Segmentation",
+      "Audio Compression",
+      "Video Generation"
     ],
-    "answer": "Image Recognition"
+    "answer": "Text Summarization"
   },
   {
-    "question": "Which of the following is a core task of NLP?",
+    "question": "Which of these is NOT an NLP task?",
     "options": [
-      "Text Classification",
+      "Named Entity Recognition",
+      "Sentiment Analysis",
       "Object Detection",
-      "Video Editing",
-      "Network Security"
+      "Machine Translation"
     ],
-    "answer": "Text Classification"
+    "answer": "Object Detection"
   },
   {
-    "question": "Which fields does NLP combine?",
+    "question": "Which library is commonly used for NLP in Python?",
     "options": [
-      "Physics, Chemistry, and Biology",
-      "Linguistics, Computer Science, and Machine Learning",
-      "Mathematics, Astronomy, and Engineering",
-      "Economics, Statistics, and Sociology"
+      "NLTK",
+      "NumPy",
+      "Pandas",
+      "Matplotlib"
     ],
-    "answer": "Linguistics, Computer Science, and Machine Learning"
+    "answer": "NLTK"
   },
   {
-    "question": "What is the primary benefit of NLP in customer service?",
+    "question": "What is the goal of sentiment analysis?",
     "options": [
-      "Manual ticket resolution",
-      "Automated customer support",
-      "Increasing call volume",
-      "Human-to-human interaction only"
+      "Identify emotional tone",
+      "Translate languages",
+      "Recognize images",
+      "Generate speech"
     ],
-    "answer": "Automated customer support"
+    "answer": "Identify emotional tone"
   },
   {
-    "question": "Which ML model type is typically used for image-based learning?",
+    "question": "Which of these is a sequence-to-sequence model used in NLP?",
     "options": [
-      "Support Vector Machines",
-      "Convolutional Neural Networks",
-      "Decision Trees",
-      "Recurrent Neural Networks"
+      "Encoder-Decoder",
+      "CNN",
+      "KNN",
+      "Random Forest"
     ],
-    "answer": "Convolutional Neural Networks"
+    "answer": "Encoder-Decoder"
   },
   {
-    "question": "How are images represented before input to a CNN?",
+    "question": "What does a tokenizer do?",
     "options": [
-      "Text documents",
-      "Audio files",
-      "Matrices of pixel values",
-      "Symbolic graphs"
+      "Splits text into tokens",
+      "Converts text to lowercase",
+      "Removes stop words",
+      "Lemmatizes words"
     ],
-    "answer": "Matrices of pixel values"
+    "answer": "Splits text into tokens"
   },
   {
-    "question": "Which technique is used to convert text into numbers?",
+    "question": "What is a stop word?",
     "options": [
-      "Bag of Words",
-      "Spectrogram Analysis",
-      "Pixel Mapping",
-      "Fourier Transform"
+      "Common words filtered out",
+      "Technical term",
+      "Rare word",
+      "Named entity"
     ],
-    "answer": "Bag of Words"
+    "answer": "Common words filtered out"
   },
   {
-    "question": "What are examples of advanced vectorization techniques?",
+    "question": "What is stemming?",
     "options": [
-      "Word2Vec, GloVe, BERT",
-      "Pixel Embeddings, Audio Waves, GraphQL",
-      "Matrix Factorization, Fourier Transforms, K-Means",
-      "CNNs, SVMs, RNNs"
+      "Reducing words to their root form",
+      "Identifying named entities",
+      "Classifying text",
+      "Translating text"
     ],
-    "answer": "Word2Vec, GloVe, BERT"
+    "answer": "Reducing words to their root form"
   },
   {
-    "question": "Which feature distinguishes Word Embeddings from Bag of Words?",
+    "question": "What is the difference between stemming and lemmatization?",
     "options": [
-      "Simplicity",
-      "Context preservation",
-      "Loss of meaning",
-      "Only frequency counting"
+      "Lemmatization yields valid words",
+      "Stemming yields dictionary words",
+      "They are identical",
+      "Only lemmatization removes stop words"
     ],
-    "answer": "Context preservation"
+    "answer": "Lemmatization yields valid words"
   },
   {
-    "question": "Which encoding method is commonly used for categorical data?",
+    "question": "Which task involves determining the grammatical structure?",
     "options": [
-      "Label Encoding",
-      "Spectrogram Encoding",
-      "Signal Encoding",
-      "Bag Encoding"
+      "Parsing",
+      "Tokenization",
+      "Stemming",
+      "Vectorization"
     ],
-    "answer": "Label Encoding"
+    "answer": "Parsing"
   },
   {
-    "question": "What is One-Hot Encoding used for?",
+    "question": "Which model incorporates attention mechanisms?",
     "options": [
-      "Encoding audio files",
-      "Numerically representing categories",
-      "Encrypting numerical data",
-      "Compressing image files"
+      "Transformer",
+      "SVM",
+      "KNN",
+      "Bayesian Network"
     ],
-    "answer": "Numerically representing categories"
+    "answer": "Transformer"
   },
   {
-    "question": "How is audio generally transformed before ML processing?",
+    "question": "Which metric evaluates machine translation quality?",
     "options": [
-      "Text Files",
-      "Images",
-      "Numerical waveforms or spectrograms",
-      "Symbolic graphs"
+      "BLEU score",
+      "MSE",
+      "Accuracy",
+      "F1 score"
     ],
-    "answer": "Numerical waveforms or spectrograms"
+    "answer": "BLEU score"
   },
   {
-    "question": "What data type are CNNs best suited for?",
+    "question": "Which metric is used for text summarization evaluation?",
     "options": [
-      "Audio data",
-      "Image data",
-      "Text data",
-      "Categorical data"
+      "ROUGE",
+      "BLEU",
+      "AUROC",
+      "Precision"
     ],
-    "answer": "Image data"
+    "answer": "ROUGE"
   },
   {
-    "question": "Which of the following models handle extremely high dimensional inputs?",
+    "question": "What is word sense disambiguation?",
     "options": [
-      "SVMs",
-      "CNNs",
-      "Decision Trees",
-      "K-Means"
+      "Determining correct meaning of a word",
+      "Translating words",
+      "Tokenizing sentences",
+      "Removing punctuation"
     ],
-    "answer": "SVMs"
+    "answer": "Determining correct meaning of a word"
   },
   {
-    "question": "Why must data be converted into numbers for Machine Learning?",
+    "question": "Which of these is a neural language model?",
     "options": [
-      "Because numbers are easier to program",
-      "Because computers compute using numerical values",
-      "Because humans understand numbers",
-      "Because storage size is reduced"
+      "GPT",
+      "SVM",
+      "Random Forest",
+      "KMeans"
     ],
-    "answer": "Because computers compute using numerical values"
+    "answer": "GPT"
   },
   {
-    "question": "Is there any true exception to numerical input requirement in ML?",
+    "question": "Which architecture is used by BERT?",
     "options": [
-      "Yes, symbolic AI",
-      "Yes, NLP without vectorization",
-      "No, all inputs must be numeric",
-      "Yes, deep learning with audio"
+      "Transformer encoder",
+      "RNN",
+      "CNN",
+      "Markov Model"
     ],
-    "answer": "No, all inputs must be numeric"
+    "answer": "Transformer encoder"
   },
   {
-    "question": "What represents grayscale images in computers?",
+    "question": "Which task involves extracting relationships between entities?",
     "options": [
-      "2D matrices of pixel values",
-      "3D tensors",
-      "1D signal arrays",
-      "4D categorical maps"
+      "Relation extraction",
+      "Tokenization",
+      "Sentiment analysis",
+      "Translation"
     ],
-    "answer": "2D matrices of pixel values"
+    "answer": "Relation extraction"
   },
   {
-    "question": "RGB images are represented as:",
+    "question": "Which dataset is commonly used for sentiment analysis?",
     "options": [
-      "1D arrays",
-      "2D matrices",
-      "3D tensors",
-      "4D signals"
+      "IMDb reviews",
+      "MNIST",
+      "CIFAR-10",
+      "ImageNet"
     ],
-    "answer": "3D tensors"
+    "answer": "IMDb reviews"
   },
   {
-    "question": "TF-IDF stands for:",
+    "question": "What is co-reference resolution?",
     "options": [
-      "Term Frequency - Inverse Document Frequency",
-      "Token Frequency - Instance Document Frequency",
-      "Total Frequency - Indexed Document Feature",
-      "Text Formation - Integer Data Feature"
+      "Identifying mentions of same entity",
+      "Tokenizing text",
+      "Lemmatizing words",
+      "Vectorizing text"
     ],
-    "answer": "Term Frequency - Inverse Document Frequency"
+    "answer": "Identifying mentions of same entity"
   },
   {
-    "question": "Which of these is NOT a vectorization technique?",
+    "question": "Which technique is used for generating word embeddings?",
     "options": [
-      "Bag of Words",
-      "TF-IDF",
-      "Fourier Transform",
-      "Word2Vec"
+      "Word2Vec",
+      "KNN",
+      "PCA",
+      "LDA"
     ],
-    "answer": "Fourier Transform"
+    "answer": "Word2Vec"
   },
   {
-    "question": "Word2Vec and GloVe generate:",
+    "question": "What does GloVe stand for?",
     "options": [
-      "Sparse frequency vectors",
-      "Dense semantic vectors",
-      "Pixel arrays",
-      "Spectrogram graphs"
+      "Global Vectors",
+      "Generalized Vectors",
+      "Gaussian Vectors",
+      "Graphical Vectors"
     ],
-    "answer": "Dense semantic vectors"
+    "answer": "Global Vectors"
   },
   {
-    "question": "Which data representation allows computers to measure text similarity?",
+    "question": "Which of these converts text into dense vectors?",
     "options": [
-      "Bag of Words",
-      "Spectrograms",
+      "Word embeddings",
       "One-Hot Encoding",
-      "Audio Encoding"
+      "BoW",
+      "TF-IDF"
+    ],
+    "answer": "Word embeddings"
+  },
+  {
+    "question": "Which transformer model is bi-directional?",
+    "options": [
+      "BERT",
+      "GPT",
+      "XLNet",
+      "LSTM"
+    ],
+    "answer": "BERT"
+  },
+  {
+    "question": "What is the role of the attention mechanism?",
+    "options": [
+      "Weighing importance of tokens",
+      "Removing stop words",
+      "Tokenizing",
+      "Lemmatizing"
+    ],
+    "answer": "Weighing importance of tokens"
+  },
+  {
+    "question": "Which task creates a shortened version of a text?",
+    "options": [
+      "Text summarization",
+      "Translation",
+      "Classification",
+      "Tokenization"
+    ],
+    "answer": "Text summarization"
+  },
+  {
+    "question": "What is the difference between extractive and abstractive summarization?",
+    "options": [
+      "Extractive selects sentences, abstractive generates new text",
+      "Both identical",
+      "Only extractive uses neural nets",
+      "Abstractive selects sentences"
+    ],
+    "answer": "Extractive selects sentences, abstractive generates new text"
+  },
+  {
+    "question": "Which model is best known for text generation?",
+    "options": [
+      "GPT",
+      "PCA",
+      "SVM",
+      "KMeans"
+    ],
+    "answer": "GPT"
+  },
+  {
+    "question": "What is perplexity used to measure?",
+    "options": [
+      "Language model probability",
+      "Training time",
+      "Model size",
+      "Vocabulary size"
+    ],
+    "answer": "Language model probability"
+  },
+  {
+    "question": "Which of these is a pre-trained language model by Google?",
+    "options": [
+      "BERT",
+      "GPT",
+      "RoBERTa",
+      "XLNet"
+    ],
+    "answer": "BERT"
+  },
+  {
+    "question": "Which evaluation metric is suitable for classification tasks in NLP?",
+    "options": [
+      "F1 score",
+      "BLEU",
+      "ROUGE",
+      "PSNR"
+    ],
+    "answer": "F1 score"
+  },
+  {
+    "question": "Which approach uses both labeled and unlabeled data?",
+    "options": [
+      "Semi-supervised learning",
+      "Supervised learning",
+      "Unsupervised learning",
+      "Reinforcement learning"
+    ],
+    "answer": "Semi-supervised learning"
+  },
+  {
+    "question": "Which application uses NLP for dialogue?",
+    "options": [
+      "Chatbots",
+      "Image recognition",
+      "Object detection",
+      "Time series forecasting"
+    ],
+    "answer": "Chatbots"
+  },
+  {
+    "question": "Which of these is NOT a language model?",
+    "options": [
+      "CNN",
+      "GPT",
+      "BERT",
+      "XLNet"
+    ],
+    "answer": "CNN"
+  },
+  {
+    "question": "Which NLP task is fundamental for text classification?",
+    "options": [
+      "Feature extraction",
+      "Image augmentation",
+      "Data encryption",
+      "Signal processing"
+    ],
+    "answer": "Feature extraction"
+  },
+  {
+    "question": "What is the first phase in an NLP pipeline?",
+    "options": [
+      "Tokenization",
+      "Parsing",
+      "Lemmatization",
+      "Classification"
+    ],
+    "answer": "Tokenization"
+  },
+  {
+    "question": "Which phase involves removing common words like 'and' and 'the'?",
+    "options": [
+      "Stop-word removal",
+      "Tokenization",
+      "Parsing",
+      "Vectorization"
+    ],
+    "answer": "Stop-word removal"
+  },
+  {
+    "question": "Which phase reduces words to their dictionary form?",
+    "options": [
+      "Lemmatization",
+      "Stemming",
+      "Tokenization",
+      "Parsing"
+    ],
+    "answer": "Lemmatization"
+  },
+  {
+    "question": "Which phase removes punctuation and special characters?",
+    "options": [
+      "Text normalization",
+      "Feature extraction",
+      "Stemming",
+      "Parsing"
+    ],
+    "answer": "Text normalization"
+  },
+  {
+    "question": "Which phase maps words to part-of-speech tags?",
+    "options": [
+      "POS tagging",
+      "NER",
+      "Parsing",
+      "Tokenization"
+    ],
+    "answer": "POS tagging"
+  },
+  {
+    "question": "Which phase identifies names of people and places?",
+    "options": [
+      "Named Entity Recognition",
+      "Tokenization",
+      "Lemmatization",
+      "Parsing"
+    ],
+    "answer": "Named Entity Recognition"
+  },
+  {
+    "question": "Which phase determines sentence structure with parse trees?",
+    "options": [
+      "Parsing",
+      "POS tagging",
+      "Stemming",
+      "Normalization"
+    ],
+    "answer": "Parsing"
+  },
+  {
+    "question": "Which phase converts numbers into words or tokens?",
+    "options": [
+      "Numeric normalization",
+      "POS tagging",
+      "Parsing",
+      "Tokenization"
+    ],
+    "answer": "Numeric normalization"
+  },
+  {
+    "question": "Which phase splits text into sentences?",
+    "options": [
+      "Sentence segmentation",
+      "Tokenization",
+      "Parsing",
+      "Lemmatization"
+    ],
+    "answer": "Sentence segmentation"
+  },
+  {
+    "question": "Which phase involves converting text to lowercase?",
+    "options": [
+      "Case normalization",
+      "Stop-word removal",
+      "Tokenization",
+      "Parsing"
+    ],
+    "answer": "Case normalization"
+  },
+  {
+    "question": "Which phase deals with duplicate entries in data?",
+    "options": [
+      "Deduplication",
+      "Stemming",
+      "Tokenization",
+      "Parsing"
+    ],
+    "answer": "Deduplication"
+  },
+  {
+    "question": "Which phase would remove HTML tags from text?",
+    "options": [
+      "Text cleaning",
+      "Stemming",
+      "Tokenization",
+      "Parsing"
+    ],
+    "answer": "Text cleaning"
+  },
+  {
+    "question": "Which phase would correct misspelled words?",
+    "options": [
+      "Spelling correction",
+      "Tokenization",
+      "POS tagging",
+      "Parsing"
+    ],
+    "answer": "Spelling correction"
+  },
+  {
+    "question": "Which phase encodes words into numeric form?",
+    "options": [
+      "Vectorization",
+      "POS tagging",
+      "Lemmatization",
+      "Parsing"
+    ],
+    "answer": "Vectorization"
+  },
+  {
+    "question": "Which phase groups tokens into chunks like noun phrases?",
+    "options": [
+      "Chunking",
+      "POS tagging",
+      "Lemmatization",
+      "Parsing"
+    ],
+    "answer": "Chunking"
+  },
+  {
+    "question": "Which phase identifies pronoun references?",
+    "options": [
+      "Co-reference resolution",
+      "Tokenization",
+      "Lemmatization",
+      "Parsing"
+    ],
+    "answer": "Co-reference resolution"
+  },
+  {
+    "question": "Which phase quantifies sentiment polarity?",
+    "options": [
+      "Sentiment analysis",
+      "Tokenization",
+      "Parsing",
+      "Lemmatization"
+    ],
+    "answer": "Sentiment analysis"
+  },
+  {
+    "question": "Which phase extracts key phrases and topics?",
+    "options": [
+      "Topic modeling",
+      "Tokenization",
+      "Parsing",
+      "Lemmatization"
+    ],
+    "answer": "Topic modeling"
+  },
+  {
+    "question": "Which phase transforms text into a feature matrix?",
+    "options": [
+      "Feature extraction",
+      "POS tagging",
+      "Parsing",
+      "Lemmatization"
+    ],
+    "answer": "Feature extraction"
+  },
+  {
+    "question": "Which phase prepares data for classification algorithms?",
+    "options": [
+      "Data preprocessing",
+      "Model training",
+      "Evaluation",
+      "Tokenization"
+    ],
+    "answer": "Data preprocessing"
+  },
+  {
+    "question": "Which phase uses labeled data to train models?",
+    "options": [
+      "Model training",
+      "Tokenization",
+      "Parsing",
+      "Lemmatization"
+    ],
+    "answer": "Model training"
+  },
+  {
+    "question": "Which phase measures model performance on test data?",
+    "options": [
+      "Evaluation",
+      "Tokenization",
+      "Parsing",
+      "Lemmatization"
+    ],
+    "answer": "Evaluation"
+  },
+  {
+    "question": "Which phase involves tuning hyperparameters?",
+    "options": [
+      "Model optimization",
+      "Tokenization",
+      "Parsing",
+      "Lemmatization"
+    ],
+    "answer": "Model optimization"
+  },
+  {
+    "question": "Which phase deploys the NLP model into production?",
+    "options": [
+      "Deployment",
+      "Tokenization",
+      "Parsing",
+      "Lemmatization"
+    ],
+    "answer": "Deployment"
+  },
+  {
+    "question": "Which phase monitors model performance over time?",
+    "options": [
+      "Monitoring",
+      "Tokenization",
+      "Parsing",
+      "Lemmatization"
+    ],
+    "answer": "Monitoring"
+  },
+  {
+    "question": "Which phase updates the model with new data?",
+    "options": [
+      "Model retraining",
+      "Tokenization",
+      "Parsing",
+      "Lemmatization"
+    ],
+    "answer": "Model retraining"
+  },
+  {
+    "question": "Which phase stores model artifacts and metadata?",
+    "options": [
+      "Model management",
+      "Tokenization",
+      "Parsing",
+      "Lemmatization"
+    ],
+    "answer": "Model management"
+  },
+  {
+    "question": "Which phase integrates NLP with applications via APIs?",
+    "options": [
+      "Integration",
+      "Tokenization",
+      "Parsing",
+      "Lemmatization"
+    ],
+    "answer": "Integration"
+  },
+  {
+    "question": "What does One-Hot Encoding do?",
+    "options": [
+      "Converts categories to binary vectors",
+      "Converts text to lowercase",
+      "Removes stop words",
+      "Lemmatizes words"
+    ],
+    "answer": "Converts categories to binary vectors"
+  },
+  {
+    "question": "What is the length of a one-hot vector for a vocabulary of size N?",
+    "options": [
+      "N",
+      "N+1",
+      "N-1",
+      "2N"
+    ],
+    "answer": "N"
+  },
+  {
+    "question": "Which is a disadvantage of One-Hot Encoding?",
+    "options": [
+      "High dimensionality",
+      "Preserves word order",
+      "Requires embeddings",
+      "Generates dense vectors"
+    ],
+    "answer": "High dimensionality"
+  },
+  {
+    "question": "Which is an advantage of One-Hot Encoding?",
+    "options": [
+      "Simple implementation",
+      "Captures semantics",
+      "Reduces dimensionality",
+      "Generates dense vectors"
+    ],
+    "answer": "Simple implementation"
+  },
+  {
+    "question": "How does One-Hot Encoding represent unseen words?",
+    "options": [
+      "Zero vector",
+      "Random vector",
+      "Next index",
+      "Error"
+    ],
+    "answer": "Zero vector"
+  },
+  {
+    "question": "What does the Bag of Words model ignore?",
+    "options": [
+      "Word order",
+      "Word frequency",
+      "Word occurrence",
+      "Vocabulary"
+    ],
+    "answer": "Word order"
+  },
+  {
+    "question": "What feature does Bag of Words use?",
+    "options": [
+      "Word counts",
+      "Word positions",
+      "Word embeddings",
+      "Word syntax"
+    ],
+    "answer": "Word counts"
+  },
+  {
+    "question": "In Bag of Words, how is document similarity computed?",
+    "options": [
+      "Cosine similarity",
+      "Euclidean distance",
+      "Jaccard index",
+      "Manhattan distance"
+    ],
+    "answer": "Cosine similarity"
+  },
+  {
+    "question": "Which variant normalizes word counts by document length?",
+    "options": [
+      "Term Frequency",
+      "One-Hot Encoding",
+      "Lemmatization",
+      "Parsing"
+    ],
+    "answer": "Term Frequency"
+  },
+  {
+    "question": "Which technique applies inverse document frequency to term frequency?",
+    "options": [
+      "TF-IDF",
+      "One-Hot Encoding",
+      "Lemmatization",
+      "Parsing"
+    ],
+    "answer": "TF-IDF"
+  },
+  {
+    "question": "Which Bag of Words variant reduces weight of common words?",
+    "options": [
+      "TF-IDF",
+      "One-Hot Encoding",
+      "Lemmatization",
+      "Parsing"
+    ],
+    "answer": "TF-IDF"
+  },
+  {
+    "question": "What type of vector does Bag of Words produce?",
+    "options": [
+      "Sparse vector",
+      "Dense vector",
+      "Graph",
+      "Matrix"
+    ],
+    "answer": "Sparse vector"
+  },
+  {
+    "question": "What is the dimension of a BoW vector?",
+    "options": [
+      "Vocabulary size",
+      "Document length",
+      "Sentence count",
+      "Word count"
+    ],
+    "answer": "Vocabulary size"
+  },
+  {
+    "question": "Which vocabulary size affects BoW memory usage?",
+    "options": [
+      "Larger vocabulary",
+      "Smaller vocabulary",
+      "Document length",
+      "Sentence count"
+    ],
+    "answer": "Larger vocabulary"
+  },
+  {
+    "question": "Which method filters out infrequent words before BoW?",
+    "options": [
+      "Min frequency threshold",
+      "Lemmatization",
+      "Tokenization",
+      "Parsing"
+    ],
+    "answer": "Min frequency threshold"
+  },
+  {
+    "question": "Which method limits vocabulary size by top-k words?",
+    "options": [
+      "Max features",
+      "Lemmatization",
+      "Tokenization",
+      "Parsing"
+    ],
+    "answer": "Max features"
+  },
+  {
+    "question": "Which encoding maps words to unique indices?",
+    "options": [
+      "Tokenization",
+      "One-Hot Encoding",
+      "Lemmatization",
+      "Parsing"
+    ],
+    "answer": "Tokenization"
+  },
+  {
+    "question": "Which technique is faster for small vocabularies?",
+    "options": [
+      "One-Hot Encoding",
+      "Word Embeddings",
+      "BoW",
+      "TF-IDF"
+    ],
+    "answer": "One-Hot Encoding"
+  },
+  {
+    "question": "Which technique is memory efficient for large vocabularies?",
+    "options": [
+      "Word Embeddings",
+      "One-Hot Encoding",
+      "BoW",
+      "TF-IDF"
+    ],
+    "answer": "Word Embeddings"
+  },
+  {
+    "question": "Which model requires vectorized text as input?",
+    "options": [
+      "Naive Bayes",
+      "RNN",
+      "Transformer",
+      "CNN"
+    ],
+    "answer": "Naive Bayes"
+  },
+  {
+    "question": "Which vectorization technique can handle counts above 1?",
+    "options": [
+      "Bag of Words",
+      "One-Hot Encoding",
+      "Tokenization",
+      "Parsing"
     ],
     "answer": "Bag of Words"
   },
   {
-    "question": "Spectrograms are primarily used to represent:",
+    "question": "Which technique would you use for binary occurrence representation?",
     "options": [
-      "Images",
-      "Audio",
-      "Categorical data",
-      "Text"
+      "One-Hot Encoding",
+      "BoW",
+      "TF-IDF",
+      "Embeddings"
     ],
-    "answer": "Audio"
+    "answer": "One-Hot Encoding"
   },
   {
-    "question": "What does BERT specialize in?",
+    "question": "Which vectorization technique uses frequency thresholds?",
     "options": [
-      "Audio Encoding",
-      "Contextual Text Embeddings",
-      "Image Processing",
-      "Data Compression"
+      "Bag of Words",
+      "One-Hot Encoding",
+      "Lemmatization",
+      "Parsing"
     ],
-    "answer": "Contextual Text Embeddings"
+    "answer": "Bag of Words"
+  },
+  {
+    "question": "Which technique can be extended to n-grams?",
+    "options": [
+      "Bag of Words",
+      "One-Hot Encoding",
+      "Lemmatization",
+      "Parsing"
+    ],
+    "answer": "Bag of Words"
+  },
+  {
+    "question": "How are n-grams represented in BoW?",
+    "options": [
+      "Separate features for each n-gram",
+      "Combined features",
+      "Single feature",
+      "No features"
+    ],
+    "answer": "Separate features for each n-gram"
+  },
+  {
+    "question": "Which technique would ignore stop words by default?",
+    "options": [
+      "BoW with stop-word removal",
+      "One-Hot Encoding",
+      "Lemmatization",
+      "Parsing"
+    ],
+    "answer": "BoW with stop-word removal"
+  },
+  {
+    "question": "Which vectorization method is best for sparse data?",
+    "options": [
+      "Bag of Words",
+      "One-Hot Encoding",
+      "Embeddings",
+      "Parsing"
+    ],
+    "answer": "Bag of Words"
+  },
+  {
+    "question": "Which technique yields high-dimensional sparse vectors?",
+    "options": [
+      "One-Hot Encoding",
+      "Word Embeddings",
+      "TF-IDF",
+      "Parsing"
+    ],
+    "answer": "One-Hot Encoding"
+  },
+  {
+    "question": "Which extension of BoW accounts for term importance across documents?",
+    "options": [
+      "TF-IDF",
+      "One-Hot Encoding",
+      "Lemmatization",
+      "Parsing"
+    ],
+    "answer": "TF-IDF"
+  },
+  {
+    "question": "Which technique would you choose for simple category encoding?",
+    "options": [
+      "One-Hot Encoding",
+      "BoW",
+      "TF-IDF",
+      "Embeddings"
+    ],
+    "answer": "One-Hot Encoding"
+  },
+  {
+    "question": "Which phase of an NLP pipeline involves breaking text into morphemes and analyzing word structure?",
+    "options": [
+      "Lexical analysis",
+      "Morphological analysis",
+      "Syntactic parsing",
+      "Semantic analysis"
+    ],
+    "answer": "Morphological analysis"
+  },
+  {
+    "question": "In NLP, which phase assigns part-of-speech tags to each token?",
+    "options": [
+      "Tokenization",
+      "POS tagging",
+      "Parsing",
+      "Normalization"
+    ],
+    "answer": "POS tagging"
+  },
+  {
+    "question": "Which phase focuses on deriving meaning and relationships between words in a sentence?",
+    "options": [
+      "Pragmatic analysis",
+      "Syntactic parsing",
+      "Semantic analysis",
+      "Morphological analysis"
+    ],
+    "answer": "Semantic analysis"
+  },
+  {
+    "question": "Which phase of NLP is concerned with context, user intent, and discourse?",
+    "options": [
+      "Semantic analysis",
+      "Syntactic parsing",
+      "Pragmatic analysis",
+      "Morphological analysis"
+    ],
+    "answer": "Pragmatic analysis"
+  },
+  {
+    "question": "What does a CountVectorizer (Bag-of-Words) produce?",
+    "options": [
+      "A sparse matrix of token counts",
+      "Dense embeddings",
+      "A one-hot matrix",
+      "TF-IDF weighted vectors"
+    ],
+    "answer": "A sparse matrix of token counts"
+  },
+  {
+    "question": "Which vectorization technique applies a hash function to tokens to produce fixed-length feature vectors?",
+    "options": [
+      "Hashing Trick",
+      "One-Hot Encoding",
+      "TF-IDF",
+      "Word Embeddings"
+    ],
+    "answer": "Hashing Trick"
+  },
+  {
+    "question": "How does one-hot encoding represent the token ‘apple’ in a vocabulary of size N?",
+    "options": [
+      "As a length-N vector with a single 1 at the index of ‘apple’",
+      "As a dense embedding of length N",
+      "As TF-IDF weights across N dimensions",
+      "As N hashed values"
+    ],
+    "answer": "As a length-N vector with a single 1 at the index of ‘apple’"
+  },
+  {
+    "question": "Which of the following is a key drawback of the Bag-of-Words model?",
+    "options": [
+      "Ignores word order",
+      "Requires neural networks",
+      "Produces dense vectors",
+      "Always overfits"
+    ],
+    "answer": "Ignores word order"
+  },
+  {
+    "question": "What is the main advantage of using the Hashing Trick over a standard BoW vocabulary?",
+    "options": [
+      "Constant memory footprint independent of vocabulary size",
+      "Preserves word order",
+      "Yields semantic embeddings",
+      "Automatically removes stop words"
+    ],
+    "answer": "Constant memory footprint independent of vocabulary size"
+  },
+  {
+    "question": "Which phase comes immediately after tokenization in a typical NLP pipeline?",
+    "options": [
+      "Stop-word removal",
+      "Parsing",
+      "Feature extraction",
+      "Embedding"
+    ],
+    "answer": "Stop-word removal"
   }
 ]

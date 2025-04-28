@@ -15,7 +15,7 @@ import allQuestions from "../../../questions/Natural-Language-Processing/natural
 // Shuffle and pick 4
 const questions = allQuestions
   .sort(() => Math.random() - 0.5)
-  .slice(0, 10);
+  .slice(0, 50);
 
 
 
