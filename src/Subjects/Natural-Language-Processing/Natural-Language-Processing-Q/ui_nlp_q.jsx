@@ -20,16 +20,6 @@ const questions = allQuestions
 
 
 const Quiz = () => {
-  let participantName = null,
-  flag = true;
-while (flag) {
-  participantName = prompt(
-    "Enter your name correctly as it will appear on the certificate:"
-  );
-  if (participantName) {
-    flag = false;
-  }
-}
 
   const [idx, setIdx] = useState(0);
   const [sel, setSel] = useState("");

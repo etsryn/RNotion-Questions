@@ -3,6 +3,16 @@ import './App.css'
 import urlRoutes from "./Constants/Routes/questions-route";
 import NLP_root from './Subjects/Natural-Language-Processing/Natural-Language-Processing-Q/ui_nlp_q';
 import NLP_PoNLP from './Subjects/Natural-Language-Processing/Phases-of-Natural-Language-Processing-Q/ui_ponlp_q';
+
+  let participantName = null,
+  flag = true;
+  while (flag) {
+    participantName = prompt("Enter your name correctly as it will appear on the certificate:");
+    if (participantName) {
+      flag = false;
+    }
+  }
+
 function App() {
   return (
         <Router>
