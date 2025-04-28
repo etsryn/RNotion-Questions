@@ -6,7 +6,7 @@ import Confetti from "react-confetti";
 import { FaShareAlt, FaRedo, FaFilePdf, FaList } from "react-icons/fa";
 import { jsPDF } from "jspdf";
 import useWindowSize from "../../../utility/useWindowSize";
-import styles from "./iu.module.css";
+import styles from "./ui_ponlp_q.module.css";
 import { GraduationCap } from "lucide-react";
 import signatureImage from "../../../../public/signature.png";
 import allQuestions from "../../../questions/Natural-Language-Processing/phases-of-natural-language-processing.json";
