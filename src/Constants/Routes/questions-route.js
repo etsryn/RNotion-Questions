@@ -11,17 +11,17 @@ const ROUTES = {
             pragmatic_analysis: "/325a159074f1c04457a2f6048a1efc69800e0ab0d98464bfc5ce4eb1cb4fee8b",
         },
 
-        vectorization_techniques: {
+        vectorization_techniques_dir: {
             vectorization_techniques: "/0a21fb706062fe202f6b5fbec1fe76febb8d7b8b0129b063f0b5c29f518455c2",
             one_hot_encoding: "/b345acabe5c39433e68efda2be59e8647c61185becde579b419f921920a7f2e2",
         },
     },
     // Data Science
-    data_science: {
+    data_science_dir: {
         data_science: "/e7cb840fb3e936e2bc2f3aa7db87b065163dfa68bba8b0e4d70351a08f3a18e1",
-        data_wrangling: {
+        data_wrangling_dir: {
             data_wrangling: "/b4c9c7a7b734f2ca803eb59e407cd6ad7e532920ad3aafd80a43ce346852abcb",
-            data_ingestion: {
+            data_ingestion_dir: {
                 data_ingestion: "/fd3e84a08f6197099aff55ae4a9ad89fed248ef989e0281cf8a8131a2fadb55d",
                 ingestion_from_csv_file: "/c15a65ce8c7a60763676fb2e3706170f7e39dbe184cc8602b7417cdd70e473b8",
                 ingestion_from_json_file: "/bef2710bc58eea92cf05b4e0b63e9a2f45e2bbc3f79243aa3a9e5eefa2f438d8",
