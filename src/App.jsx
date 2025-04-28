@@ -10,8 +10,7 @@ function App() {
         <Router>
           <Routes>
             {/* NLP */}
-            <Route path={'https://rnotion-questions.vercel.app/'} element={<NLP />} />
-            {/* <Route path={urlRoutes.natural_language_processing.natural_language_processing} element={<NLP />} /> */}
+            <Route path={urlRoutes.natural_language_processing.natural_language_processing} element={<NLP />} />
             {/* <Route path={urlRoutes.login} element={<LoginPage />} />
             <Route path={urlRoutes.signup.personal} element={<SignUpPageOne />} />
             <Route path={urlRoutes.signup.contact} element={<SignUpPageTwo />} />
