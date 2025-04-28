@@ -19,7 +19,7 @@ const questions = allQuestions
 
 
 
-const Quiz = () => {
+const Quiz = ({ participantName }) => {
 
   const [idx, setIdx] = useState(0);
   const [sel, setSel] = useState("");
