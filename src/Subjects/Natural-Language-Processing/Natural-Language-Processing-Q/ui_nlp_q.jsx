@@ -12,7 +12,7 @@ import signatureImage from "../../../../public/signature.png";
 import allQuestions from "../../../questions/Natural-Language-Processing/natural-language-processing.json";
 
 
-// Shuffle and pick 4
+// Shuffle and pick 50 questions
 const questions = allQuestions
   .sort(() => Math.random() - 0.5)
   .slice(0, 50);
@@ -30,8 +30,6 @@ const Quiz = ({ participantName }) => {
   const [answered, setAnswered] = useState(false);
   const [finished, setFinished] = useState(false);
   const [responses, setResponses] = useState([]);
-  const [showReport, setShowReport] = useState(false);
-  const { width, height } = useWindowSize();
   const current = questions[idx];
   const progress = ((idx + (answered ? 1 : 0)) / questions.length) * 100;
 
@@ -70,7 +68,6 @@ const Quiz = ({ participantName }) => {
     setAnswered(false);
     setFinished(false);
     setResponses([]);
-    setShowReport(false);
   };
 
   // Circular indicator
