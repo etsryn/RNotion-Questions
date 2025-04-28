@@ -17,6 +17,9 @@ const questions = allQuestions
   .sort(() => Math.random() - 0.5)
   .slice(0, 50);
 
+  questions.forEach((question) => {
+    question.options = question.options.sort(() => Math.random() - 0.5);
+  });
 
 
 const Quiz = ({ participantName }) => {
