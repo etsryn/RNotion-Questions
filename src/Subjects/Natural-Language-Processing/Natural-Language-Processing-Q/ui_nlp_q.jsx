@@ -18,7 +18,9 @@ const questions = allQuestions
   .slice(0, 10);
 
 
-let participantName = null,
+
+const Quiz = () => {
+  let participantName = null,
   flag = true;
 while (flag) {
   participantName = prompt(
@@ -28,111 +30,6 @@ while (flag) {
     flag = false;
   }
 }
-const Quiz = () => {
-  // const questions = [
-  //   {
-  //     question: "What does NLP stand for in Artificial Intelligence?",
-  //     options: [
-  //       "Neural Learning Process",
-  //       "Natural Language Processing",
-  //       "Natural Logic Programming",
-  //       "Numerical Language Processing",
-  //     ],
-  //     answer: "Natural Language Processing",
-  //   },
-  //   {
-  //     question: "Which is NOT listed as an application of NLP?",
-  //     options: [
-  //       "Machine Translation",
-  //       "Voice Assistants",
-  //       "Image Recognition",
-  //       "Text Analysis",
-  //     ],
-  //     answer: "Image Recognition",
-  //   },
-  //   {
-  //     question: "Which core task is part of NLP?",
-  //     options: [
-  //       "Object Detection",
-  //       "Text Classification",
-  //       "Video Editing",
-  //       "Network Security",
-  //     ],
-  //     answer: "Text Classification",
-  //   },
-  //   {
-  //     question: "What fields does NLP combine?",
-  //     options: [
-  //       "Physics, Chemistry, and Biology",
-  //       "Linguistics, Computer Science, and Machine Learning",
-  //       "Mathematics, Astronomy, and Engineering",
-  //       "Economics, Statistics, and Sociology",
-  //     ],
-  //     answer: "Linguistics, Computer Science, and Machine Learning",
-  //   },
-  //   {
-  //     question: "Why must machine learning models use numerical input?",
-  //     options: [
-  //       "Because humans prefer numbers",
-  //       "Because computers compute on numerical values",
-  //       "Because it reduces storage",
-  //       "Because it simplifies programming",
-  //     ],
-  //     answer: "Because computers compute on numerical values",
-  //   },
-  //   {
-  //     question: "Which technique is used to convert text into numbers?",
-  //     options: [
-  //       "Bag of Words",
-  //       "Pixel Mapping",
-  //       "Fourier Transform",
-  //       "Spectrogram Analysis",
-  //     ],
-  //     answer: "Bag of Words",
-  //   },
-  //   {
-  //     question: "How are images represented for machine learning models?",
-  //     options: [
-  //       "As lists of words",
-  //       "As audio waves",
-  //       "As matrices of pixel values",
-  //       "As flowcharts",
-  //     ],
-  //     answer: "As matrices of pixel values",
-  //   },
-  //   {
-  //     question: "What is a method for encoding categorical data numerically?",
-  //     options: [
-  //       "Pixel Encoding",
-  //       "Label Encoding",
-  //       "Sound Encoding",
-  //       "Semantic Encoding",
-  //     ],
-  //     answer: "Label Encoding",
-  //   },
-  //   {
-  //     question:
-  //       "What happens to audio data before being processed by ML models?",
-  //     options: [
-  //       "It is kept as raw files",
-  //       "It is converted into text",
-  //       "It is transformed into numerical waveforms or spectrograms",
-  //       "It is encrypted",
-  //     ],
-  //     answer: "It is transformed into numerical waveforms or spectrograms",
-  //   },
-  //   {
-  //     question:
-  //       "Is there any true exception to numerical representation in Machine Learning?",
-  //     options: [
-  //       "Yes, Quantum Machine Learning is an exception",
-  //       "Yes, NLP can work without numbers",
-  //       "No, all data must be numerically represented",
-  //       "Yes, symbolic AI works directly on symbols",
-  //     ],
-  //     answer: "No, all data must be numerically represented",
-  //   },
-  // ];
 
   const [idx, setIdx] = useState(0);
   const [sel, setSel] = useState("");
