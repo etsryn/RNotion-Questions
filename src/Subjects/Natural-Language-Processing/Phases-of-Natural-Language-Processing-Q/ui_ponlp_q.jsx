@@ -259,7 +259,7 @@ const Quiz = ({ participantName }) => {
     doc.setFont("times", "bold");
     doc.setFontSize(20);
     doc.setTextColor(30, 30, 70);
-    doc.text('"Natural Language Processing"', pageWidth / 2, margin + 340, {
+    doc.text('"Phases of Natural Language Processing"', pageWidth / 2, margin + 340, {
       align: "center",
     });
 
