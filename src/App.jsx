@@ -11,8 +11,8 @@ function App() {
         <Router>
           <Routes>
             {/* NLP */}
-            <Route path={urlRoutes.natural_language_processing.natural_language_processing} element={<NLP_root />} />
-            <Route path={urlRoutes.natural_language_processing.phases_of_natural_language_processing.phases_of_natural_language_processing} element={<NLP_PoNLP />} />
+            <Route path={urlRoutes.natural_language_processing_dir.natural_language_processing} element={<NLP_root />} />
+            <Route path={urlRoutes.natural_language_processing_dir.phases_of_natural_language_processing_dir.phases_of_natural_language_processing} element={<NLP_PoNLP />} />
             
 
             {/* Data Science */}

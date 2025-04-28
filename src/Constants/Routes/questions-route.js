@@ -1,8 +1,8 @@
 const ROUTES = {
     // NLP
-    natural_language_processing: {
+    natural_language_processing_dir: {
         natural_language_processing: "/5e314bf3a4f39a51736d66acc5a259059e3f11263af328eec622c2ab9b413b4d",
-        phases_of_natural_language_processing: {
+        phases_of_natural_language_processing_dir: {
             phases_of_natural_language_processing: "/f841e8e163c2b6d20d96f71eef66d18b3630c021dd54571a949983f29f589b54",
             lexical_and_morphological_analysis: "/e57e23694f3c71341a79e784fb4e3a723a0b405baafc29f13330cfde38335a7f",
             syntactic_analysis: "/e9badd03ccd6b69db4ff211d6f970f12a0126d5fc3fb498f95f896c78b2ae702",
