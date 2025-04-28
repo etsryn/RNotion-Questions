@@ -1,0 +1,71 @@
+[
+    {
+      "question": "How many phases are there in Natural Language Processing (NLP)?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "answer": "5"
+    },
+    {
+      "question": "Which of the following is the first phase of NLP?",
+      "options": [
+        "Semantic Analysis",
+        "Syntactic Analysis",
+        "Lexical Analysis",
+        "Discourse Integration"
+      ],
+      "answer": "Lexical Analysis"
+    },
+    {
+      "question": "What is the correct order of phases in NLP?",
+      "options": [
+        "Lexical Analysis → Syntactic Analysis → Semantic Analysis → Discourse Integration → Pragmatic Analysis",
+        "Syntactic Analysis → Lexical Analysis → Semantic Analysis → Pragmatic Analysis → Discourse Integration",
+        "Lexical Analysis → Semantic Analysis → Syntactic Analysis → Discourse Integration → Pragmatic Analysis",
+        "Semantic Analysis → Lexical Analysis → Discourse Integration → Pragmatic Analysis → Syntactic Analysis"
+      ],
+      "answer": "Lexical Analysis → Syntactic Analysis → Semantic Analysis → Discourse Integration → Pragmatic Analysis"
+    },
+    {
+      "question": "Which phase comes immediately after Semantic Analysis in the NLP pipeline?",
+      "options": [
+        "Lexical Analysis",
+        "Syntactic Analysis",
+        "Discourse Integration",
+        "Pragmatic Analysis"
+      ],
+      "answer": "Discourse Integration"
+    },
+    {
+      "question": "Which two analyses are combined in the first phase of NLP according to the content?",
+      "options": [
+        "Syntactic and Semantic Analysis",
+        "Lexical and Morphological Analysis",
+        "Semantic and Pragmatic Analysis",
+        "Discourse and Lexical Analysis"
+      ],
+      "answer": "Lexical and Morphological Analysis"
+    },
+    {
+      "question": "In the block representation of NLP phases, which phase is placed at the end?",
+      "options": [
+        "Syntactic Analysis",
+        "Semantic Analysis",
+        "Discourse Integration",
+        "Pragmatic Analysis"
+      ],
+      "answer": "Pragmatic Analysis"
+    },
+    {
+      "question": "True or False: Discourse Integration happens before Semantic Analysis in NLP phases.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False"
+    }
+  ]
+  

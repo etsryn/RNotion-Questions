@@ -2,7 +2,7 @@ import { useState } from 'react'
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import './App.css'
 import urlRoutes from "./Constants/Routes/questions-route";
-import NLP from './Subjects/Natural-Language-Processing/Natural-Language-Processing-Q/set-1'
+import NLP from './Subjects/Natural-Language-Processing/Natural-Language-Processing-Q/ui'
 function App() {
   const [count, setCount] = useState(0)
 
