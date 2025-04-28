@@ -8,6 +8,7 @@ import { jsPDF } from "jspdf";
 import useWindowSize from "../../../utility/useWindowSize";
 import styles from "./set-1.module.css";
 import { GraduationCap } from 'lucide-react';
+import signatureImage from "../../../../public/signature.png";
 
 
 let participantName = null, flag = true
@@ -358,13 +359,12 @@ const generateCertificate = () => {
     doc.text("Certificate ID: SN-58674E4", pageWidth - margin - 20, pageHeight - margin - 30, { align: "right" });
   
     // 11. Signature Section
-    const signatureImgPath = "../../../../public/signature.png"; 
     const imgWidth = 120;
     const imgHeight = 50;
     const imgX = pageWidth / 2 - imgWidth / 2;
     const imgY = pageHeight - margin - imgHeight - 40;
     
-    doc.addImage(signatureImgPath, "PNG", imgX, imgY, imgWidth, imgHeight);
+    doc.addImage(signatureImage, "PNG", imgX, imgY, imgWidth, imgHeight);
   
     doc.setFont("helvetica", "italic");
     doc.setFontSize(14);
