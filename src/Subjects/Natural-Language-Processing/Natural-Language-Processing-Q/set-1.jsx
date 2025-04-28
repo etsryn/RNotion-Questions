@@ -9,7 +9,15 @@ import useWindowSize from "../../../utility/useWindowSize";
 import styles from "./set-1.module.css";
 import { GraduationCap } from "lucide-react";
 import signatureImage from "../../../../public/signature.png";
-import questions from "../../../questions/Natural-Language-Processing/natural-language-processing.json";
+import allQuestions from "../../../questions/Natural-Language-Processing/natural-language-processing.json";
+
+
+// Shuffle and pick 4
+const questions = allQuestions
+  .sort(() => Math.random() - 0.5)
+  .slice(0, 4);
+
+
 let participantName = null,
   flag = true;
 while (flag) {
