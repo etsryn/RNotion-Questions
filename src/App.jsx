@@ -1,9 +1,9 @@
 import { useState } from 'react'
-import { HashRouter as Router, Routes, Route } from "react-router-dom";
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import './App.css'
 import urlRoutes from "./Constants/Routes/questions-route";
 import NLP_root from './Subjects/Natural-Language-Processing/Natural-Language-Processing-Q/ui';
-import NLP_PoNLP from './Subjects/Natural-Language-Processing/Phases-of-Natural-language-Processing-Q/ui';
+import NLP_PoNLP from './Subjects/Natural-Language-Processing/Phases-of-Natural-Language-Processing-Q/iu';
 function App() {
   const [count, setCount] = useState(0)
 
