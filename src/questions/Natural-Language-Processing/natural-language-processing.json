@@ -1,102 +1,252 @@
 [
-    {
-      "question": "What does NLP stand for in Artificial Intelligence?",
-      "options": [
-        "Neural Learning Process",
-        "Natural Language Processing",
-        "Natural Logic Programming",
-        "Numerical Language Processing"
-      ],
-      "answer": "Natural Language Processing"
-    },
-    {
-      "question": "Which is NOT listed as an application of NLP?",
-      "options": [
-        "Machine Translation",
-        "Voice Assistants",
-        "Image Recognition",
-        "Text Analysis"
-      ],
-      "answer": "Image Recognition"
-    },
-    {
-      "question": "Which core task is part of NLP?",
-      "options": [
-        "Object Detection",
-        "Text Classification",
-        "Video Editing",
-        "Network Security"
-      ],
-      "answer": "Text Classification"
-    },
-    {
-      "question": "What fields does NLP combine?",
-      "options": [
-        "Physics, Chemistry, and Biology",
-        "Linguistics, Computer Science, and Machine Learning",
-        "Mathematics, Astronomy, and Engineering",
-        "Economics, Statistics, and Sociology"
-      ],
-      "answer": "Linguistics, Computer Science, and Machine Learning"
-    },
-    {
-      "question": "Why must machine learning models use numerical input?",
-      "options": [
-        "Because humans prefer numbers",
-        "Because computers compute on numerical values",
-        "Because it reduces storage",
-        "Because it simplifies programming"
-      ],
-      "answer": "Because computers compute on numerical values"
-    },
-    {
-      "question": "Which technique is used to convert text into numbers?",
-      "options": [
-        "Bag of Words",
-        "Pixel Mapping",
-        "Fourier Transform",
-        "Spectrogram Analysis"
-      ],
-      "answer": "Bag of Words"
-    },
-    {
-      "question": "How are images represented for machine learning models?",
-      "options": [
-        "As lists of words",
-        "As audio waves",
-        "As matrices of pixel values",
-        "As flowcharts"
-      ],
-      "answer": "As matrices of pixel values"
-    },
-    {
-      "question": "What is a method for encoding categorical data numerically?",
-      "options": [
-        "Pixel Encoding",
-        "Label Encoding",
-        "Sound Encoding",
-        "Semantic Encoding"
-      ],
-      "answer": "Label Encoding"
-    },
-    {
-      "question": "What happens to audio data before being processed by ML models?",
-      "options": [
-        "It is kept as raw files",
-        "It is converted into text",
-        "It is transformed into numerical waveforms or spectrograms",
-        "It is encrypted"
-      ],
-      "answer": "It is transformed into numerical waveforms or spectrograms"
-    },
-    {
-      "question": "Is there any true exception to numerical representation in Machine Learning?",
-      "options": [
-        "Yes, Quantum Machine Learning is an exception",
-        "Yes, NLP can work without numbers",
-        "No, all data must be numerically represented",
-        "Yes, symbolic AI works directly on symbols"
-      ],
-      "answer": "No, all data must be numerically represented"
-    }
-  ]  
+  {
+    "question": "What does NLP stand for in Artificial Intelligence?",
+    "options": [
+      "Neural Learning Process",
+      "Natural Language Processing",
+      "Natural Logic Programming",
+      "Numerical Language Processing"
+    ],
+    "answer": "Natural Language Processing"
+  },
+  {
+    "question": "Which is NOT listed as an application of NLP?",
+    "options": [
+      "Machine Translation",
+      "Voice Assistants",
+      "Image Recognition",
+      "Text Analysis"
+    ],
+    "answer": "Image Recognition"
+  },
+  {
+    "question": "Which of the following is a core task of NLP?",
+    "options": [
+      "Text Classification",
+      "Object Detection",
+      "Video Editing",
+      "Network Security"
+    ],
+    "answer": "Text Classification"
+  },
+  {
+    "question": "Which fields does NLP combine?",
+    "options": [
+      "Physics, Chemistry, and Biology",
+      "Linguistics, Computer Science, and Machine Learning",
+      "Mathematics, Astronomy, and Engineering",
+      "Economics, Statistics, and Sociology"
+    ],
+    "answer": "Linguistics, Computer Science, and Machine Learning"
+  },
+  {
+    "question": "What is the primary benefit of NLP in customer service?",
+    "options": [
+      "Manual ticket resolution",
+      "Automated customer support",
+      "Increasing call volume",
+      "Human-to-human interaction only"
+    ],
+    "answer": "Automated customer support"
+  },
+  {
+    "question": "Which ML model type is typically used for image-based learning?",
+    "options": [
+      "Support Vector Machines",
+      "Convolutional Neural Networks",
+      "Decision Trees",
+      "Recurrent Neural Networks"
+    ],
+    "answer": "Convolutional Neural Networks"
+  },
+  {
+    "question": "How are images represented before input to a CNN?",
+    "options": [
+      "Text documents",
+      "Audio files",
+      "Matrices of pixel values",
+      "Symbolic graphs"
+    ],
+    "answer": "Matrices of pixel values"
+  },
+  {
+    "question": "Which technique is used to convert text into numbers?",
+    "options": [
+      "Bag of Words",
+      "Spectrogram Analysis",
+      "Pixel Mapping",
+      "Fourier Transform"
+    ],
+    "answer": "Bag of Words"
+  },
+  {
+    "question": "What are examples of advanced vectorization techniques?",
+    "options": [
+      "Word2Vec, GloVe, BERT",
+      "Pixel Embeddings, Audio Waves, GraphQL",
+      "Matrix Factorization, Fourier Transforms, K-Means",
+      "CNNs, SVMs, RNNs"
+    ],
+    "answer": "Word2Vec, GloVe, BERT"
+  },
+  {
+    "question": "Which feature distinguishes Word Embeddings from Bag of Words?",
+    "options": [
+      "Simplicity",
+      "Context preservation",
+      "Loss of meaning",
+      "Only frequency counting"
+    ],
+    "answer": "Context preservation"
+  },
+  {
+    "question": "Which encoding method is commonly used for categorical data?",
+    "options": [
+      "Label Encoding",
+      "Spectrogram Encoding",
+      "Signal Encoding",
+      "Bag Encoding"
+    ],
+    "answer": "Label Encoding"
+  },
+  {
+    "question": "What is One-Hot Encoding used for?",
+    "options": [
+      "Encoding audio files",
+      "Numerically representing categories",
+      "Encrypting numerical data",
+      "Compressing image files"
+    ],
+    "answer": "Numerically representing categories"
+  },
+  {
+    "question": "How is audio generally transformed before ML processing?",
+    "options": [
+      "Text Files",
+      "Images",
+      "Numerical waveforms or spectrograms",
+      "Symbolic graphs"
+    ],
+    "answer": "Numerical waveforms or spectrograms"
+  },
+  {
+    "question": "What data type are CNNs best suited for?",
+    "options": [
+      "Audio data",
+      "Image data",
+      "Text data",
+      "Categorical data"
+    ],
+    "answer": "Image data"
+  },
+  {
+    "question": "Which of the following models handle extremely high dimensional inputs?",
+    "options": [
+      "SVMs",
+      "CNNs",
+      "Decision Trees",
+      "K-Means"
+    ],
+    "answer": "SVMs"
+  },
+  {
+    "question": "Why must data be converted into numbers for Machine Learning?",
+    "options": [
+      "Because numbers are easier to program",
+      "Because computers compute using numerical values",
+      "Because humans understand numbers",
+      "Because storage size is reduced"
+    ],
+    "answer": "Because computers compute using numerical values"
+  },
+  {
+    "question": "Is there any true exception to numerical input requirement in ML?",
+    "options": [
+      "Yes, symbolic AI",
+      "Yes, NLP without vectorization",
+      "No, all inputs must be numeric",
+      "Yes, deep learning with audio"
+    ],
+    "answer": "No, all inputs must be numeric"
+  },
+  {
+    "question": "What represents grayscale images in computers?",
+    "options": [
+      "2D matrices of pixel values",
+      "3D tensors",
+      "1D signal arrays",
+      "4D categorical maps"
+    ],
+    "answer": "2D matrices of pixel values"
+  },
+  {
+    "question": "RGB images are represented as:",
+    "options": [
+      "1D arrays",
+      "2D matrices",
+      "3D tensors",
+      "4D signals"
+    ],
+    "answer": "3D tensors"
+  },
+  {
+    "question": "TF-IDF stands for:",
+    "options": [
+      "Term Frequency - Inverse Document Frequency",
+      "Token Frequency - Instance Document Frequency",
+      "Total Frequency - Indexed Document Feature",
+      "Text Formation - Integer Data Feature"
+    ],
+    "answer": "Term Frequency - Inverse Document Frequency"
+  },
+  {
+    "question": "Which of these is NOT a vectorization technique?",
+    "options": [
+      "Bag of Words",
+      "TF-IDF",
+      "Fourier Transform",
+      "Word2Vec"
+    ],
+    "answer": "Fourier Transform"
+  },
+  {
+    "question": "Word2Vec and GloVe generate:",
+    "options": [
+      "Sparse frequency vectors",
+      "Dense semantic vectors",
+      "Pixel arrays",
+      "Spectrogram graphs"
+    ],
+    "answer": "Dense semantic vectors"
+  },
+  {
+    "question": "Which data representation allows computers to measure text similarity?",
+    "options": [
+      "Bag of Words",
+      "Spectrograms",
+      "One-Hot Encoding",
+      "Audio Encoding"
+    ],
+    "answer": "Bag of Words"
+  },
+  {
+    "question": "Spectrograms are primarily used to represent:",
+    "options": [
+      "Images",
+      "Audio",
+      "Categorical data",
+      "Text"
+    ],
+    "answer": "Audio"
+  },
+  {
+    "question": "What does BERT specialize in?",
+    "options": [
+      "Audio Encoding",
+      "Contextual Text Embeddings",
+      "Image Processing",
+      "Data Compression"
+    ],
+    "answer": "Contextual Text Embeddings"
+  }
+]
