@@ -1,4 +1,4 @@
-// set-1.jsx 
+// set-1.jsx
 // Requires: npm install framer-motion react-confetti react-icons jspdf
 import React, { useState, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
@@ -11,19 +11,14 @@ import { GraduationCap } from "lucide-react";
 import signatureImage from "../../../../public/signature.png";
 import allQuestions from "../../../questions/Natural-Language-Processing/natural-language-processing.json";
 
-
 // Shuffle and pick 50 questions
-const questions = allQuestions
-  .sort(() => Math.random() - 0.5)
-  .slice(0, 50);
+const questions = allQuestions.sort(() => Math.random() - 0.5).slice(0, 50);
 
-  questions.forEach((question) => {
-    question.options = question.options.sort(() => Math.random() - 0.5);
-  });
-
+questions.forEach((question) => {
+  question.options = question.options.sort(() => Math.random() - 0.5);
+});
 
 const Quiz = ({ participantName }) => {
-
   const [idx, setIdx] = useState(0);
   const [sel, setSel] = useState("");
   const [score, setScore] = useState(0);
@@ -330,6 +325,37 @@ const Quiz = ({ participantName }) => {
                   transition={{ duration: 0.4 }}
                 />
               </div>
+
+
+
+
+
+
+
+
+
+
+              <div className={styles.questionHeader}>
+                <span className={styles.questionNumber}>
+                  Question {idx + 1} of {questions.length}
+                </span>
+                {/* <span
+                  className={`${styles.questionTag} ${
+                    styles[current.tag.toLowerCase()]
+                  }`}
+                >
+                  {current.tag}
+                </span> */}
+              </div>
+
+
+
+
+
+
+
+
+
               <motion.h2
                 className={styles.question}
                 initial={{ scale: 0.95 }}
