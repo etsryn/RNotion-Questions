@@ -7,7 +7,8 @@
       "Natural Logic Programming",
       "Numerical Language Processing"
     ],
-    "answer": "Natural Language Processing"
+    "answer": "Natural Language Processing",
+    "tag": "Intermediate"
   },
   {
     "question": "Which of these is a common application of NLP?",
@@ -17,7 +18,8 @@
       "Audio Compression",
       "Video Generation"
     ],
-    "answer": "Text Summarization"
+    "answer": "Text Summarization",
+    "tag": "Intermediate"
   },
   {
     "question": "Which of these is NOT an NLP task?",
@@ -27,7 +29,8 @@
       "Object Detection",
       "Machine Translation"
     ],
-    "answer": "Object Detection"
+    "answer": "Object Detection",
+    "tag": "Intermediate"
   },
   {
     "question": "Which library is commonly used for NLP in Python?",
@@ -37,7 +40,8 @@
       "Pandas",
       "Matplotlib"
     ],
-    "answer": "NLTK"
+    "answer": "NLTK",
+    "tag": "Intermediate"
   },
   {
     "question": "What is the goal of sentiment analysis?",
@@ -47,7 +51,8 @@
       "Recognize images",
       "Generate speech"
     ],
-    "answer": "Identify emotional tone"
+    "answer": "Identify emotional tone",
+    "tag": "Beginner"
   },
   {
     "question": "Which of these is a sequence-to-sequence model used in NLP?",
@@ -57,7 +62,8 @@
       "KNN",
       "Random Forest"
     ],
-    "answer": "Encoder-Decoder"
+    "answer": "Encoder-Decoder",
+    "tag": "Intermediate"
   },
   {
     "question": "What does a tokenizer do?",
@@ -67,7 +73,8 @@
       "Removes stop words",
       "Lemmatizes words"
     ],
-    "answer": "Splits text into tokens"
+    "answer": "Splits text into tokens",
+    "tag": "Intermediate"
   },
   {
     "question": "What is a stop word?",
@@ -77,7 +84,8 @@
       "Rare word",
       "Named entity"
     ],
-    "answer": "Common words filtered out"
+    "answer": "Common words filtered out",
+    "tag": "Beginner"
   },
   {
     "question": "What is stemming?",
@@ -87,7 +95,8 @@
       "Classifying text",
       "Translating text"
     ],
-    "answer": "Reducing words to their root form"
+    "answer": "Reducing words to their root form",
+    "tag": "Beginner"
   },
   {
     "question": "What is the difference between stemming and lemmatization?",
@@ -97,7 +106,8 @@
       "They are identical",
       "Only lemmatization removes stop words"
     ],
-    "answer": "Lemmatization yields valid words"
+    "answer": "Lemmatization yields valid words",
+    "tag": "Intermediate"
   },
   {
     "question": "Which task involves determining the grammatical structure?",
@@ -107,7 +117,8 @@
       "Stemming",
       "Vectorization"
     ],
-    "answer": "Parsing"
+    "answer": "Parsing",
+    "tag": "Intermediate"
   },
   {
     "question": "Which model incorporates attention mechanisms?",
@@ -117,7 +128,8 @@
       "KNN",
       "Bayesian Network"
     ],
-    "answer": "Transformer"
+    "answer": "Transformer",
+    "tag": "Intermediate"
   },
   {
     "question": "Which metric evaluates machine translation quality?",
@@ -127,7 +139,8 @@
       "Accuracy",
       "F1 score"
     ],
-    "answer": "BLEU score"
+    "answer": "BLEU score",
+    "tag": "Intermediate"
   },
   {
     "question": "Which metric is used for text summarization evaluation?",
@@ -137,7 +150,8 @@
       "AUROC",
       "Precision"
     ],
-    "answer": "ROUGE"
+    "answer": "ROUGE",
+    "tag": "Intermediate"
   },
   {
     "question": "What is word sense disambiguation?",
@@ -147,7 +161,8 @@
       "Tokenizing sentences",
       "Removing punctuation"
     ],
-    "answer": "Determining correct meaning of a word"
+    "answer": "Determining correct meaning of a word",
+    "tag": "Beginner"
   },
   {
     "question": "Which of these is a neural language model?",
@@ -157,7 +172,8 @@
       "Random Forest",
       "KMeans"
     ],
-    "answer": "GPT"
+    "answer": "GPT",
+    "tag": "Intermediate"
   },
   {
     "question": "Which architecture is used by BERT?",
@@ -167,7 +183,8 @@
       "CNN",
       "Markov Model"
     ],
-    "answer": "Transformer encoder"
+    "answer": "Transformer encoder",
+    "tag": "Intermediate"
   },
   {
     "question": "Which task involves extracting relationships between entities?",
@@ -177,7 +194,8 @@
       "Sentiment analysis",
       "Translation"
     ],
-    "answer": "Relation extraction"
+    "answer": "Relation extraction",
+    "tag": "Intermediate"
   },
   {
     "question": "Which dataset is commonly used for sentiment analysis?",
@@ -187,7 +205,8 @@
       "CIFAR-10",
       "ImageNet"
     ],
-    "answer": "IMDb reviews"
+    "answer": "IMDb reviews",
+    "tag": "Intermediate"
   },
   {
     "question": "What is co-reference resolution?",
@@ -197,7 +216,8 @@
       "Lemmatizing words",
       "Vectorizing text"
     ],
-    "answer": "Identifying mentions of same entity"
+    "answer": "Identifying mentions of same entity",
+    "tag": "Beginner"
   },
   {
     "question": "Which technique is used for generating word embeddings?",
@@ -207,7 +227,8 @@
       "PCA",
       "LDA"
     ],
-    "answer": "Word2Vec"
+    "answer": "Word2Vec",
+    "tag": "Intermediate"
   },
   {
     "question": "What does GloVe stand for?",
@@ -217,7 +238,8 @@
       "Gaussian Vectors",
       "Graphical Vectors"
     ],
-    "answer": "Global Vectors"
+    "answer": "Global Vectors",
+    "tag": "Intermediate"
   },
   {
     "question": "Which of these converts text into dense vectors?",
@@ -227,7 +249,8 @@
       "BoW",
       "TF-IDF"
     ],
-    "answer": "Word embeddings"
+    "answer": "Word embeddings",
+    "tag": "Intermediate"
   },
   {
     "question": "Which transformer model is bi-directional?",
@@ -237,7 +260,8 @@
       "XLNet",
       "LSTM"
     ],
-    "answer": "BERT"
+    "answer": "BERT",
+    "tag": "Intermediate"
   },
   {
     "question": "What is the role of the attention mechanism?",
@@ -247,7 +271,8 @@
       "Tokenizing",
       "Lemmatizing"
     ],
-    "answer": "Weighing importance of tokens"
+    "answer": "Weighing importance of tokens",
+    "tag": "Beginner"
   },
   {
     "question": "Which task creates a shortened version of a text?",
@@ -257,7 +282,8 @@
       "Classification",
       "Tokenization"
     ],
-    "answer": "Text summarization"
+    "answer": "Text summarization",
+    "tag": "Intermediate"
   },
   {
     "question": "What is the difference between extractive and abstractive summarization?",
@@ -267,7 +293,8 @@
       "Only extractive uses neural nets",
       "Abstractive selects sentences"
     ],
-    "answer": "Extractive selects sentences, abstractive generates new text"
+    "answer": "Extractive selects sentences, abstractive generates new text",
+    "tag": "Intermediate"
   },
   {
     "question": "Which model is best known for text generation?",
@@ -277,7 +304,8 @@
       "SVM",
       "KMeans"
     ],
-    "answer": "GPT"
+    "answer": "GPT",
+    "tag": "Intermediate"
   },
   {
     "question": "What is perplexity used to measure?",
@@ -287,7 +315,8 @@
       "Model size",
       "Vocabulary size"
     ],
-    "answer": "Language model probability"
+    "answer": "Language model probability",
+    "tag": "Beginner"
   },
   {
     "question": "Which of these is a pre-trained language model by Google?",
@@ -297,7 +326,8 @@
       "RoBERTa",
       "XLNet"
     ],
-    "answer": "BERT"
+    "answer": "BERT",
+    "tag": "Intermediate"
   },
   {
     "question": "Which evaluation metric is suitable for classification tasks in NLP?",
@@ -307,7 +337,8 @@
       "ROUGE",
       "PSNR"
     ],
-    "answer": "F1 score"
+    "answer": "F1 score",
+    "tag": "Intermediate"
   },
   {
     "question": "Which approach uses both labeled and unlabeled data?",
@@ -317,7 +348,8 @@
       "Unsupervised learning",
       "Reinforcement learning"
     ],
-    "answer": "Semi-supervised learning"
+    "answer": "Semi-supervised learning",
+    "tag": "Intermediate"
   },
   {
     "question": "Which application uses NLP for dialogue?",
@@ -327,7 +359,8 @@
       "Object detection",
       "Time series forecasting"
     ],
-    "answer": "Chatbots"
+    "answer": "Chatbots",
+    "tag": "Intermediate"
   },
   {
     "question": "Which of these is NOT a language model?",
@@ -337,7 +370,8 @@
       "BERT",
       "XLNet"
     ],
-    "answer": "CNN"
+    "answer": "CNN",
+    "tag": "Intermediate"
   },
   {
     "question": "Which NLP task is fundamental for text classification?",
@@ -347,7 +381,8 @@
       "Data encryption",
       "Signal processing"
     ],
-    "answer": "Feature extraction"
+    "answer": "Feature extraction",
+    "tag": "Intermediate"
   },
   {
     "question": "What is the first phase in an NLP pipeline?",
@@ -357,7 +392,8 @@
       "Lemmatization",
       "Classification"
     ],
-    "answer": "Tokenization"
+    "answer": "Tokenization",
+    "tag": "Beginner"
   },
   {
     "question": "Which phase involves removing common words like 'and' and 'the'?",
@@ -367,7 +403,8 @@
       "Parsing",
       "Vectorization"
     ],
-    "answer": "Stop-word removal"
+    "answer": "Stop-word removal",
+    "tag": "Intermediate"
   },
   {
     "question": "Which phase reduces words to their dictionary form?",
@@ -377,7 +414,8 @@
       "Tokenization",
       "Parsing"
     ],
-    "answer": "Lemmatization"
+    "answer": "Lemmatization",
+    "tag": "Intermediate"
   },
   {
     "question": "Which phase removes punctuation and special characters?",
@@ -387,7 +425,8 @@
       "Stemming",
       "Parsing"
     ],
-    "answer": "Text normalization"
+    "answer": "Text normalization",
+    "tag": "Intermediate"
   },
   {
     "question": "Which phase maps words to part-of-speech tags?",
@@ -397,7 +436,8 @@
       "Parsing",
       "Tokenization"
     ],
-    "answer": "POS tagging"
+    "answer": "POS tagging",
+    "tag": "Intermediate"
   },
   {
     "question": "Which phase identifies names of people and places?",
@@ -407,7 +447,8 @@
       "Lemmatization",
       "Parsing"
     ],
-    "answer": "Named Entity Recognition"
+    "answer": "Named Entity Recognition",
+    "tag": "Intermediate"
   },
   {
     "question": "Which phase determines sentence structure with parse trees?",
@@ -417,7 +458,8 @@
       "Stemming",
       "Normalization"
     ],
-    "answer": "Parsing"
+    "answer": "Parsing",
+    "tag": "Intermediate"
   },
   {
     "question": "Which phase converts numbers into words or tokens?",
@@ -427,7 +469,8 @@
       "Parsing",
       "Tokenization"
     ],
-    "answer": "Numeric normalization"
+    "answer": "Numeric normalization",
+    "tag": "Intermediate"
   },
   {
     "question": "Which phase splits text into sentences?",
@@ -437,7 +480,8 @@
       "Parsing",
       "Lemmatization"
     ],
-    "answer": "Sentence segmentation"
+    "answer": "Sentence segmentation",
+    "tag": "Intermediate"
   },
   {
     "question": "Which phase involves converting text to lowercase?",
@@ -447,7 +491,8 @@
       "Tokenization",
       "Parsing"
     ],
-    "answer": "Case normalization"
+    "answer": "Case normalization",
+    "tag": "Intermediate"
   },
   {
     "question": "Which phase deals with duplicate entries in data?",
@@ -457,7 +502,8 @@
       "Tokenization",
       "Parsing"
     ],
-    "answer": "Deduplication"
+    "answer": "Deduplication",
+    "tag": "Intermediate"
   },
   {
     "question": "Which phase would remove HTML tags from text?",
@@ -467,7 +513,8 @@
       "Tokenization",
       "Parsing"
     ],
-    "answer": "Text cleaning"
+    "answer": "Text cleaning",
+    "tag": "Intermediate"
   },
   {
     "question": "Which phase would correct misspelled words?",
@@ -477,7 +524,8 @@
       "POS tagging",
       "Parsing"
     ],
-    "answer": "Spelling correction"
+    "answer": "Spelling correction",
+    "tag": "Intermediate"
   },
   {
     "question": "Which phase encodes words into numeric form?",
@@ -487,7 +535,8 @@
       "Lemmatization",
       "Parsing"
     ],
-    "answer": "Vectorization"
+    "answer": "Vectorization",
+    "tag": "Intermediate"
   },
   {
     "question": "Which phase groups tokens into chunks like noun phrases?",
@@ -497,7 +546,8 @@
       "Lemmatization",
       "Parsing"
     ],
-    "answer": "Chunking"
+    "answer": "Chunking",
+    "tag": "Intermediate"
   },
   {
     "question": "Which phase identifies pronoun references?",
@@ -507,7 +557,8 @@
       "Lemmatization",
       "Parsing"
     ],
-    "answer": "Co-reference resolution"
+    "answer": "Co-reference resolution",
+    "tag": "Intermediate"
   },
   {
     "question": "Which phase quantifies sentiment polarity?",
@@ -517,7 +568,8 @@
       "Parsing",
       "Lemmatization"
     ],
-    "answer": "Sentiment analysis"
+    "answer": "Sentiment analysis",
+    "tag": "Intermediate"
   },
   {
     "question": "Which phase extracts key phrases and topics?",
@@ -527,7 +579,8 @@
       "Parsing",
       "Lemmatization"
     ],
-    "answer": "Topic modeling"
+    "answer": "Topic modeling",
+    "tag": "Intermediate"
   },
   {
     "question": "Which phase transforms text into a feature matrix?",
@@ -537,7 +590,8 @@
       "Parsing",
       "Lemmatization"
     ],
-    "answer": "Feature extraction"
+    "answer": "Feature extraction",
+    "tag": "Intermediate"
   },
   {
     "question": "Which phase prepares data for classification algorithms?",
@@ -547,7 +601,8 @@
       "Evaluation",
       "Tokenization"
     ],
-    "answer": "Data preprocessing"
+    "answer": "Data preprocessing",
+    "tag": "Intermediate"
   },
   {
     "question": "Which phase uses labeled data to train models?",
@@ -557,7 +612,8 @@
       "Parsing",
       "Lemmatization"
     ],
-    "answer": "Model training"
+    "answer": "Model training",
+    "tag": "Intermediate"
   },
   {
     "question": "Which phase measures model performance on test data?",
@@ -567,7 +623,8 @@
       "Parsing",
       "Lemmatization"
     ],
-    "answer": "Evaluation"
+    "answer": "Evaluation",
+    "tag": "Intermediate"
   },
   {
     "question": "Which phase involves tuning hyperparameters?",
@@ -577,7 +634,8 @@
       "Parsing",
       "Lemmatization"
     ],
-    "answer": "Model optimization"
+    "answer": "Model optimization",
+    "tag": "Intermediate"
   },
   {
     "question": "Which phase deploys the NLP model into production?",
@@ -587,7 +645,8 @@
       "Parsing",
       "Lemmatization"
     ],
-    "answer": "Deployment"
+    "answer": "Deployment",
+    "tag": "Intermediate"
   },
   {
     "question": "Which phase monitors model performance over time?",
@@ -597,7 +656,8 @@
       "Parsing",
       "Lemmatization"
     ],
-    "answer": "Monitoring"
+    "answer": "Monitoring",
+    "tag": "Intermediate"
   },
   {
     "question": "Which phase updates the model with new data?",
@@ -607,7 +667,8 @@
       "Parsing",
       "Lemmatization"
     ],
-    "answer": "Model retraining"
+    "answer": "Model retraining",
+    "tag": "Intermediate"
   },
   {
     "question": "Which phase stores model artifacts and metadata?",
@@ -617,7 +678,8 @@
       "Parsing",
       "Lemmatization"
     ],
-    "answer": "Model management"
+    "answer": "Model management",
+    "tag": "Intermediate"
   },
   {
     "question": "Which phase integrates NLP with applications via APIs?",
@@ -627,7 +689,8 @@
       "Parsing",
       "Lemmatization"
     ],
-    "answer": "Integration"
+    "answer": "Integration",
+    "tag": "Intermediate"
   },
   {
     "question": "What does One-Hot Encoding do?",
@@ -637,7 +700,8 @@
       "Removes stop words",
       "Lemmatizes words"
     ],
-    "answer": "Converts categories to binary vectors"
+    "answer": "Converts categories to binary vectors",
+    "tag": "Intermediate"
   },
   {
     "question": "What is the length of a one-hot vector for a vocabulary of size N?",
@@ -647,7 +711,8 @@
       "N-1",
       "2N"
     ],
-    "answer": "N"
+    "answer": "N",
+    "tag": "Beginner"
   },
   {
     "question": "Which is a disadvantage of One-Hot Encoding?",
@@ -657,7 +722,8 @@
       "Requires embeddings",
       "Generates dense vectors"
     ],
-    "answer": "High dimensionality"
+    "answer": "High dimensionality",
+    "tag": "Intermediate"
   },
   {
     "question": "Which is an advantage of One-Hot Encoding?",
@@ -667,7 +733,8 @@
       "Reduces dimensionality",
       "Generates dense vectors"
     ],
-    "answer": "Simple implementation"
+    "answer": "Simple implementation",
+    "tag": "Intermediate"
   },
   {
     "question": "How does One-Hot Encoding represent unseen words?",
@@ -677,7 +744,8 @@
       "Next index",
       "Error"
     ],
-    "answer": "Zero vector"
+    "answer": "Zero vector",
+    "tag": "Intermediate"
   },
   {
     "question": "What does the Bag of Words model ignore?",
@@ -687,7 +755,8 @@
       "Word occurrence",
       "Vocabulary"
     ],
-    "answer": "Word order"
+    "answer": "Word order",
+    "tag": "Intermediate"
   },
   {
     "question": "What feature does Bag of Words use?",
@@ -697,7 +766,8 @@
       "Word embeddings",
       "Word syntax"
     ],
-    "answer": "Word counts"
+    "answer": "Word counts",
+    "tag": "Intermediate"
   },
   {
     "question": "In Bag of Words, how is document similarity computed?",
@@ -707,7 +777,8 @@
       "Jaccard index",
       "Manhattan distance"
     ],
-    "answer": "Cosine similarity"
+    "answer": "Cosine similarity",
+    "tag": "Intermediate"
   },
   {
     "question": "Which variant normalizes word counts by document length?",
@@ -717,7 +788,8 @@
       "Lemmatization",
       "Parsing"
     ],
-    "answer": "Term Frequency"
+    "answer": "Term Frequency",
+    "tag": "Intermediate"
   },
   {
     "question": "Which technique applies inverse document frequency to term frequency?",
@@ -727,7 +799,8 @@
       "Lemmatization",
       "Parsing"
     ],
-    "answer": "TF-IDF"
+    "answer": "TF-IDF",
+    "tag": "Intermediate"
   },
   {
     "question": "Which Bag of Words variant reduces weight of common words?",
@@ -737,7 +810,8 @@
       "Lemmatization",
       "Parsing"
     ],
-    "answer": "TF-IDF"
+    "answer": "TF-IDF",
+    "tag": "Intermediate"
   },
   {
     "question": "What type of vector does Bag of Words produce?",
@@ -747,7 +821,8 @@
       "Graph",
       "Matrix"
     ],
-    "answer": "Sparse vector"
+    "answer": "Sparse vector",
+    "tag": "Intermediate"
   },
   {
     "question": "What is the dimension of a BoW vector?",
@@ -757,7 +832,8 @@
       "Sentence count",
       "Word count"
     ],
-    "answer": "Vocabulary size"
+    "answer": "Vocabulary size",
+    "tag": "Beginner"
   },
   {
     "question": "Which vocabulary size affects BoW memory usage?",
@@ -767,7 +843,8 @@
       "Document length",
       "Sentence count"
     ],
-    "answer": "Larger vocabulary"
+    "answer": "Larger vocabulary",
+    "tag": "Intermediate"
   },
   {
     "question": "Which method filters out infrequent words before BoW?",
@@ -777,7 +854,8 @@
       "Tokenization",
       "Parsing"
     ],
-    "answer": "Min frequency threshold"
+    "answer": "Min frequency threshold",
+    "tag": "Intermediate"
   },
   {
     "question": "Which method limits vocabulary size by top-k words?",
@@ -787,7 +865,8 @@
       "Tokenization",
       "Parsing"
     ],
-    "answer": "Max features"
+    "answer": "Max features",
+    "tag": "Intermediate"
   },
   {
     "question": "Which encoding maps words to unique indices?",
@@ -797,7 +876,8 @@
       "Lemmatization",
       "Parsing"
     ],
-    "answer": "Tokenization"
+    "answer": "Tokenization",
+    "tag": "Intermediate"
   },
   {
     "question": "Which technique is faster for small vocabularies?",
@@ -807,7 +887,8 @@
       "BoW",
       "TF-IDF"
     ],
-    "answer": "One-Hot Encoding"
+    "answer": "One-Hot Encoding",
+    "tag": "Intermediate"
   },
   {
     "question": "Which technique is memory efficient for large vocabularies?",
@@ -817,7 +898,8 @@
       "BoW",
       "TF-IDF"
     ],
-    "answer": "Word Embeddings"
+    "answer": "Word Embeddings",
+    "tag": "Intermediate"
   },
   {
     "question": "Which model requires vectorized text as input?",
@@ -827,7 +909,8 @@
       "Transformer",
       "CNN"
     ],
-    "answer": "Naive Bayes"
+    "answer": "Naive Bayes",
+    "tag": "Intermediate"
   },
   {
     "question": "Which vectorization technique can handle counts above 1?",
@@ -837,7 +920,8 @@
       "Tokenization",
       "Parsing"
     ],
-    "answer": "Bag of Words"
+    "answer": "Bag of Words",
+    "tag": "Intermediate"
   },
   {
     "question": "Which technique would you use for binary occurrence representation?",
@@ -847,7 +931,8 @@
       "TF-IDF",
       "Embeddings"
     ],
-    "answer": "One-Hot Encoding"
+    "answer": "One-Hot Encoding",
+    "tag": "Intermediate"
   },
   {
     "question": "Which vectorization technique uses frequency thresholds?",
@@ -857,7 +942,8 @@
       "Lemmatization",
       "Parsing"
     ],
-    "answer": "Bag of Words"
+    "answer": "Bag of Words",
+    "tag": "Intermediate"
   },
   {
     "question": "Which technique can be extended to n-grams?",
@@ -867,7 +953,8 @@
       "Lemmatization",
       "Parsing"
     ],
-    "answer": "Bag of Words"
+    "answer": "Bag of Words",
+    "tag": "Intermediate"
   },
   {
     "question": "How are n-grams represented in BoW?",
@@ -877,7 +964,8 @@
       "Single feature",
       "No features"
     ],
-    "answer": "Separate features for each n-gram"
+    "answer": "Separate features for each n-gram",
+    "tag": "Intermediate"
   },
   {
     "question": "Which technique would ignore stop words by default?",
@@ -887,7 +975,8 @@
       "Lemmatization",
       "Parsing"
     ],
-    "answer": "BoW with stop-word removal"
+    "answer": "BoW with stop-word removal",
+    "tag": "Intermediate"
   },
   {
     "question": "Which vectorization method is best for sparse data?",
@@ -897,7 +986,8 @@
       "Embeddings",
       "Parsing"
     ],
-    "answer": "Bag of Words"
+    "answer": "Bag of Words",
+    "tag": "Intermediate"
   },
   {
     "question": "Which technique yields high-dimensional sparse vectors?",
@@ -907,7 +997,8 @@
       "TF-IDF",
       "Parsing"
     ],
-    "answer": "One-Hot Encoding"
+    "answer": "One-Hot Encoding",
+    "tag": "Intermediate"
   },
   {
     "question": "Which extension of BoW accounts for term importance across documents?",
@@ -917,7 +1008,8 @@
       "Lemmatization",
       "Parsing"
     ],
-    "answer": "TF-IDF"
+    "answer": "TF-IDF",
+    "tag": "Intermediate"
   },
   {
     "question": "Which technique would you choose for simple category encoding?",
@@ -927,7 +1019,8 @@
       "TF-IDF",
       "Embeddings"
     ],
-    "answer": "One-Hot Encoding"
+    "answer": "One-Hot Encoding",
+    "tag": "Intermediate"
   },
   {
     "question": "Which phase of an NLP pipeline involves breaking text into morphemes and analyzing word structure?",
@@ -937,7 +1030,8 @@
       "Syntactic parsing",
       "Semantic analysis"
     ],
-    "answer": "Morphological analysis"
+    "answer": "Morphological analysis",
+    "tag": "Intermediate"
   },
   {
     "question": "In NLP, which phase assigns part-of-speech tags to each token?",
@@ -947,7 +1041,8 @@
       "Parsing",
       "Normalization"
     ],
-    "answer": "POS tagging"
+    "answer": "POS tagging",
+    "tag": "Intermediate"
   },
   {
     "question": "Which phase focuses on deriving meaning and relationships between words in a sentence?",
@@ -957,7 +1052,8 @@
       "Semantic analysis",
       "Morphological analysis"
     ],
-    "answer": "Semantic analysis"
+    "answer": "Semantic analysis",
+    "tag": "Intermediate"
   },
   {
     "question": "Which phase of NLP is concerned with context, user intent, and discourse?",
@@ -967,7 +1063,8 @@
       "Pragmatic analysis",
       "Morphological analysis"
     ],
-    "answer": "Pragmatic analysis"
+    "answer": "Pragmatic analysis",
+    "tag": "Intermediate"
   },
   {
     "question": "What does a CountVectorizer (Bag-of-Words) produce?",
@@ -977,7 +1074,8 @@
       "A one-hot matrix",
       "TF-IDF weighted vectors"
     ],
-    "answer": "A sparse matrix of token counts"
+    "answer": "A sparse matrix of token counts",
+    "tag": "Intermediate"
   },
   {
     "question": "Which vectorization technique applies a hash function to tokens to produce fixed-length feature vectors?",
@@ -987,7 +1085,8 @@
       "TF-IDF",
       "Word Embeddings"
     ],
-    "answer": "Hashing Trick"
+    "answer": "Hashing Trick",
+    "tag": "Intermediate"
   },
   {
     "question": "How does one-hot encoding represent the token ‘apple’ in a vocabulary of size N?",
@@ -997,7 +1096,8 @@
       "As TF-IDF weights across N dimensions",
       "As N hashed values"
     ],
-    "answer": "As a length-N vector with a single 1 at the index of ‘apple’"
+    "answer": "As a length-N vector with a single 1 at the index of ‘apple’",
+    "tag": "Intermediate"
   },
   {
     "question": "Which of the following is a key drawback of the Bag-of-Words model?",
@@ -1007,7 +1107,8 @@
       "Produces dense vectors",
       "Always overfits"
     ],
-    "answer": "Ignores word order"
+    "answer": "Ignores word order",
+    "tag": "Intermediate"
   },
   {
     "question": "What is the main advantage of using the Hashing Trick over a standard BoW vocabulary?",
@@ -1017,7 +1118,8 @@
       "Yields semantic embeddings",
       "Automatically removes stop words"
     ],
-    "answer": "Constant memory footprint independent of vocabulary size"
+    "answer": "Constant memory footprint independent of vocabulary size",
+    "tag": "Beginner"
   },
   {
     "question": "Which phase comes immediately after tokenization in a typical NLP pipeline?",
@@ -1027,6 +1129,7 @@
       "Feature extraction",
       "Embedding"
     ],
-    "answer": "Stop-word removal"
+    "answer": "Stop-word removal",
+    "tag": "Intermediate"
   }
 ]

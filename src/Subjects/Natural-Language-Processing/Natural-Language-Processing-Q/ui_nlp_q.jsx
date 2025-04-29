@@ -339,13 +339,13 @@ const Quiz = ({ participantName }) => {
                 <span className={styles.questionNumber}>
                   Question {idx + 1} of {questions.length}
                 </span>
-                {/* <span
+                <span
                   className={`${styles.questionTag} ${
                     styles[current.tag.toLowerCase()]
                   }`}
                 >
                   {current.tag}
-                </span> */}
+                </span>
               </div>
 
 
