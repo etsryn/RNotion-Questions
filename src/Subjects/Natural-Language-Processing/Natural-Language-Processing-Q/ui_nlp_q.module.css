@@ -406,3 +406,35 @@
     scrollbar-width: thin;               /* "auto" or "thin" */
     scrollbar-color: #a9a9a9 rgba(20,20,20,0.5);
   }
+
+  .questionHeader {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 0.5rem;
+  }
+  
+  .questionNumber {
+    font-weight: 600;
+    font-size: 1rem;
+  }
+  
+  .questionTag {
+    padding: 0.2rem 0.6rem;
+    border-radius: 0.25rem;
+    font-size: 0.85rem;
+    color: #fff;
+    text-transform: uppercase;
+  }
+  
+  /* Color-coding per tag */
+  .questionTag.beginner {
+    background-color: #4caf50;
+  }
+  .questionTag.intermediate {
+    background-color: #ff9800;
+  }
+  .questionTag.advanced {
+    background-color: #f44336;
+  }
+  
