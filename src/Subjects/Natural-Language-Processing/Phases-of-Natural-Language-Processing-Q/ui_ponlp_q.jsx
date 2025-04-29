@@ -329,6 +329,25 @@ const Quiz = ({ participantName }) => {
                   transition={{ duration: 0.4 }}
                 />
               </div>
+
+            <div className={styles.questionHeader}>
+                <span className={styles.questionNumber}>
+                  Question {idx + 1} of {questions.length}
+                </span>
+                <span
+                  className={`${styles.questionTag} ${
+                    styles[current.tag.toLowerCase()]
+                  }`}
+                >
+                  {current.tag}
+                </span>
+              </div>
+
+
+
+
+
+
               <motion.h2
                 className={styles.question}
                 initial={{ scale: 0.95 }}
