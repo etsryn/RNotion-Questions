@@ -23,9 +23,9 @@ const Quiz = ({ participantName }) => {
     useEffect(() => {
       let flag = true;
       while(flag) {
-        const name = prompt("Enter Secret-Code ID");
-        if(name) {
-          setvaliduser(name);
+        const code = prompt("Enter Secret-Code ID");
+        if(code === "20al14") {
+          setvaliduser(code);
           flag = false;
         }
       }
