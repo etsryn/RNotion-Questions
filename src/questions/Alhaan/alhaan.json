@@ -1,0 +1,1135 @@
+[
+    {
+      "question": "xxxxx does NLP stxxxxxnd for in xxxxxrtificixxxxxl Intelligence?",
+      "options": [
+        "Neurxxxxxl Lexxxxxrning Process",
+        "Nxxxxxturxxxxxl Lxxxxxnguxxxxxge Processing",
+        "Nxxxxxturxxxxxl Logic Progrxxxxxmming",
+        "Numericxxxxxl Lxxxxxnguxxxxxge Processing"
+      ],
+      "xxxxxnswer": "Nxxxxxturxxxxxl Lxxxxxnguxxxxxge Processing",
+      "txxxxxg": "Intermedixxxxxte"
+    },
+    {
+      "question": "Which of these is xxxxx common xxxxxpplicxxxxxtion of NLP?",
+      "options": [
+        "Text Summxxxxxrizxxxxxtion",
+        "Imxxxxxge Segmentxxxxxtion",
+        "xxxxxudio Compression",
+        "Video Generxxxxxtion"
+      ],
+      "xxxxxnswer": "Text Summxxxxxrizxxxxxtion",
+      "txxxxxg": "Intermedixxxxxte"
+    },
+    {
+      "question": "Which of these is NOT xxxxxn NLP txxxxxsk?",
+      "options": [
+        "Nxxxxxmed Entity Recognition",
+        "Sentiment xxxxxnxxxxxlysis",
+        "Object Detection",
+        "Mxxxxxchine Trxxxxxnslxxxxxtion"
+      ],
+      "xxxxxnswer": "Object Detection",
+      "txxxxxg": "Intermedixxxxxte"
+    },
+    {
+      "question": "Which librxxxxxry is commonly used for NLP in Python?",
+      "options": [
+        "NLTK",
+        "NumPy",
+        "Pxxxxxndxxxxxs",
+        "Mxxxxxtplotlib"
+      ],
+      "xxxxxnswer": "NLTK",
+      "txxxxxg": "Intermedixxxxxte"
+    },
+    {
+      "question": "xxxxx is the goxxxxxl of sentiment xxxxxnxxxxxlysis?",
+      "options": [
+        "Identify emotionxxxxxl tone",
+        "Trxxxxxnslxxxxxte lxxxxxnguxxxxxges",
+        "Recognize imxxxxxges",
+        "Generxxxxxte speech"
+      ],
+      "xxxxxnswer": "Identify emotionxxxxxl tone",
+      "txxxxxg": "Beginner"
+    },
+    {
+      "question": "Which of these is xxxxx sequence-to-sequence model used in NLP?",
+      "options": [
+        "Encoder-Decoder",
+        "CNN",
+        "KNN",
+        "Rxxxxxndom Forest"
+      ],
+      "xxxxxnswer": "Encoder-Decoder",
+      "txxxxxg": "Intermedixxxxxte"
+    },
+    {
+      "question": "xxxxx does xxxxx tokenizer do?",
+      "options": [
+        "Splits text into tokens",
+        "Converts text to lowercxxxxxse",
+        "Removes stop words",
+        "Lemmxxxxxtizes words"
+      ],
+      "xxxxxnswer": "Splits text into tokens",
+      "txxxxxg": "Intermedixxxxxte"
+    },
+    {
+      "question": "xxxxx is xxxxx stop word?",
+      "options": [
+        "Common words filtered out",
+        "Technicxxxxxl term",
+        "Rxxxxxre word",
+        "Nxxxxxmed entity"
+      ],
+      "xxxxxnswer": "Common words filtered out",
+      "txxxxxg": "Beginner"
+    },
+    {
+      "question": "xxxxx is stemming?",
+      "options": [
+        "Reducing words to their root form",
+        "Identifying nxxxxxmed entities",
+        "Clxxxxxssifying text",
+        "Trxxxxxnslxxxxxting text"
+      ],
+      "xxxxxnswer": "Reducing words to their root form",
+      "txxxxxg": "Beginner"
+    },
+    {
+      "question": "xxxxx is the difference between stemming xxxxxnd lemmxxxxxtizxxxxxtion?",
+      "options": [
+        "Lemmxxxxxtizxxxxxtion yields vxxxxxlid words",
+        "Stemming yields dictionxxxxxry words",
+        "They xxxxxre identicxxxxxl",
+        "Only lemmxxxxxtizxxxxxtion removes stop words"
+      ],
+      "xxxxxnswer": "Lemmxxxxxtizxxxxxtion yields vxxxxxlid words",
+      "txxxxxg": "Intermedixxxxxte"
+    },
+    {
+      "question": "Which txxxxxsk involves determining the grxxxxxmmxxxxxticxxxxxl structure?",
+      "options": [
+        "Pxxxxxrsing",
+        "Tokenizxxxxxtion",
+        "Stemming",
+        "Vectorizxxxxxtion"
+      ],
+      "xxxxxnswer": "Pxxxxxrsing",
+      "txxxxxg": "Intermedixxxxxte"
+    },
+    {
+      "question": "Which model incorporxxxxxtes xxxxxttention mechxxxxxnisms?",
+      "options": [
+        "Trxxxxxnsformer",
+        "SVM",
+        "KNN",
+        "Bxxxxxyesixxxxxn Network"
+      ],
+      "xxxxxnswer": "Trxxxxxnsformer",
+      "txxxxxg": "Intermedixxxxxte"
+    },
+    {
+      "question": "Which metric evxxxxxluxxxxxtes mxxxxxchine trxxxxxnslxxxxxtion quxxxxxlity?",
+      "options": [
+        "BLEU score",
+        "MSE",
+        "xxxxxccurxxxxxcy",
+        "F1 score"
+      ],
+      "xxxxxnswer": "BLEU score",
+      "txxxxxg": "Intermedixxxxxte"
+    },
+    {
+      "question": "Which metric is used for text summxxxxxrizxxxxxtion evxxxxxluxxxxxtion?",
+      "options": [
+        "ROUGE",
+        "BLEU",
+        "xxxxxUROC",
+        "Precision"
+      ],
+      "xxxxxnswer": "ROUGE",
+      "txxxxxg": "Intermedixxxxxte"
+    },
+    {
+      "question": "xxxxx is word sense disxxxxxmbiguxxxxxtion?",
+      "options": [
+        "Determining correct mexxxxxning of xxxxx word",
+        "Trxxxxxnslxxxxxting words",
+        "Tokenizing sentences",
+        "Removing punctuxxxxxtion"
+      ],
+      "xxxxxnswer": "Determining correct mexxxxxning of xxxxx word",
+      "txxxxxg": "Beginner"
+    },
+    {
+      "question": "Which of these is xxxxx neurxxxxxl lxxxxxnguxxxxxge model?",
+      "options": [
+        "GPT",
+        "SVM",
+        "Rxxxxxndom Forest",
+        "KMexxxxxns"
+      ],
+      "xxxxxnswer": "GPT",
+      "txxxxxg": "Intermedixxxxxte"
+    },
+    {
+      "question": "Which xxxxxrchitecture is used by BERT?",
+      "options": [
+        "Trxxxxxnsformer encoder",
+        "RNN",
+        "CNN",
+        "Mxxxxxrkov Model"
+      ],
+      "xxxxxnswer": "Trxxxxxnsformer encoder",
+      "txxxxxg": "Intermedixxxxxte"
+    },
+    {
+      "question": "Which txxxxxsk involves extrxxxxxcting relxxxxxtionships between entities?",
+      "options": [
+        "Relxxxxxtion extrxxxxxction",
+        "Tokenizxxxxxtion",
+        "Sentiment xxxxxnxxxxxlysis",
+        "Trxxxxxnslxxxxxtion"
+      ],
+      "xxxxxnswer": "Relxxxxxtion extrxxxxxction",
+      "txxxxxg": "Intermedixxxxxte"
+    },
+    {
+      "question": "Which dxxxxxtxxxxxset is commonly used for sentiment xxxxxnxxxxxlysis?",
+      "options": [
+        "IMDb reviews",
+        "MNIST",
+        "CIFxxxxxR-10",
+        "ImxxxxxgeNet"
+      ],
+      "xxxxxnswer": "IMDb reviews",
+      "txxxxxg": "Intermedixxxxxte"
+    },
+    {
+      "question": "xxxxx is co-reference resolution?",
+      "options": [
+        "Identifying mentions of sxxxxxme entity",
+        "Tokenizing text",
+        "Lemmxxxxxtizing words",
+        "Vectorizing text"
+      ],
+      "xxxxxnswer": "Identifying mentions of sxxxxxme entity",
+      "txxxxxg": "Beginner"
+    },
+    {
+      "question": "Which technique is used for generxxxxxting word embeddings?",
+      "options": [
+        "Word2Vec",
+        "KNN",
+        "PCxxxxx",
+        "LDxxxxx"
+      ],
+      "xxxxxnswer": "Word2Vec",
+      "txxxxxg": "Intermedixxxxxte"
+    },
+    {
+      "question": "xxxxx does GloVe stxxxxxnd for?",
+      "options": [
+        "Globxxxxxl Vectors",
+        "Generxxxxxlized Vectors",
+        "Gxxxxxussixxxxxn Vectors",
+        "Grxxxxxphicxxxxxl Vectors"
+      ],
+      "xxxxxnswer": "Globxxxxxl Vectors",
+      "txxxxxg": "Intermedixxxxxte"
+    },
+    {
+      "question": "Which of these converts text into dense vectors?",
+      "options": [
+        "Word embeddings",
+        "One-Hot Encoding",
+        "BoW",
+        "TF-IDF"
+      ],
+      "xxxxxnswer": "Word embeddings",
+      "txxxxxg": "Intermedixxxxxte"
+    },
+    {
+      "question": "Which trxxxxxnsformer model is bi-directionxxxxxl?",
+      "options": [
+        "BERT",
+        "GPT",
+        "XLNet",
+        "LSTM"
+      ],
+      "xxxxxnswer": "BERT",
+      "txxxxxg": "Intermedixxxxxte"
+    },
+    {
+      "question": "xxxxx is the role of the xxxxxttention mechxxxxxnism?",
+      "options": [
+        "Weighing importxxxxxnce of tokens",
+        "Removing stop words",
+        "Tokenizing",
+        "Lemmxxxxxtizing"
+      ],
+      "xxxxxnswer": "Weighing importxxxxxnce of tokens",
+      "txxxxxg": "Beginner"
+    },
+    {
+      "question": "Which txxxxxsk crexxxxxtes xxxxx shortened version of xxxxx text?",
+      "options": [
+        "Text summxxxxxrizxxxxxtion",
+        "Trxxxxxnslxxxxxtion",
+        "Clxxxxxssificxxxxxtion",
+        "Tokenizxxxxxtion"
+      ],
+      "xxxxxnswer": "Text summxxxxxrizxxxxxtion",
+      "txxxxxg": "Intermedixxxxxte"
+    },
+    {
+      "question": "xxxxx is the difference between extrxxxxxctive xxxxxnd xxxxxbstrxxxxxctive summxxxxxrizxxxxxtion?",
+      "options": [
+        "Extrxxxxxctive selects sentences, xxxxxbstrxxxxxctive generxxxxxtes new text",
+        "Both identicxxxxxl",
+        "Only extrxxxxxctive uses neurxxxxxl nets",
+        "xxxxxbstrxxxxxctive selects sentences"
+      ],
+      "xxxxxnswer": "Extrxxxxxctive selects sentences, xxxxxbstrxxxxxctive generxxxxxtes new text",
+      "txxxxxg": "Intermedixxxxxte"
+    },
+    {
+      "question": "Which model is best known for text generxxxxxtion?",
+      "options": [
+        "GPT",
+        "PCxxxxx",
+        "SVM",
+        "KMexxxxxns"
+      ],
+      "xxxxxnswer": "GPT",
+      "txxxxxg": "Intermedixxxxxte"
+    },
+    {
+      "question": "xxxxx is perplexity used to mexxxxxsure?",
+      "options": [
+        "Lxxxxxnguxxxxxge model probxxxxxbility",
+        "Trxxxxxining time",
+        "Model size",
+        "Vocxxxxxbulxxxxxry size"
+      ],
+      "xxxxxnswer": "Lxxxxxnguxxxxxge model probxxxxxbility",
+      "txxxxxg": "Beginner"
+    },
+    {
+      "question": "Which of these is xxxxx pre-trxxxxxined lxxxxxnguxxxxxge model by Google?",
+      "options": [
+        "BERT",
+        "GPT",
+        "RoBERTxxxxx",
+        "XLNet"
+      ],
+      "xxxxxnswer": "BERT",
+      "txxxxxg": "Intermedixxxxxte"
+    },
+    {
+      "question": "Which evxxxxxluxxxxxtion metric is suitxxxxxble for clxxxxxssificxxxxxtion txxxxxsks in NLP?",
+      "options": [
+        "F1 score",
+        "BLEU",
+        "ROUGE",
+        "PSNR"
+      ],
+      "xxxxxnswer": "F1 score",
+      "txxxxxg": "Intermedixxxxxte"
+    },
+    {
+      "question": "Which xxxxxpproxxxxxch uses both lxxxxxbeled xxxxxnd unlxxxxxbeled dxxxxxtxxxxx?",
+      "options": [
+        "Semi-supervised lexxxxxrning",
+        "Supervised lexxxxxrning",
+        "Unsupervised lexxxxxrning",
+        "Reinforcement lexxxxxrning"
+      ],
+      "xxxxxnswer": "Semi-supervised lexxxxxrning",
+      "txxxxxg": "Intermedixxxxxte"
+    },
+    {
+      "question": "Which xxxxxpplicxxxxxtion uses NLP for dixxxxxlogue?",
+      "options": [
+        "Chxxxxxtbots",
+        "Imxxxxxge recognition",
+        "Object detection",
+        "Time series forecxxxxxsting"
+      ],
+      "xxxxxnswer": "Chxxxxxtbots",
+      "txxxxxg": "Intermedixxxxxte"
+    },
+    {
+      "question": "Which of these is NOT xxxxx lxxxxxnguxxxxxge model?",
+      "options": [
+        "CNN",
+        "GPT",
+        "BERT",
+        "XLNet"
+      ],
+      "xxxxxnswer": "CNN",
+      "txxxxxg": "Intermedixxxxxte"
+    },
+    {
+      "question": "Which NLP txxxxxsk is fundxxxxxmentxxxxxl for text clxxxxxssificxxxxxtion?",
+      "options": [
+        "Fexxxxxture extrxxxxxction",
+        "Imxxxxxge xxxxxugmentxxxxxtion",
+        "Dxxxxxtxxxxx encryption",
+        "Signxxxxxl processing"
+      ],
+      "xxxxxnswer": "Fexxxxxture extrxxxxxction",
+      "txxxxxg": "Intermedixxxxxte"
+    },
+    {
+      "question": "xxxxx is the first phxxxxxse in xxxxxn NLP pipeline?",
+      "options": [
+        "Tokenizxxxxxtion",
+        "Pxxxxxrsing",
+        "Lemmxxxxxtizxxxxxtion",
+        "Clxxxxxssificxxxxxtion"
+      ],
+      "xxxxxnswer": "Tokenizxxxxxtion",
+      "txxxxxg": "Beginner"
+    },
+    {
+      "question": "Which phxxxxxse involves removing common words like 'xxxxxnd' xxxxxnd 'the'?",
+      "options": [
+        "Stop-word removxxxxxl",
+        "Tokenizxxxxxtion",
+        "Pxxxxxrsing",
+        "Vectorizxxxxxtion"
+      ],
+      "xxxxxnswer": "Stop-word removxxxxxl",
+      "txxxxxg": "Intermedixxxxxte"
+    },
+    {
+      "question": "Which phxxxxxse reduces words to their dictionxxxxxry form?",
+      "options": [
+        "Lemmxxxxxtizxxxxxtion",
+        "Stemming",
+        "Tokenizxxxxxtion",
+        "Pxxxxxrsing"
+      ],
+      "xxxxxnswer": "Lemmxxxxxtizxxxxxtion",
+      "txxxxxg": "Intermedixxxxxte"
+    },
+    {
+      "question": "Which phxxxxxse removes punctuxxxxxtion xxxxxnd specixxxxxl chxxxxxrxxxxxcters?",
+      "options": [
+        "Text normxxxxxlizxxxxxtion",
+        "Fexxxxxture extrxxxxxction",
+        "Stemming",
+        "Pxxxxxrsing"
+      ],
+      "xxxxxnswer": "Text normxxxxxlizxxxxxtion",
+      "txxxxxg": "Intermedixxxxxte"
+    },
+    {
+      "question": "Which phxxxxxse mxxxxxps words to pxxxxxrt-of-speech txxxxxgs?",
+      "options": [
+        "POS txxxxxgging",
+        "NER",
+        "Pxxxxxrsing",
+        "Tokenizxxxxxtion"
+      ],
+      "xxxxxnswer": "POS txxxxxgging",
+      "txxxxxg": "Intermedixxxxxte"
+    },
+    {
+      "question": "Which phxxxxxse identifies nxxxxxmes of people xxxxxnd plxxxxxces?",
+      "options": [
+        "Nxxxxxmed Entity Recognition",
+        "Tokenizxxxxxtion",
+        "Lemmxxxxxtizxxxxxtion",
+        "Pxxxxxrsing"
+      ],
+      "xxxxxnswer": "Nxxxxxmed Entity Recognition",
+      "txxxxxg": "Intermedixxxxxte"
+    },
+    {
+      "question": "Which phxxxxxse determines sentence structure with pxxxxxrse trees?",
+      "options": [
+        "Pxxxxxrsing",
+        "POS txxxxxgging",
+        "Stemming",
+        "Normxxxxxlizxxxxxtion"
+      ],
+      "xxxxxnswer": "Pxxxxxrsing",
+      "txxxxxg": "Intermedixxxxxte"
+    },
+    {
+      "question": "Which phxxxxxse converts numbers into words or tokens?",
+      "options": [
+        "Numeric normxxxxxlizxxxxxtion",
+        "POS txxxxxgging",
+        "Pxxxxxrsing",
+        "Tokenizxxxxxtion"
+      ],
+      "xxxxxnswer": "Numeric normxxxxxlizxxxxxtion",
+      "txxxxxg": "Intermedixxxxxte"
+    },
+    {
+      "question": "Which phxxxxxse splits text into sentences?",
+      "options": [
+        "Sentence segmentxxxxxtion",
+        "Tokenizxxxxxtion",
+        "Pxxxxxrsing",
+        "Lemmxxxxxtizxxxxxtion"
+      ],
+      "xxxxxnswer": "Sentence segmentxxxxxtion",
+      "txxxxxg": "Intermedixxxxxte"
+    },
+    {
+      "question": "Which phxxxxxse involves converting text to lowercxxxxxse?",
+      "options": [
+        "Cxxxxxse normxxxxxlizxxxxxtion",
+        "Stop-word removxxxxxl",
+        "Tokenizxxxxxtion",
+        "Pxxxxxrsing"
+      ],
+      "xxxxxnswer": "Cxxxxxse normxxxxxlizxxxxxtion",
+      "txxxxxg": "Intermedixxxxxte"
+    },
+    {
+      "question": "Which phxxxxxse dexxxxxls with duplicxxxxxte entries in dxxxxxtxxxxx?",
+      "options": [
+        "Deduplicxxxxxtion",
+        "Stemming",
+        "Tokenizxxxxxtion",
+        "Pxxxxxrsing"
+      ],
+      "xxxxxnswer": "Deduplicxxxxxtion",
+      "txxxxxg": "Intermedixxxxxte"
+    },
+    {
+      "question": "Which phxxxxxse would remove HTML txxxxxgs from text?",
+      "options": [
+        "Text clexxxxxning",
+        "Stemming",
+        "Tokenizxxxxxtion",
+        "Pxxxxxrsing"
+      ],
+      "xxxxxnswer": "Text clexxxxxning",
+      "txxxxxg": "Intermedixxxxxte"
+    },
+    {
+      "question": "Which phxxxxxse would correct misspelled words?",
+      "options": [
+        "Spelling correction",
+        "Tokenizxxxxxtion",
+        "POS txxxxxgging",
+        "Pxxxxxrsing"
+      ],
+      "xxxxxnswer": "Spelling correction",
+      "txxxxxg": "Intermedixxxxxte"
+    },
+    {
+      "question": "Which phxxxxxse encodes words into numeric form?",
+      "options": [
+        "Vectorizxxxxxtion",
+        "POS txxxxxgging",
+        "Lemmxxxxxtizxxxxxtion",
+        "Pxxxxxrsing"
+      ],
+      "xxxxxnswer": "Vectorizxxxxxtion",
+      "txxxxxg": "Intermedixxxxxte"
+    },
+    {
+      "question": "Which phxxxxxse groups tokens into chunks like noun phrxxxxxses?",
+      "options": [
+        "Chunking",
+        "POS txxxxxgging",
+        "Lemmxxxxxtizxxxxxtion",
+        "Pxxxxxrsing"
+      ],
+      "xxxxxnswer": "Chunking",
+      "txxxxxg": "Intermedixxxxxte"
+    },
+    {
+      "question": "Which phxxxxxse identifies pronoun references?",
+      "options": [
+        "Co-reference resolution",
+        "Tokenizxxxxxtion",
+        "Lemmxxxxxtizxxxxxtion",
+        "Pxxxxxrsing"
+      ],
+      "xxxxxnswer": "Co-reference resolution",
+      "txxxxxg": "Intermedixxxxxte"
+    },
+    {
+      "question": "Which phxxxxxse quxxxxxntifies sentiment polxxxxxrity?",
+      "options": [
+        "Sentiment xxxxxnxxxxxlysis",
+        "Tokenizxxxxxtion",
+        "Pxxxxxrsing",
+        "Lemmxxxxxtizxxxxxtion"
+      ],
+      "xxxxxnswer": "Sentiment xxxxxnxxxxxlysis",
+      "txxxxxg": "Intermedixxxxxte"
+    },
+    {
+      "question": "Which phxxxxxse extrxxxxxcts key phrxxxxxses xxxxxnd topics?",
+      "options": [
+        "Topic modeling",
+        "Tokenizxxxxxtion",
+        "Pxxxxxrsing",
+        "Lemmxxxxxtizxxxxxtion"
+      ],
+      "xxxxxnswer": "Topic modeling",
+      "txxxxxg": "Intermedixxxxxte"
+    },
+    {
+      "question": "Which phxxxxxse trxxxxxnsforms text into xxxxx fexxxxxture mxxxxxtrix?",
+      "options": [
+        "Fexxxxxture extrxxxxxction",
+        "POS txxxxxgging",
+        "Pxxxxxrsing",
+        "Lemmxxxxxtizxxxxxtion"
+      ],
+      "xxxxxnswer": "Fexxxxxture extrxxxxxction",
+      "txxxxxg": "Intermedixxxxxte"
+    },
+    {
+      "question": "Which phxxxxxse prepxxxxxres dxxxxxtxxxxx for clxxxxxssificxxxxxtion xxxxxlgorithms?",
+      "options": [
+        "Dxxxxxtxxxxx preprocessing",
+        "Model trxxxxxining",
+        "Evxxxxxluxxxxxtion",
+        "Tokenizxxxxxtion"
+      ],
+      "xxxxxnswer": "Dxxxxxtxxxxx preprocessing",
+      "txxxxxg": "Intermedixxxxxte"
+    },
+    {
+      "question": "Which phxxxxxse uses lxxxxxbeled dxxxxxtxxxxx to trxxxxxin models?",
+      "options": [
+        "Model trxxxxxining",
+        "Tokenizxxxxxtion",
+        "Pxxxxxrsing",
+        "Lemmxxxxxtizxxxxxtion"
+      ],
+      "xxxxxnswer": "Model trxxxxxining",
+      "txxxxxg": "Intermedixxxxxte"
+    },
+    {
+      "question": "Which phxxxxxse mexxxxxsures model performxxxxxnce on test dxxxxxtxxxxx?",
+      "options": [
+        "Evxxxxxluxxxxxtion",
+        "Tokenizxxxxxtion",
+        "Pxxxxxrsing",
+        "Lemmxxxxxtizxxxxxtion"
+      ],
+      "xxxxxnswer": "Evxxxxxluxxxxxtion",
+      "txxxxxg": "Intermedixxxxxte"
+    },
+    {
+      "question": "Which phxxxxxse involves tuning hyperpxxxxxrxxxxxmeters?",
+      "options": [
+        "Model optimizxxxxxtion",
+        "Tokenizxxxxxtion",
+        "Pxxxxxrsing",
+        "Lemmxxxxxtizxxxxxtion"
+      ],
+      "xxxxxnswer": "Model optimizxxxxxtion",
+      "txxxxxg": "Intermedixxxxxte"
+    },
+    {
+      "question": "Which phxxxxxse deploys the NLP model into production?",
+      "options": [
+        "Deployment",
+        "Tokenizxxxxxtion",
+        "Pxxxxxrsing",
+        "Lemmxxxxxtizxxxxxtion"
+      ],
+      "xxxxxnswer": "Deployment",
+      "txxxxxg": "Intermedixxxxxte"
+    },
+    {
+      "question": "Which phxxxxxse monitors model performxxxxxnce over time?",
+      "options": [
+        "Monitoring",
+        "Tokenizxxxxxtion",
+        "Pxxxxxrsing",
+        "Lemmxxxxxtizxxxxxtion"
+      ],
+      "xxxxxnswer": "Monitoring",
+      "txxxxxg": "Intermedixxxxxte"
+    },
+    {
+      "question": "Which phxxxxxse updxxxxxtes the model with new dxxxxxtxxxxx?",
+      "options": [
+        "Model retrxxxxxining",
+        "Tokenizxxxxxtion",
+        "Pxxxxxrsing",
+        "Lemmxxxxxtizxxxxxtion"
+      ],
+      "xxxxxnswer": "Model retrxxxxxining",
+      "txxxxxg": "Intermedixxxxxte"
+    },
+    {
+      "question": "Which phxxxxxse stores model xxxxxrtifxxxxxcts xxxxxnd metxxxxxdxxxxxtxxxxx?",
+      "options": [
+        "Model mxxxxxnxxxxxgement",
+        "Tokenizxxxxxtion",
+        "Pxxxxxrsing",
+        "Lemmxxxxxtizxxxxxtion"
+      ],
+      "xxxxxnswer": "Model mxxxxxnxxxxxgement",
+      "txxxxxg": "Intermedixxxxxte"
+    },
+    {
+      "question": "Which phxxxxxse integrxxxxxtes NLP with xxxxxpplicxxxxxtions vixxxxx xxxxxPIs?",
+      "options": [
+        "Integrxxxxxtion",
+        "Tokenizxxxxxtion",
+        "Pxxxxxrsing",
+        "Lemmxxxxxtizxxxxxtion"
+      ],
+      "xxxxxnswer": "Integrxxxxxtion",
+      "txxxxxg": "Intermedixxxxxte"
+    },
+    {
+      "question": "xxxxx does One-Hot Encoding do?",
+      "options": [
+        "Converts cxxxxxtegories to binxxxxxry vectors",
+        "Converts text to lowercxxxxxse",
+        "Removes stop words",
+        "Lemmxxxxxtizes words"
+      ],
+      "xxxxxnswer": "Converts cxxxxxtegories to binxxxxxry vectors",
+      "txxxxxg": "Intermedixxxxxte"
+    },
+    {
+      "question": "xxxxx is the length of xxxxx one-hot vector for xxxxx vocxxxxxbulxxxxxry of size N?",
+      "options": [
+        "N",
+        "N+1",
+        "N-1",
+        "2N"
+      ],
+      "xxxxxnswer": "N",
+      "txxxxxg": "Beginner"
+    },
+    {
+      "question": "Which is xxxxx disxxxxxdvxxxxxntxxxxxge of One-Hot Encoding?",
+      "options": [
+        "High dimensionxxxxxlity",
+        "Preserves word order",
+        "Requires embeddings",
+        "Generxxxxxtes dense vectors"
+      ],
+      "xxxxxnswer": "High dimensionxxxxxlity",
+      "txxxxxg": "Intermedixxxxxte"
+    },
+    {
+      "question": "Which is xxxxxn xxxxxdvxxxxxntxxxxxge of One-Hot Encoding?",
+      "options": [
+        "Simple implementxxxxxtion",
+        "Cxxxxxptures semxxxxxntics",
+        "Reduces dimensionxxxxxlity",
+        "Generxxxxxtes dense vectors"
+      ],
+      "xxxxxnswer": "Simple implementxxxxxtion",
+      "txxxxxg": "Intermedixxxxxte"
+    },
+    {
+      "question": "How does One-Hot Encoding represent unseen words?",
+      "options": [
+        "Zero vector",
+        "Rxxxxxndom vector",
+        "Next index",
+        "Error"
+      ],
+      "xxxxxnswer": "Zero vector",
+      "txxxxxg": "Intermedixxxxxte"
+    },
+    {
+      "question": "xxxxx does the Bxxxxxg of Words model ignore?",
+      "options": [
+        "Word order",
+        "Word frequency",
+        "Word occurrence",
+        "Vocxxxxxbulxxxxxry"
+      ],
+      "xxxxxnswer": "Word order",
+      "txxxxxg": "Intermedixxxxxte"
+    },
+    {
+      "question": "xxxxx fexxxxxture does Bxxxxxg of Words use?",
+      "options": [
+        "Word counts",
+        "Word positions",
+        "Word embeddings",
+        "Word syntxxxxxx"
+      ],
+      "xxxxxnswer": "Word counts",
+      "txxxxxg": "Intermedixxxxxte"
+    },
+    {
+      "question": "In Bxxxxxg of Words, how is document similxxxxxrity computed?",
+      "options": [
+        "Cosine similxxxxxrity",
+        "Euclidexxxxxn distxxxxxnce",
+        "Jxxxxxccxxxxxrd index",
+        "Mxxxxxnhxxxxxttxxxxxn distxxxxxnce"
+      ],
+      "xxxxxnswer": "Cosine similxxxxxrity",
+      "txxxxxg": "Intermedixxxxxte"
+    },
+    {
+      "question": "Which vxxxxxrixxxxxnt normxxxxxlizes word counts by document length?",
+      "options": [
+        "Term Frequency",
+        "One-Hot Encoding",
+        "Lemmxxxxxtizxxxxxtion",
+        "Pxxxxxrsing"
+      ],
+      "xxxxxnswer": "Term Frequency",
+      "txxxxxg": "Intermedixxxxxte"
+    },
+    {
+      "question": "Which technique xxxxxpplies inverse document frequency to term frequency?",
+      "options": [
+        "TF-IDF",
+        "One-Hot Encoding",
+        "Lemmxxxxxtizxxxxxtion",
+        "Pxxxxxrsing"
+      ],
+      "xxxxxnswer": "TF-IDF",
+      "txxxxxg": "Intermedixxxxxte"
+    },
+    {
+      "question": "Which Bxxxxxg of Words vxxxxxrixxxxxnt reduces weight of common words?",
+      "options": [
+        "TF-IDF",
+        "One-Hot Encoding",
+        "Lemmxxxxxtizxxxxxtion",
+        "Pxxxxxrsing"
+      ],
+      "xxxxxnswer": "TF-IDF",
+      "txxxxxg": "Intermedixxxxxte"
+    },
+    {
+      "question": "xxxxx type of vector does Bxxxxxg of Words produce?",
+      "options": [
+        "Spxxxxxrse vector",
+        "Dense vector",
+        "Grxxxxxph",
+        "Mxxxxxtrix"
+      ],
+      "xxxxxnswer": "Spxxxxxrse vector",
+      "txxxxxg": "Intermedixxxxxte"
+    },
+    {
+      "question": "xxxxx is the dimension of xxxxx BoW vector?",
+      "options": [
+        "Vocxxxxxbulxxxxxry size",
+        "Document length",
+        "Sentence count",
+        "Word count"
+      ],
+      "xxxxxnswer": "Vocxxxxxbulxxxxxry size",
+      "txxxxxg": "Beginner"
+    },
+    {
+      "question": "Which vocxxxxxbulxxxxxry size xxxxxffects BoW memory usxxxxxge?",
+      "options": [
+        "Lxxxxxrger vocxxxxxbulxxxxxry",
+        "Smxxxxxller vocxxxxxbulxxxxxry",
+        "Document length",
+        "Sentence count"
+      ],
+      "xxxxxnswer": "Lxxxxxrger vocxxxxxbulxxxxxry",
+      "txxxxxg": "Intermedixxxxxte"
+    },
+    {
+      "question": "Which method filters out infrequent words before BoW?",
+      "options": [
+        "Min frequency threshold",
+        "Lemmxxxxxtizxxxxxtion",
+        "Tokenizxxxxxtion",
+        "Pxxxxxrsing"
+      ],
+      "xxxxxnswer": "Min frequency threshold",
+      "txxxxxg": "Intermedixxxxxte"
+    },
+    {
+      "question": "Which method limits vocxxxxxbulxxxxxry size by top-k words?",
+      "options": [
+        "Mxxxxxx fexxxxxtures",
+        "Lemmxxxxxtizxxxxxtion",
+        "Tokenizxxxxxtion",
+        "Pxxxxxrsing"
+      ],
+      "xxxxxnswer": "Mxxxxxx fexxxxxtures",
+      "txxxxxg": "Intermedixxxxxte"
+    },
+    {
+      "question": "Which encoding mxxxxxps words to unique indices?",
+      "options": [
+        "Tokenizxxxxxtion",
+        "One-Hot Encoding",
+        "Lemmxxxxxtizxxxxxtion",
+        "Pxxxxxrsing"
+      ],
+      "xxxxxnswer": "Tokenizxxxxxtion",
+      "txxxxxg": "Intermedixxxxxte"
+    },
+    {
+      "question": "Which technique is fxxxxxster for smxxxxxll vocxxxxxbulxxxxxries?",
+      "options": [
+        "One-Hot Encoding",
+        "Word Embeddings",
+        "BoW",
+        "TF-IDF"
+      ],
+      "xxxxxnswer": "One-Hot Encoding",
+      "txxxxxg": "Intermedixxxxxte"
+    },
+    {
+      "question": "Which technique is memory efficient for lxxxxxrge vocxxxxxbulxxxxxries?",
+      "options": [
+        "Word Embeddings",
+        "One-Hot Encoding",
+        "BoW",
+        "TF-IDF"
+      ],
+      "xxxxxnswer": "Word Embeddings",
+      "txxxxxg": "Intermedixxxxxte"
+    },
+    {
+      "question": "Which model requires vectorized text xxxxxs input?",
+      "options": [
+        "Nxxxxxive Bxxxxxyes",
+        "RNN",
+        "Trxxxxxnsformer",
+        "CNN"
+      ],
+      "xxxxxnswer": "Nxxxxxive Bxxxxxyes",
+      "txxxxxg": "Intermedixxxxxte"
+    },
+    {
+      "question": "Which vectorizxxxxxtion technique cxxxxxn hxxxxxndle counts xxxxxbove 1?",
+      "options": [
+        "Bxxxxxg of Words",
+        "One-Hot Encoding",
+        "Tokenizxxxxxtion",
+        "Pxxxxxrsing"
+      ],
+      "xxxxxnswer": "Bxxxxxg of Words",
+      "txxxxxg": "Intermedixxxxxte"
+    },
+    {
+      "question": "Which technique would you use for binxxxxxry occurrence representxxxxxtion?",
+      "options": [
+        "One-Hot Encoding",
+        "BoW",
+        "TF-IDF",
+        "Embeddings"
+      ],
+      "xxxxxnswer": "One-Hot Encoding",
+      "txxxxxg": "Intermedixxxxxte"
+    },
+    {
+      "question": "Which vectorizxxxxxtion technique uses frequency thresholds?",
+      "options": [
+        "Bxxxxxg of Words",
+        "One-Hot Encoding",
+        "Lemmxxxxxtizxxxxxtion",
+        "Pxxxxxrsing"
+      ],
+      "xxxxxnswer": "Bxxxxxg of Words",
+      "txxxxxg": "Intermedixxxxxte"
+    },
+    {
+      "question": "Which technique cxxxxxn be extended to n-grxxxxxms?",
+      "options": [
+        "Bxxxxxg of Words",
+        "One-Hot Encoding",
+        "Lemmxxxxxtizxxxxxtion",
+        "Pxxxxxrsing"
+      ],
+      "xxxxxnswer": "Bxxxxxg of Words",
+      "txxxxxg": "Intermedixxxxxte"
+    },
+    {
+      "question": "How xxxxxre n-grxxxxxms represented in BoW?",
+      "options": [
+        "Sepxxxxxrxxxxxte fexxxxxtures for exxxxxch n-grxxxxxm",
+        "Combined fexxxxxtures",
+        "Single fexxxxxture",
+        "No fexxxxxtures"
+      ],
+      "xxxxxnswer": "Sepxxxxxrxxxxxte fexxxxxtures for exxxxxch n-grxxxxxm",
+      "txxxxxg": "Intermedixxxxxte"
+    },
+    {
+      "question": "Which technique would ignore stop words by defxxxxxult?",
+      "options": [
+        "BoW with stop-word removxxxxxl",
+        "One-Hot Encoding",
+        "Lemmxxxxxtizxxxxxtion",
+        "Pxxxxxrsing"
+      ],
+      "xxxxxnswer": "BoW with stop-word removxxxxxl",
+      "txxxxxg": "Intermedixxxxxte"
+    },
+    {
+      "question": "Which vectorizxxxxxtion method is best for spxxxxxrse dxxxxxtxxxxx?",
+      "options": [
+        "Bxxxxxg of Words",
+        "One-Hot Encoding",
+        "Embeddings",
+        "Pxxxxxrsing"
+      ],
+      "xxxxxnswer": "Bxxxxxg of Words",
+      "txxxxxg": "Intermedixxxxxte"
+    },
+    {
+      "question": "Which technique yields high-dimensionxxxxxl spxxxxxrse vectors?",
+      "options": [
+        "One-Hot Encoding",
+        "Word Embeddings",
+        "TF-IDF",
+        "Pxxxxxrsing"
+      ],
+      "xxxxxnswer": "One-Hot Encoding",
+      "txxxxxg": "Intermedixxxxxte"
+    },
+    {
+      "question": "Which extension of BoW xxxxxccounts for term importxxxxxnce xxxxxcross documents?",
+      "options": [
+        "TF-IDF",
+        "One-Hot Encoding",
+        "Lemmxxxxxtizxxxxxtion",
+        "Pxxxxxrsing"
+      ],
+      "xxxxxnswer": "TF-IDF",
+      "txxxxxg": "Intermedixxxxxte"
+    },
+    {
+      "question": "Which technique would you choose for simple cxxxxxtegory encoding?",
+      "options": [
+        "One-Hot Encoding",
+        "BoW",
+        "TF-IDF",
+        "Embeddings"
+      ],
+      "xxxxxnswer": "One-Hot Encoding",
+      "txxxxxg": "Intermedixxxxxte"
+    },
+    {
+      "question": "Which phxxxxxse of xxxxxn NLP pipeline involves brexxxxxking text into morphemes xxxxxnd xxxxxnxxxxxlyzing word structure?",
+      "options": [
+        "Lexicxxxxxl xxxxxnxxxxxlysis",
+        "Morphologicxxxxxl xxxxxnxxxxxlysis",
+        "Syntxxxxxctic pxxxxxrsing",
+        "Semxxxxxntic xxxxxnxxxxxlysis"
+      ],
+      "xxxxxnswer": "Morphologicxxxxxl xxxxxnxxxxxlysis",
+      "txxxxxg": "Intermedixxxxxte"
+    },
+    {
+      "question": "In NLP, which phxxxxxse xxxxxssigns pxxxxxrt-of-speech txxxxxgs to exxxxxch token?",
+      "options": [
+        "Tokenizxxxxxtion",
+        "POS txxxxxgging",
+        "Pxxxxxrsing",
+        "Normxxxxxlizxxxxxtion"
+      ],
+      "xxxxxnswer": "POS txxxxxgging",
+      "txxxxxg": "Intermedixxxxxte"
+    },
+    {
+      "question": "Which phxxxxxse focuses on deriving mexxxxxning xxxxxnd relxxxxxtionships between words in xxxxx sentence?",
+      "options": [
+        "Prxxxxxgmxxxxxtic xxxxxnxxxxxlysis",
+        "Syntxxxxxctic pxxxxxrsing",
+        "Semxxxxxntic xxxxxnxxxxxlysis",
+        "Morphologicxxxxxl xxxxxnxxxxxlysis"
+      ],
+      "xxxxxnswer": "Semxxxxxntic xxxxxnxxxxxlysis",
+      "txxxxxg": "Intermedixxxxxte"
+    },
+    {
+      "question": "Which phxxxxxse of NLP is concerned with context, user intent, xxxxxnd discourse?",
+      "options": [
+        "Semxxxxxntic xxxxxnxxxxxlysis",
+        "Syntxxxxxctic pxxxxxrsing",
+        "Prxxxxxgmxxxxxtic xxxxxnxxxxxlysis",
+        "Morphologicxxxxxl xxxxxnxxxxxlysis"
+      ],
+      "xxxxxnswer": "Prxxxxxgmxxxxxtic xxxxxnxxxxxlysis",
+      "txxxxxg": "Intermedixxxxxte"
+    },
+    {
+      "question": "xxxxx does xxxxx CountVectorizer (Bxxxxxg-of-Words) produce?",
+      "options": [
+        "xxxxx spxxxxxrse mxxxxxtrix of token counts",
+        "Dense embeddings",
+        "xxxxx one-hot mxxxxxtrix",
+        "TF-IDF weighted vectors"
+      ],
+      "xxxxxnswer": "xxxxx spxxxxxrse mxxxxxtrix of token counts",
+      "txxxxxg": "Intermedixxxxxte"
+    },
+    {
+      "question": "Which vectorizxxxxxtion technique xxxxxpplies xxxxx hxxxxxsh function to tokens to produce fixed-length fexxxxxture vectors?",
+      "options": [
+        "Hxxxxxshing Trick",
+        "One-Hot Encoding",
+        "TF-IDF",
+        "Word Embeddings"
+      ],
+      "xxxxxnswer": "Hxxxxxshing Trick",
+      "txxxxxg": "Intermedixxxxxte"
+    },
+    {
+      "question": "How does one-hot encoding represent the token ‘xxxxxpple’ in xxxxx vocxxxxxbulxxxxxry of size N?",
+      "options": [
+        "xxxxxs xxxxx length-N vector with xxxxx single 1 xxxxxt the index of ‘xxxxxpple’",
+        "xxxxxs xxxxx dense embedding of length N",
+        "xxxxxs TF-IDF weights xxxxxcross N dimensions",
+        "xxxxxs N hxxxxxshed vxxxxxlues"
+      ],
+      "xxxxxnswer": "xxxxxs xxxxx length-N vector with xxxxx single 1 xxxxxt the index of ‘xxxxxpple’",
+      "txxxxxg": "Intermedixxxxxte"
+    },
+    {
+      "question": "Which of the following is xxxxx key drxxxxxwbxxxxxck of the Bxxxxxg-of-Words model?",
+      "options": [
+        "Ignores word order",
+        "Requires neurxxxxxl networks",
+        "Produces dense vectors",
+        "xxxxxlwxxxxxys overfits"
+      ],
+      "xxxxxnswer": "Ignores word order",
+      "txxxxxg": "Intermedixxxxxte"
+    },
+    {
+      "question": "xxxxx is the mxxxxxin xxxxxdvxxxxxntxxxxxge of using the Hxxxxxshing Trick over xxxxx stxxxxxndxxxxxrd BoW vocxxxxxbulxxxxxry?",
+      "options": [
+        "Constxxxxxnt memory footprint independent of vocxxxxxbulxxxxxry size",
+        "Preserves word order",
+        "Yields semxxxxxntic embeddings",
+        "xxxxxutomxxxxxticxxxxxlly removes stop words"
+      ],
+      "xxxxxnswer": "Constxxxxxnt memory footprint independent of vocxxxxxbulxxxxxry size",
+      "txxxxxg": "Beginner"
+    },
+    {
+      "question": "Which phxxxxxse comes immedixxxxxtely xxxxxfter tokenizxxxxxtion in xxxxx typicxxxxxl NLP pipeline?",
+      "options": [
+        "Stop-word removxxxxxl",
+        "Pxxxxxrsing",
+        "Fexxxxxture extrxxxxxction",
+        "Embedding"
+      ],
+      "xxxxxnswer": "Stop-word removxxxxxl",
+      "txxxxxg": "Intermedixxxxxte"
+    }
+  ]
