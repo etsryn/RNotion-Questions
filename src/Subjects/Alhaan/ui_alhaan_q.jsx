@@ -19,6 +19,18 @@ questions.forEach((question) => {
 });
 
 const Quiz = ({ participantName }) => {
+  const [validuser, setvaliduser] = useState(null);
+    useEffect(() => {
+      let flag = true;
+      while(flag) {
+        const name = prompt("Enter Secret-Code ID");
+        if(name) {
+          setvaliduser(name);
+          flag = false;
+        }
+      }
+    }, []);
+
   const [idx, setIdx] = useState(0);
   const [sel, setSel] = useState("");
   const [score, setScore] = useState(0);
