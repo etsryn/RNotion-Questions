@@ -9,7 +9,7 @@ import useWindowSize from "../../../utility/useWindowSize";
 import styles from "./ui_alhaan_q.module.css";
 import { GraduationCap } from "lucide-react";
 import signatureImage from "../../../../public/signature.png";
-import allQuestions from "../../../questions/Alhaan/alhaan.json";
+import allQuestions from "../../questions/Alhaan/alhaan.json";
 
 // Shuffle and pick 50 questions
 const questions = allQuestions.sort(() => Math.random() - 0.5).slice(0, 50);
