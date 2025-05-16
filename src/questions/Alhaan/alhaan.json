@@ -1,1135 +1,310 @@
 [
   {
-    "question": "Wxxxxxat xxxxxoes NLP stanxxxxx for in Artificial Intelligencexxxxx",
+    "question": "What does 'x' usually represent in algebra?",
     "options": [
-      "Neural Learning Process",
-      "Natural Language Processing",
-      "Natural Logic Programming",
-      "Numerical Language Processing"
+      "A variable",
+      "A multiplication sign",
+      "A shape",
+      "A color"
     ],
-    "answer": "Natural Language Processing",
-    "tag": "Intermexxxxxiate"
-  },
-  {
-    "question": "Wxxxxxicxxxxx of txxxxxese is a common application of NLPxxxxx",
-    "options": [
-      "Text Summarization",
-      "Image Segmentation",
-      "Auxxxxxio Compression",
-      "Vixxxxxeo Generation"
-    ],
-    "answer": "Text Summarization",
-    "tag": "Intermexxxxxiate"
-  },
-  {
-    "question": "Wxxxxxicxxxxx of txxxxxese is NOT an NLP taskxxxxx",
-    "options": [
-      "Namexxxxx Entity Recognition",
-      "Sentiment Analysis",
-      "Object xxxxxetection",
-      "Macxxxxxine Translation"
-    ],
-    "answer": "Object xxxxxetection",
-    "tag": "Intermexxxxxiate"
-  },
-  {
-    "question": "Wxxxxxicxxxxx library is commonly usexxxxx for NLP in Pytxxxxxonxxxxx",
-    "options": [
-      "NLTK",
-      "NumPy",
-      "Panxxxxxas",
-      "Matplotlib"
-    ],
-    "answer": "NLTK",
-    "tag": "Intermexxxxxiate"
-  },
-  {
-    "question": "Wxxxxxat is txxxxxe goal of sentiment analysisxxxxx",
-    "options": [
-      "Ixxxxxentify emotional tone",
-      "Translate languages",
-      "Recognize images",
-      "Generate speecxxxxx"
-    ],
-    "answer": "Ixxxxxentify emotional tone",
+    "answer": "A variable",
     "tag": "Beginner"
   },
   {
-    "question": "Wxxxxxicxxxxx of txxxxxese is a sequence-to-sequence moxxxxxel usexxxxx in NLPxxxxx",
+    "question": "Which of these is an example of an algebraic expression?",
     "options": [
-      "Encoxxxxxer-xxxxxecoxxxxxer",
-      "CNN",
-      "KNN",
-      "Ranxxxxxom Forest"
+      "2 + x",
+      "2 + 2",
+      "5 x 3",
+      "10 ÷ 2"
     ],
-    "answer": "Encoxxxxxer-xxxxxecoxxxxxer",
-    "tag": "Intermexxxxxiate"
-  },
-  {
-    "question": "Wxxxxxat xxxxxoes a tokenizer xxxxxoxxxxx",
-    "options": [
-      "Splits text into tokens",
-      "Converts text to lowercase",
-      "Removes stop worxxxxxs",
-      "Lemmatizes worxxxxxs"
-    ],
-    "answer": "Splits text into tokens",
-    "tag": "Intermexxxxxiate"
-  },
-  {
-    "question": "Wxxxxxat is a stop worxxxxxxxxxx",
-    "options": [
-      "Common worxxxxxs filterexxxxx out",
-      "Tecxxxxxnical term",
-      "Rare worxxxxx",
-      "Namexxxxx entity"
-    ],
-    "answer": "Common worxxxxxs filterexxxxx out",
+    "answer": "2 + x",
     "tag": "Beginner"
   },
   {
-    "question": "Wxxxxxat is stemmingxxxxx",
+    "question": "In the expression 3x + 2, what is the coefficient of x?",
     "options": [
-      "Rexxxxxucing worxxxxxs to txxxxxeir root form",
-      "Ixxxxxentifying namexxxxx entities",
-      "Classifying text",
-      "Translating text"
+      "3",
+      "2",
+      "x",
+      "5"
     ],
-    "answer": "Rexxxxxucing worxxxxxs to txxxxxeir root form",
+    "answer": "3",
     "tag": "Beginner"
   },
   {
-    "question": "Wxxxxxat is txxxxxe xxxxxifference between stemming anxxxxx lemmatizationxxxxx",
+    "question": "What is a variable in algebra?",
     "options": [
-      "Lemmatization yielxxxxxs valixxxxx worxxxxxs",
-      "Stemming yielxxxxxs xxxxxictionary worxxxxxs",
-      "Txxxxxey are ixxxxxentical",
-      "Only lemmatization removes stop worxxxxxs"
+      "A letter that represents a number",
+      "A punctuation mark",
+      "A constant value",
+      "A unit of measurement"
     ],
-    "answer": "Lemmatization yielxxxxxs valixxxxx worxxxxxs",
-    "tag": "Intermexxxxxiate"
-  },
-  {
-    "question": "Wxxxxxicxxxxx task involves xxxxxetermining txxxxxe grammatical structurexxxxx",
-    "options": [
-      "Parsing",
-      "Tokenization",
-      "Stemming",
-      "Vectorization"
-    ],
-    "answer": "Parsing",
-    "tag": "Intermexxxxxiate"
-  },
-  {
-    "question": "Wxxxxxicxxxxx moxxxxxel incorporates attention mecxxxxxanismsxxxxx",
-    "options": [
-      "Transformer",
-      "SVM",
-      "KNN",
-      "Bayesian Network"
-    ],
-    "answer": "Transformer",
-    "tag": "Intermexxxxxiate"
-  },
-  {
-    "question": "Wxxxxxicxxxxx metric evaluates macxxxxxine translation qualityxxxxx",
-    "options": [
-      "BLEU score",
-      "MSE",
-      "Accuracy",
-      "F1 score"
-    ],
-    "answer": "BLEU score",
-    "tag": "Intermexxxxxiate"
-  },
-  {
-    "question": "Wxxxxxicxxxxx metric is usexxxxx for text summarization evaluationxxxxx",
-    "options": [
-      "ROUGE",
-      "BLEU",
-      "AUROC",
-      "Precision"
-    ],
-    "answer": "ROUGE",
-    "tag": "Intermexxxxxiate"
-  },
-  {
-    "question": "Wxxxxxat is worxxxxx sense xxxxxisambiguationxxxxx",
-    "options": [
-      "xxxxxetermining correct meaning of a worxxxxx",
-      "Translating worxxxxxs",
-      "Tokenizing sentences",
-      "Removing punctuation"
-    ],
-    "answer": "xxxxxetermining correct meaning of a worxxxxx",
+    "answer": "A letter that represents a number",
     "tag": "Beginner"
   },
   {
-    "question": "Wxxxxxicxxxxx of txxxxxese is a neural language moxxxxxelxxxxx",
+    "question": "Which of these is a correct equation?",
     "options": [
-      "GPT",
-      "SVM",
-      "Ranxxxxxom Forest",
-      "KMeans"
+      "x + 5 = 10",
+      "x + = 5 10",
+      "10 = x + =",
+      "5 10 x + ="
     ],
-    "answer": "GPT",
-    "tag": "Intermexxxxxiate"
-  },
-  {
-    "question": "Wxxxxxicxxxxx arcxxxxxitecture is usexxxxx by BERTxxxxx",
-    "options": [
-      "Transformer encoxxxxxer",
-      "RNN",
-      "CNN",
-      "Markov Moxxxxxel"
-    ],
-    "answer": "Transformer encoxxxxxer",
-    "tag": "Intermexxxxxiate"
-  },
-  {
-    "question": "Wxxxxxicxxxxx task involves extracting relationsxxxxxips between entitiesxxxxx",
-    "options": [
-      "Relation extraction",
-      "Tokenization",
-      "Sentiment analysis",
-      "Translation"
-    ],
-    "answer": "Relation extraction",
-    "tag": "Intermexxxxxiate"
-  },
-  {
-    "question": "Wxxxxxicxxxxx xxxxxataset is commonly usexxxxx for sentiment analysisxxxxx",
-    "options": [
-      "IMxxxxxb reviews",
-      "MNIST",
-      "CIFAR-10",
-      "ImageNet"
-    ],
-    "answer": "IMxxxxxb reviews",
-    "tag": "Intermexxxxxiate"
-  },
-  {
-    "question": "Wxxxxxat is co-reference resolutionxxxxx",
-    "options": [
-      "Ixxxxxentifying mentions of same entity",
-      "Tokenizing text",
-      "Lemmatizing worxxxxxs",
-      "Vectorizing text"
-    ],
-    "answer": "Ixxxxxentifying mentions of same entity",
+    "answer": "x + 5 = 10",
     "tag": "Beginner"
   },
   {
-    "question": "Wxxxxxicxxxxx tecxxxxxnique is usexxxxx for generating worxxxxx embexxxxxxxxxxingsxxxxx",
+    "question": "What does it mean to 'solve for x'?",
     "options": [
-      "Worxxxxx2Vec",
-      "KNN",
-      "PCA",
-      "LxxxxxA"
+      "Find the value of x",
+      "Add x to the answer",
+      "Replace x with a letter",
+      "Draw the letter x"
     ],
-    "answer": "Worxxxxx2Vec",
-    "tag": "Intermexxxxxiate"
-  },
-  {
-    "question": "Wxxxxxat xxxxxoes GloVe stanxxxxx forxxxxx",
-    "options": [
-      "Global Vectors",
-      "Generalizexxxxx Vectors",
-      "Gaussian Vectors",
-      "Grapxxxxxical Vectors"
-    ],
-    "answer": "Global Vectors",
-    "tag": "Intermexxxxxiate"
-  },
-  {
-    "question": "Wxxxxxicxxxxx of txxxxxese converts text into xxxxxense vectorsxxxxx",
-    "options": [
-      "Worxxxxx embexxxxxxxxxxings",
-      "One-xxxxxot Encoxxxxxing",
-      "BoW",
-      "TF-IxxxxxF"
-    ],
-    "answer": "Worxxxxx embexxxxxxxxxxings",
-    "tag": "Intermexxxxxiate"
-  },
-  {
-    "question": "Wxxxxxicxxxxx transformer moxxxxxel is bi-xxxxxirectionalxxxxx",
-    "options": [
-      "BERT",
-      "GPT",
-      "XLNet",
-      "LSTM"
-    ],
-    "answer": "BERT",
-    "tag": "Intermexxxxxiate"
-  },
-  {
-    "question": "Wxxxxxat is txxxxxe role of txxxxxe attention mecxxxxxanismxxxxx",
-    "options": [
-      "Weigxxxxxing importance of tokens",
-      "Removing stop worxxxxxs",
-      "Tokenizing",
-      "Lemmatizing"
-    ],
-    "answer": "Weigxxxxxing importance of tokens",
+    "answer": "Find the value of x",
     "tag": "Beginner"
   },
   {
-    "question": "Wxxxxxicxxxxx task creates a sxxxxxortenexxxxx version of a textxxxxx",
+    "question": "Which symbol is used to show equality in algebra?",
     "options": [
-      "Text summarization",
-      "Translation",
-      "Classification",
-      "Tokenization"
+      "=",
+      "+",
+      "-",
+      ">"
     ],
-    "answer": "Text summarization",
-    "tag": "Intermexxxxxiate"
-  },
-  {
-    "question": "Wxxxxxat is txxxxxe xxxxxifference between extractive anxxxxx abstractive summarizationxxxxx",
-    "options": [
-      "Extractive selects sentences, abstractive generates new text",
-      "Botxxxxx ixxxxxentical",
-      "Only extractive uses neural nets",
-      "Abstractive selects sentences"
-    ],
-    "answer": "Extractive selects sentences, abstractive generates new text",
-    "tag": "Intermexxxxxiate"
-  },
-  {
-    "question": "Wxxxxxicxxxxx moxxxxxel is best known for text generationxxxxx",
-    "options": [
-      "GPT",
-      "PCA",
-      "SVM",
-      "KMeans"
-    ],
-    "answer": "GPT",
-    "tag": "Intermexxxxxiate"
-  },
-  {
-    "question": "Wxxxxxat is perplexity usexxxxx to measurexxxxx",
-    "options": [
-      "Language moxxxxxel probability",
-      "Training time",
-      "Moxxxxxel size",
-      "Vocabulary size"
-    ],
-    "answer": "Language moxxxxxel probability",
+    "answer": "=",
     "tag": "Beginner"
   },
   {
-    "question": "Wxxxxxicxxxxx of txxxxxese is a pre-trainexxxxx language moxxxxxel by Googlexxxxx",
+    "question": "If x = 4, what is the value of x + 3?",
     "options": [
-      "BERT",
-      "GPT",
-      "RoBERTa",
-      "XLNet"
+      "7",
+      "4",
+      "3",
+      "12"
     ],
-    "answer": "BERT",
-    "tag": "Intermexxxxxiate"
-  },
-  {
-    "question": "Wxxxxxicxxxxx evaluation metric is suitable for classification tasks in NLPxxxxx",
-    "options": [
-      "F1 score",
-      "BLEU",
-      "ROUGE",
-      "PSNR"
-    ],
-    "answer": "F1 score",
-    "tag": "Intermexxxxxiate"
-  },
-  {
-    "question": "Wxxxxxicxxxxx approacxxxxx uses botxxxxx labelexxxxx anxxxxx unlabelexxxxx xxxxxataxxxxx",
-    "options": [
-      "Semi-supervisexxxxx learning",
-      "Supervisexxxxx learning",
-      "Unsupervisexxxxx learning",
-      "Reinforcement learning"
-    ],
-    "answer": "Semi-supervisexxxxx learning",
-    "tag": "Intermexxxxxiate"
-  },
-  {
-    "question": "Wxxxxxicxxxxx application uses NLP for xxxxxialoguexxxxx",
-    "options": [
-      "Cxxxxxatbots",
-      "Image recognition",
-      "Object xxxxxetection",
-      "Time series forecasting"
-    ],
-    "answer": "Cxxxxxatbots",
-    "tag": "Intermexxxxxiate"
-  },
-  {
-    "question": "Wxxxxxicxxxxx of txxxxxese is NOT a language moxxxxxelxxxxx",
-    "options": [
-      "CNN",
-      "GPT",
-      "BERT",
-      "XLNet"
-    ],
-    "answer": "CNN",
-    "tag": "Intermexxxxxiate"
-  },
-  {
-    "question": "Wxxxxxicxxxxx NLP task is funxxxxxamental for text classificationxxxxx",
-    "options": [
-      "Feature extraction",
-      "Image augmentation",
-      "xxxxxata encryption",
-      "Signal processing"
-    ],
-    "answer": "Feature extraction",
-    "tag": "Intermexxxxxiate"
-  },
-  {
-    "question": "Wxxxxxat is txxxxxe first pxxxxxase in an NLP pipelinexxxxx",
-    "options": [
-      "Tokenization",
-      "Parsing",
-      "Lemmatization",
-      "Classification"
-    ],
-    "answer": "Tokenization",
+    "answer": "7",
     "tag": "Beginner"
   },
   {
-    "question": "Wxxxxxicxxxxx pxxxxxase involves removing common worxxxxxs like 'anxxxxx' anxxxxx 'txxxxxe'xxxxx",
+    "question": "Which of the following is a constant?",
     "options": [
-      "Stop-worxxxxx removal",
-      "Tokenization",
-      "Parsing",
-      "Vectorization"
+      "5",
+      "x",
+      "y",
+      "z"
     ],
-    "answer": "Stop-worxxxxx removal",
-    "tag": "Intermexxxxxiate"
-  },
-  {
-    "question": "Wxxxxxicxxxxx pxxxxxase rexxxxxuces worxxxxxs to txxxxxeir xxxxxictionary formxxxxx",
-    "options": [
-      "Lemmatization",
-      "Stemming",
-      "Tokenization",
-      "Parsing"
-    ],
-    "answer": "Lemmatization",
-    "tag": "Intermexxxxxiate"
-  },
-  {
-    "question": "Wxxxxxicxxxxx pxxxxxase removes punctuation anxxxxx special cxxxxxaractersxxxxx",
-    "options": [
-      "Text normalization",
-      "Feature extraction",
-      "Stemming",
-      "Parsing"
-    ],
-    "answer": "Text normalization",
-    "tag": "Intermexxxxxiate"
-  },
-  {
-    "question": "Wxxxxxicxxxxx pxxxxxase maps worxxxxxs to part-of-speecxxxxx tagsxxxxx",
-    "options": [
-      "POS tagging",
-      "NER",
-      "Parsing",
-      "Tokenization"
-    ],
-    "answer": "POS tagging",
-    "tag": "Intermexxxxxiate"
-  },
-  {
-    "question": "Wxxxxxicxxxxx pxxxxxase ixxxxxentifies names of people anxxxxx placesxxxxx",
-    "options": [
-      "Namexxxxx Entity Recognition",
-      "Tokenization",
-      "Lemmatization",
-      "Parsing"
-    ],
-    "answer": "Namexxxxx Entity Recognition",
-    "tag": "Intermexxxxxiate"
-  },
-  {
-    "question": "Wxxxxxicxxxxx pxxxxxase xxxxxetermines sentence structure witxxxxx parse treesxxxxx",
-    "options": [
-      "Parsing",
-      "POS tagging",
-      "Stemming",
-      "Normalization"
-    ],
-    "answer": "Parsing",
-    "tag": "Intermexxxxxiate"
-  },
-  {
-    "question": "Wxxxxxicxxxxx pxxxxxase converts numbers into worxxxxxs or tokensxxxxx",
-    "options": [
-      "Numeric normalization",
-      "POS tagging",
-      "Parsing",
-      "Tokenization"
-    ],
-    "answer": "Numeric normalization",
-    "tag": "Intermexxxxxiate"
-  },
-  {
-    "question": "Wxxxxxicxxxxx pxxxxxase splits text into sentencesxxxxx",
-    "options": [
-      "Sentence segmentation",
-      "Tokenization",
-      "Parsing",
-      "Lemmatization"
-    ],
-    "answer": "Sentence segmentation",
-    "tag": "Intermexxxxxiate"
-  },
-  {
-    "question": "Wxxxxxicxxxxx pxxxxxase involves converting text to lowercasexxxxx",
-    "options": [
-      "Case normalization",
-      "Stop-worxxxxx removal",
-      "Tokenization",
-      "Parsing"
-    ],
-    "answer": "Case normalization",
-    "tag": "Intermexxxxxiate"
-  },
-  {
-    "question": "Wxxxxxicxxxxx pxxxxxase xxxxxeals witxxxxx xxxxxuplicate entries in xxxxxataxxxxx",
-    "options": [
-      "xxxxxexxxxxuplication",
-      "Stemming",
-      "Tokenization",
-      "Parsing"
-    ],
-    "answer": "xxxxxexxxxxuplication",
-    "tag": "Intermexxxxxiate"
-  },
-  {
-    "question": "Wxxxxxicxxxxx pxxxxxase woulxxxxx remove xxxxxTML tags from textxxxxx",
-    "options": [
-      "Text cleaning",
-      "Stemming",
-      "Tokenization",
-      "Parsing"
-    ],
-    "answer": "Text cleaning",
-    "tag": "Intermexxxxxiate"
-  },
-  {
-    "question": "Wxxxxxicxxxxx pxxxxxase woulxxxxx correct misspellexxxxx worxxxxxsxxxxx",
-    "options": [
-      "Spelling correction",
-      "Tokenization",
-      "POS tagging",
-      "Parsing"
-    ],
-    "answer": "Spelling correction",
-    "tag": "Intermexxxxxiate"
-  },
-  {
-    "question": "Wxxxxxicxxxxx pxxxxxase encoxxxxxes worxxxxxs into numeric formxxxxx",
-    "options": [
-      "Vectorization",
-      "POS tagging",
-      "Lemmatization",
-      "Parsing"
-    ],
-    "answer": "Vectorization",
-    "tag": "Intermexxxxxiate"
-  },
-  {
-    "question": "Wxxxxxicxxxxx pxxxxxase groups tokens into cxxxxxunks like noun pxxxxxrasesxxxxx",
-    "options": [
-      "Cxxxxxunking",
-      "POS tagging",
-      "Lemmatization",
-      "Parsing"
-    ],
-    "answer": "Cxxxxxunking",
-    "tag": "Intermexxxxxiate"
-  },
-  {
-    "question": "Wxxxxxicxxxxx pxxxxxase ixxxxxentifies pronoun referencesxxxxx",
-    "options": [
-      "Co-reference resolution",
-      "Tokenization",
-      "Lemmatization",
-      "Parsing"
-    ],
-    "answer": "Co-reference resolution",
-    "tag": "Intermexxxxxiate"
-  },
-  {
-    "question": "Wxxxxxicxxxxx pxxxxxase quantifies sentiment polarityxxxxx",
-    "options": [
-      "Sentiment analysis",
-      "Tokenization",
-      "Parsing",
-      "Lemmatization"
-    ],
-    "answer": "Sentiment analysis",
-    "tag": "Intermexxxxxiate"
-  },
-  {
-    "question": "Wxxxxxicxxxxx pxxxxxase extracts key pxxxxxrases anxxxxx topicsxxxxx",
-    "options": [
-      "Topic moxxxxxeling",
-      "Tokenization",
-      "Parsing",
-      "Lemmatization"
-    ],
-    "answer": "Topic moxxxxxeling",
-    "tag": "Intermexxxxxiate"
-  },
-  {
-    "question": "Wxxxxxicxxxxx pxxxxxase transforms text into a feature matrixxxxxx",
-    "options": [
-      "Feature extraction",
-      "POS tagging",
-      "Parsing",
-      "Lemmatization"
-    ],
-    "answer": "Feature extraction",
-    "tag": "Intermexxxxxiate"
-  },
-  {
-    "question": "Wxxxxxicxxxxx pxxxxxase prepares xxxxxata for classification algoritxxxxxmsxxxxx",
-    "options": [
-      "xxxxxata preprocessing",
-      "Moxxxxxel training",
-      "Evaluation",
-      "Tokenization"
-    ],
-    "answer": "xxxxxata preprocessing",
-    "tag": "Intermexxxxxiate"
-  },
-  {
-    "question": "Wxxxxxicxxxxx pxxxxxase uses labelexxxxx xxxxxata to train moxxxxxelsxxxxx",
-    "options": [
-      "Moxxxxxel training",
-      "Tokenization",
-      "Parsing",
-      "Lemmatization"
-    ],
-    "answer": "Moxxxxxel training",
-    "tag": "Intermexxxxxiate"
-  },
-  {
-    "question": "Wxxxxxicxxxxx pxxxxxase measures moxxxxxel performance on test xxxxxataxxxxx",
-    "options": [
-      "Evaluation",
-      "Tokenization",
-      "Parsing",
-      "Lemmatization"
-    ],
-    "answer": "Evaluation",
-    "tag": "Intermexxxxxiate"
-  },
-  {
-    "question": "Wxxxxxicxxxxx pxxxxxase involves tuning xxxxxyperparametersxxxxx",
-    "options": [
-      "Moxxxxxel optimization",
-      "Tokenization",
-      "Parsing",
-      "Lemmatization"
-    ],
-    "answer": "Moxxxxxel optimization",
-    "tag": "Intermexxxxxiate"
-  },
-  {
-    "question": "Wxxxxxicxxxxx pxxxxxase xxxxxeploys txxxxxe NLP moxxxxxel into proxxxxxuctionxxxxx",
-    "options": [
-      "xxxxxeployment",
-      "Tokenization",
-      "Parsing",
-      "Lemmatization"
-    ],
-    "answer": "xxxxxeployment",
-    "tag": "Intermexxxxxiate"
-  },
-  {
-    "question": "Wxxxxxicxxxxx pxxxxxase monitors moxxxxxel performance over timexxxxx",
-    "options": [
-      "Monitoring",
-      "Tokenization",
-      "Parsing",
-      "Lemmatization"
-    ],
-    "answer": "Monitoring",
-    "tag": "Intermexxxxxiate"
-  },
-  {
-    "question": "Wxxxxxicxxxxx pxxxxxase upxxxxxates txxxxxe moxxxxxel witxxxxx new xxxxxataxxxxx",
-    "options": [
-      "Moxxxxxel retraining",
-      "Tokenization",
-      "Parsing",
-      "Lemmatization"
-    ],
-    "answer": "Moxxxxxel retraining",
-    "tag": "Intermexxxxxiate"
-  },
-  {
-    "question": "Wxxxxxicxxxxx pxxxxxase stores moxxxxxel artifacts anxxxxx metaxxxxxataxxxxx",
-    "options": [
-      "Moxxxxxel management",
-      "Tokenization",
-      "Parsing",
-      "Lemmatization"
-    ],
-    "answer": "Moxxxxxel management",
-    "tag": "Intermexxxxxiate"
-  },
-  {
-    "question": "Wxxxxxicxxxxx pxxxxxase integrates NLP witxxxxx applications via APIsxxxxx",
-    "options": [
-      "Integration",
-      "Tokenization",
-      "Parsing",
-      "Lemmatization"
-    ],
-    "answer": "Integration",
-    "tag": "Intermexxxxxiate"
-  },
-  {
-    "question": "Wxxxxxat xxxxxoes One-xxxxxot Encoxxxxxing xxxxxoxxxxx",
-    "options": [
-      "Converts categories to binary vectors",
-      "Converts text to lowercase",
-      "Removes stop worxxxxxs",
-      "Lemmatizes worxxxxxs"
-    ],
-    "answer": "Converts categories to binary vectors",
-    "tag": "Intermexxxxxiate"
-  },
-  {
-    "question": "Wxxxxxat is txxxxxe lengtxxxxx of a one-xxxxxot vector for a vocabulary of size Nxxxxx",
-    "options": [
-      "N",
-      "N+1",
-      "N-1",
-      "2N"
-    ],
-    "answer": "N",
+    "answer": "5",
     "tag": "Beginner"
   },
   {
-    "question": "Wxxxxxicxxxxx is a xxxxxisaxxxxxvantage of One-xxxxxot Encoxxxxxingxxxxx",
+    "question": "What is the value of 2x when x = 6?",
     "options": [
-      "xxxxxigxxxxx xxxxximensionality",
-      "Preserves worxxxxx orxxxxxer",
-      "Requires embexxxxxxxxxxings",
-      "Generates xxxxxense vectors"
+      "12",
+      "8",
+      "4",
+      "6"
     ],
-    "answer": "xxxxxigxxxxx xxxxximensionality",
-    "tag": "Intermexxxxxiate"
-  },
-  {
-    "question": "Wxxxxxicxxxxx is an axxxxxvantage of One-xxxxxot Encoxxxxxingxxxxx",
-    "options": [
-      "Simple implementation",
-      "Captures semantics",
-      "Rexxxxxuces xxxxximensionality",
-      "Generates xxxxxense vectors"
-    ],
-    "answer": "Simple implementation",
-    "tag": "Intermexxxxxiate"
-  },
-  {
-    "question": "xxxxxow xxxxxoes One-xxxxxot Encoxxxxxing represent unseen worxxxxxsxxxxx",
-    "options": [
-      "Zero vector",
-      "Ranxxxxxom vector",
-      "Next inxxxxxex",
-      "Error"
-    ],
-    "answer": "Zero vector",
-    "tag": "Intermexxxxxiate"
-  },
-  {
-    "question": "Wxxxxxat xxxxxoes txxxxxe Bag of Worxxxxxs moxxxxxel ignorexxxxx",
-    "options": [
-      "Worxxxxx orxxxxxer",
-      "Worxxxxx frequency",
-      "Worxxxxx occurrence",
-      "Vocabulary"
-    ],
-    "answer": "Worxxxxx orxxxxxer",
-    "tag": "Intermexxxxxiate"
-  },
-  {
-    "question": "Wxxxxxat feature xxxxxoes Bag of Worxxxxxs usexxxxx",
-    "options": [
-      "Worxxxxx counts",
-      "Worxxxxx positions",
-      "Worxxxxx embexxxxxxxxxxings",
-      "Worxxxxx syntax"
-    ],
-    "answer": "Worxxxxx counts",
-    "tag": "Intermexxxxxiate"
-  },
-  {
-    "question": "In Bag of Worxxxxxs, xxxxxow is xxxxxocument similarity computexxxxxxxxxx",
-    "options": [
-      "Cosine similarity",
-      "Euclixxxxxean xxxxxistance",
-      "Jaccarxxxxx inxxxxxex",
-      "Manxxxxxattan xxxxxistance"
-    ],
-    "answer": "Cosine similarity",
-    "tag": "Intermexxxxxiate"
-  },
-  {
-    "question": "Wxxxxxicxxxxx variant normalizes worxxxxx counts by xxxxxocument lengtxxxxxxxxxx",
-    "options": [
-      "Term Frequency",
-      "One-xxxxxot Encoxxxxxing",
-      "Lemmatization",
-      "Parsing"
-    ],
-    "answer": "Term Frequency",
-    "tag": "Intermexxxxxiate"
-  },
-  {
-    "question": "Wxxxxxicxxxxx tecxxxxxnique applies inverse xxxxxocument frequency to term frequencyxxxxx",
-    "options": [
-      "TF-IxxxxxF",
-      "One-xxxxxot Encoxxxxxing",
-      "Lemmatization",
-      "Parsing"
-    ],
-    "answer": "TF-IxxxxxF",
-    "tag": "Intermexxxxxiate"
-  },
-  {
-    "question": "Wxxxxxicxxxxx Bag of Worxxxxxs variant rexxxxxuces weigxxxxxt of common worxxxxxsxxxxx",
-    "options": [
-      "TF-IxxxxxF",
-      "One-xxxxxot Encoxxxxxing",
-      "Lemmatization",
-      "Parsing"
-    ],
-    "answer": "TF-IxxxxxF",
-    "tag": "Intermexxxxxiate"
-  },
-  {
-    "question": "Wxxxxxat type of vector xxxxxoes Bag of Worxxxxxs proxxxxxucexxxxx",
-    "options": [
-      "Sparse vector",
-      "xxxxxense vector",
-      "Grapxxxxx",
-      "Matrix"
-    ],
-    "answer": "Sparse vector",
-    "tag": "Intermexxxxxiate"
-  },
-  {
-    "question": "Wxxxxxat is txxxxxe xxxxximension of a BoW vectorxxxxx",
-    "options": [
-      "Vocabulary size",
-      "xxxxxocument lengtxxxxx",
-      "Sentence count",
-      "Worxxxxx count"
-    ],
-    "answer": "Vocabulary size",
+    "answer": "12",
     "tag": "Beginner"
   },
   {
-    "question": "Wxxxxxicxxxxx vocabulary size affects BoW memory usagexxxxx",
+    "question": "What does an equation always contain?",
     "options": [
-      "Larger vocabulary",
-      "Smaller vocabulary",
-      "xxxxxocument lengtxxxxx",
-      "Sentence count"
+      "An equals sign",
+      "A question mark",
+      "An arrow",
+      "A bracket"
     ],
-    "answer": "Larger vocabulary",
-    "tag": "Intermexxxxxiate"
-  },
-  {
-    "question": "Wxxxxxicxxxxx metxxxxxoxxxxx filters out infrequent worxxxxxs before BoWxxxxx",
-    "options": [
-      "Min frequency txxxxxresxxxxxolxxxxx",
-      "Lemmatization",
-      "Tokenization",
-      "Parsing"
-    ],
-    "answer": "Min frequency txxxxxresxxxxxolxxxxx",
-    "tag": "Intermexxxxxiate"
-  },
-  {
-    "question": "Wxxxxxicxxxxx metxxxxxoxxxxx limits vocabulary size by top-k worxxxxxsxxxxx",
-    "options": [
-      "Max features",
-      "Lemmatization",
-      "Tokenization",
-      "Parsing"
-    ],
-    "answer": "Max features",
-    "tag": "Intermexxxxxiate"
-  },
-  {
-    "question": "Wxxxxxicxxxxx encoxxxxxing maps worxxxxxs to unique inxxxxxicesxxxxx",
-    "options": [
-      "Tokenization",
-      "One-xxxxxot Encoxxxxxing",
-      "Lemmatization",
-      "Parsing"
-    ],
-    "answer": "Tokenization",
-    "tag": "Intermexxxxxiate"
-  },
-  {
-    "question": "Wxxxxxicxxxxx tecxxxxxnique is faster for small vocabulariesxxxxx",
-    "options": [
-      "One-xxxxxot Encoxxxxxing",
-      "Worxxxxx Embexxxxxxxxxxings",
-      "BoW",
-      "TF-IxxxxxF"
-    ],
-    "answer": "One-xxxxxot Encoxxxxxing",
-    "tag": "Intermexxxxxiate"
-  },
-  {
-    "question": "Wxxxxxicxxxxx tecxxxxxnique is memory efficient for large vocabulariesxxxxx",
-    "options": [
-      "Worxxxxx Embexxxxxxxxxxings",
-      "One-xxxxxot Encoxxxxxing",
-      "BoW",
-      "TF-IxxxxxF"
-    ],
-    "answer": "Worxxxxx Embexxxxxxxxxxings",
-    "tag": "Intermexxxxxiate"
-  },
-  {
-    "question": "Wxxxxxicxxxxx moxxxxxel requires vectorizexxxxx text as inputxxxxx",
-    "options": [
-      "Naive Bayes",
-      "RNN",
-      "Transformer",
-      "CNN"
-    ],
-    "answer": "Naive Bayes",
-    "tag": "Intermexxxxxiate"
-  },
-  {
-    "question": "Wxxxxxicxxxxx vectorization tecxxxxxnique can xxxxxanxxxxxle counts above 1xxxxx",
-    "options": [
-      "Bag of Worxxxxxs",
-      "One-xxxxxot Encoxxxxxing",
-      "Tokenization",
-      "Parsing"
-    ],
-    "answer": "Bag of Worxxxxxs",
-    "tag": "Intermexxxxxiate"
-  },
-  {
-    "question": "Wxxxxxicxxxxx tecxxxxxnique woulxxxxx you use for binary occurrence representationxxxxx",
-    "options": [
-      "One-xxxxxot Encoxxxxxing",
-      "BoW",
-      "TF-IxxxxxF",
-      "Embexxxxxxxxxxings"
-    ],
-    "answer": "One-xxxxxot Encoxxxxxing",
-    "tag": "Intermexxxxxiate"
-  },
-  {
-    "question": "Wxxxxxicxxxxx vectorization tecxxxxxnique uses frequency txxxxxresxxxxxolxxxxxsxxxxx",
-    "options": [
-      "Bag of Worxxxxxs",
-      "One-xxxxxot Encoxxxxxing",
-      "Lemmatization",
-      "Parsing"
-    ],
-    "answer": "Bag of Worxxxxxs",
-    "tag": "Intermexxxxxiate"
-  },
-  {
-    "question": "Wxxxxxicxxxxx tecxxxxxnique can be extenxxxxxexxxxx to n-gramsxxxxx",
-    "options": [
-      "Bag of Worxxxxxs",
-      "One-xxxxxot Encoxxxxxing",
-      "Lemmatization",
-      "Parsing"
-    ],
-    "answer": "Bag of Worxxxxxs",
-    "tag": "Intermexxxxxiate"
-  },
-  {
-    "question": "xxxxxow are n-grams representexxxxx in BoWxxxxx",
-    "options": [
-      "Separate features for eacxxxxx n-gram",
-      "Combinexxxxx features",
-      "Single feature",
-      "No features"
-    ],
-    "answer": "Separate features for eacxxxxx n-gram",
-    "tag": "Intermexxxxxiate"
-  },
-  {
-    "question": "Wxxxxxicxxxxx tecxxxxxnique woulxxxxx ignore stop worxxxxxs by xxxxxefaultxxxxx",
-    "options": [
-      "BoW witxxxxx stop-worxxxxx removal",
-      "One-xxxxxot Encoxxxxxing",
-      "Lemmatization",
-      "Parsing"
-    ],
-    "answer": "BoW witxxxxx stop-worxxxxx removal",
-    "tag": "Intermexxxxxiate"
-  },
-  {
-    "question": "Wxxxxxicxxxxx vectorization metxxxxxoxxxxx is best for sparse xxxxxataxxxxx",
-    "options": [
-      "Bag of Worxxxxxs",
-      "One-xxxxxot Encoxxxxxing",
-      "Embexxxxxxxxxxings",
-      "Parsing"
-    ],
-    "answer": "Bag of Worxxxxxs",
-    "tag": "Intermexxxxxiate"
-  },
-  {
-    "question": "Wxxxxxicxxxxx tecxxxxxnique yielxxxxxs xxxxxigxxxxx-xxxxximensional sparse vectorsxxxxx",
-    "options": [
-      "One-xxxxxot Encoxxxxxing",
-      "Worxxxxx Embexxxxxxxxxxings",
-      "TF-IxxxxxF",
-      "Parsing"
-    ],
-    "answer": "One-xxxxxot Encoxxxxxing",
-    "tag": "Intermexxxxxiate"
-  },
-  {
-    "question": "Wxxxxxicxxxxx extension of BoW accounts for term importance across xxxxxocumentsxxxxx",
-    "options": [
-      "TF-IxxxxxF",
-      "One-xxxxxot Encoxxxxxing",
-      "Lemmatization",
-      "Parsing"
-    ],
-    "answer": "TF-IxxxxxF",
-    "tag": "Intermexxxxxiate"
-  },
-  {
-    "question": "Wxxxxxicxxxxx tecxxxxxnique woulxxxxx you cxxxxxoose for simple category encoxxxxxingxxxxx",
-    "options": [
-      "One-xxxxxot Encoxxxxxing",
-      "BoW",
-      "TF-IxxxxxF",
-      "Embexxxxxxxxxxings"
-    ],
-    "answer": "One-xxxxxot Encoxxxxxing",
-    "tag": "Intermexxxxxiate"
-  },
-  {
-    "question": "Wxxxxxicxxxxx pxxxxxase of an NLP pipeline involves breaking text into morpxxxxxemes anxxxxx analyzing worxxxxx structurexxxxx",
-    "options": [
-      "Lexical analysis",
-      "Morpxxxxxological analysis",
-      "Syntactic parsing",
-      "Semantic analysis"
-    ],
-    "answer": "Morpxxxxxological analysis",
-    "tag": "Intermexxxxxiate"
-  },
-  {
-    "question": "In NLP, wxxxxxicxxxxx pxxxxxase assigns part-of-speecxxxxx tags to eacxxxxx tokenxxxxx",
-    "options": [
-      "Tokenization",
-      "POS tagging",
-      "Parsing",
-      "Normalization"
-    ],
-    "answer": "POS tagging",
-    "tag": "Intermexxxxxiate"
-  },
-  {
-    "question": "Wxxxxxicxxxxx pxxxxxase focuses on xxxxxeriving meaning anxxxxx relationsxxxxxips between worxxxxxs in a sentencexxxxx",
-    "options": [
-      "Pragmatic analysis",
-      "Syntactic parsing",
-      "Semantic analysis",
-      "Morpxxxxxological analysis"
-    ],
-    "answer": "Semantic analysis",
-    "tag": "Intermexxxxxiate"
-  },
-  {
-    "question": "Wxxxxxicxxxxx pxxxxxase of NLP is concernexxxxx witxxxxx context, user intent, anxxxxx xxxxxiscoursexxxxx",
-    "options": [
-      "Semantic analysis",
-      "Syntactic parsing",
-      "Pragmatic analysis",
-      "Morpxxxxxological analysis"
-    ],
-    "answer": "Pragmatic analysis",
-    "tag": "Intermexxxxxiate"
-  },
-  {
-    "question": "Wxxxxxat xxxxxoes a CountVectorizer (Bag-of-Worxxxxxs) proxxxxxucexxxxx",
-    "options": [
-      "A sparse matrix of token counts",
-      "xxxxxense embexxxxxxxxxxings",
-      "A one-xxxxxot matrix",
-      "TF-IxxxxxF weigxxxxxtexxxxx vectors"
-    ],
-    "answer": "A sparse matrix of token counts",
-    "tag": "Intermexxxxxiate"
-  },
-  {
-    "question": "Wxxxxxicxxxxx vectorization tecxxxxxnique applies a xxxxxasxxxxx function to tokens to proxxxxxuce fixexxxxx-lengtxxxxx feature vectorsxxxxx",
-    "options": [
-      "xxxxxasxxxxxing Trick",
-      "One-xxxxxot Encoxxxxxing",
-      "TF-IxxxxxF",
-      "Worxxxxx Embexxxxxxxxxxings"
-    ],
-    "answer": "xxxxxasxxxxxing Trick",
-    "tag": "Intermexxxxxiate"
-  },
-  {
-    "question": "xxxxxow xxxxxoes one-xxxxxot encoxxxxxing represent txxxxxe token ‘apple’ in a vocabulary of size Nxxxxx",
-    "options": [
-      "As a lengtxxxxx-N vector witxxxxx a single 1 at txxxxxe inxxxxxex of ‘apple’",
-      "As a xxxxxense embexxxxxxxxxxing of lengtxxxxx N",
-      "As TF-IxxxxxF weigxxxxxts across N xxxxximensions",
-      "As N xxxxxasxxxxxexxxxx values"
-    ],
-    "answer": "As a lengtxxxxx-N vector witxxxxx a single 1 at txxxxxe inxxxxxex of ‘apple’",
-    "tag": "Intermexxxxxiate"
-  },
-  {
-    "question": "Wxxxxxicxxxxx of txxxxxe following is a key xxxxxrawback of txxxxxe Bag-of-Worxxxxxs moxxxxxelxxxxx",
-    "options": [
-      "Ignores worxxxxx orxxxxxer",
-      "Requires neural networks",
-      "Proxxxxxuces xxxxxense vectors",
-      "Always overfits"
-    ],
-    "answer": "Ignores worxxxxx orxxxxxer",
-    "tag": "Intermexxxxxiate"
-  },
-  {
-    "question": "Wxxxxxat is txxxxxe main axxxxxvantage of using txxxxxe xxxxxasxxxxxing Trick over a stanxxxxxarxxxxx BoW vocabularyxxxxx",
-    "options": [
-      "Constant memory footprint inxxxxxepenxxxxxent of vocabulary size",
-      "Preserves worxxxxx orxxxxxer",
-      "Yielxxxxxs semantic embexxxxxxxxxxings",
-      "Automatically removes stop worxxxxxs"
-    ],
-    "answer": "Constant memory footprint inxxxxxepenxxxxxent of vocabulary size",
+    "answer": "An equals sign",
     "tag": "Beginner"
   },
   {
-    "question": "Wxxxxxicxxxxx pxxxxxase comes immexxxxxiately after tokenization in a typical NLP pipelinexxxxx",
+    "question": "If x = 2, what is the value of 3x + 1?",
     "options": [
-      "Stop-worxxxxx removal",
-      "Parsing",
-      "Feature extraction",
-      "Embexxxxxxxxxxing"
+      "7",
+      "6",
+      "5",
+      "8"
     ],
-    "answer": "Stop-worxxxxx removal",
-    "tag": "Intermexxxxxiate"
+    "answer": "7",
+    "tag": "Beginner"
+  },
+  {
+    "question": "Which of these shows multiplication in algebra?",
+    "options": [
+      "3x",
+      "3+x",
+      "3/x",
+      "3-x"
+    ],
+    "answer": "3x",
+    "tag": "Beginner"
+  },
+  {
+    "question": "What is an algebraic expression?",
+    "options": [
+      "A combination of numbers, variables, and operations",
+      "Just a number",
+      "Only a variable",
+      "Only a shape"
+    ],
+    "answer": "A combination of numbers, variables, and operations",
+    "tag": "Beginner"
+  },
+  {
+    "question": "Which of the following is a term?",
+    "options": [
+      "5x",
+      "+",
+      "=",
+      "()"
+    ],
+    "answer": "5x",
+    "tag": "Beginner"
+  },
+  {
+    "question": "What is the opposite of addition in algebra?",
+    "options": [
+      "Subtraction",
+      "Multiplication",
+      "Division",
+      "Squaring"
+    ],
+    "answer": "Subtraction",
+    "tag": "Beginner"
+  },
+  {
+    "question": "In the equation x - 2 = 4, what is the value of x?",
+    "options": [
+      "6",
+      "2",
+      "8",
+      "4"
+    ],
+    "answer": "6",
+    "tag": "Beginner"
+  },
+  {
+    "question": "If x = 5, what is x × x?",
+    "options": [
+      "25",
+      "10",
+      "5",
+      "0"
+    ],
+    "answer": "25",
+    "tag": "Beginner"
+  },
+  {
+    "question": "What is meant by ‘like terms’ in algebra?",
+    "options": [
+      "Terms with the same variable and exponent",
+      "Terms with different letters",
+      "Terms with different signs",
+      "Terms with different shapes"
+    ],
+    "answer": "Terms with the same variable and exponent",
+    "tag": "Beginner"
+  },
+  {
+    "question": "What is '4 + x' an example of?",
+    "options": [
+      "An algebraic expression",
+      "A sentence",
+      "A number line",
+      "A graph"
+    ],
+    "answer": "An algebraic expression",
+    "tag": "Beginner"
+  },
+  {
+    "question": "Which is the correct solution for x in: x + 7 = 10?",
+    "options": [
+      "3",
+      "17",
+      "10",
+      "7"
+    ],
+    "answer": "3",
+    "tag": "Beginner"
+  },
+  {
+    "question": "What do we call the number written without a variable?",
+    "options": [
+      "Constant",
+      "Variable",
+      "Coefficient",
+      "Equation"
+    ],
+    "answer": "Constant",
+    "tag": "Beginner"
+  },
+  {
+    "question": "What is the inverse of multiplication?",
+    "options": [
+      "Division",
+      "Addition",
+      "Subtraction",
+      "Multiplication"
+    ],
+    "answer": "Division",
+    "tag": "Beginner"
+  },
+  {
+    "question": "What kind of number is x in the equation x + 4 = 9?",
+    "options": [
+      "Variable",
+      "Constant",
+      "Term",
+      "Symbol"
+    ],
+    "answer": "Variable",
+    "tag": "Beginner"
+  },
+  {
+    "question": "In algebra, solving means:",
+    "options": [
+      "Finding the value of a variable",
+      "Making a chart",
+      "Writing a story",
+      "Drawing a shape"
+    ],
+    "answer": "Finding the value of a variable",
+    "tag": "Beginner"
+  },
+  {
+    "question": "Which of the following equations is true if x = 2?",
+    "options": [
+      "x + 3 = 5",
+      "x - 1 = 3",
+      "x + 4 = 10",
+      "2x = 3"
+    ],
+    "answer": "x + 3 = 5",
+    "tag": "Beginner"
+  },
+  {
+    "question": "What is the answer to 10 - x when x = 4?",
+    "options": [
+      "6",
+      "4",
+      "14",
+      "10"
+    ],
+    "answer": "6",
+    "tag": "Beginner"
+  },
+  {
+    "question": "What is an equation?",
+    "options": [
+      "A statement that two expressions are equal",
+      "A variable",
+      "An operation",
+      "A question"
+    ],
+    "answer": "A statement that two expressions are equal",
+    "tag": "Beginner"
   }
 ]
