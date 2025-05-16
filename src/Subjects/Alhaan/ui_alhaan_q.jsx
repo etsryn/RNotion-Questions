@@ -19,18 +19,20 @@ questions.forEach((question) => {
 });
 
 const Quiz = ({ participantName }) => {
-    useEffect(() => {
-        const askForCode = () => {
-          const code = prompt("Enter Secret-Code ID");
-          if(code === "20al14") {
-            setvaliduser(code);
-          } else {
-            askForCode(); // Ask again if wrong
-          }
-        };
-      
-        askForCode(); // Start the prompt
-      }, []);
+    const [validuser, setvaliduser] = useState(null);
+
+  useEffect(() => {
+    const askForCode = () => {
+      const code = prompt("Enter Secret-Code ID");
+      if (code === "20al14") {
+        setvaliduser(code);
+      } else {
+        askForCode(); // Ask again if wrong
+      }
+    };
+
+    askForCode(); // Start the prompt
+  }, []);
       
 
   const [idx, setIdx] = useState(0);
