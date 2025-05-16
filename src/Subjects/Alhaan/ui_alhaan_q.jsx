@@ -12,7 +12,7 @@ import signatureImage from "../../../public/signature.png";
 import allQuestions from "../../questions/Alhaan/alhaan.json";
 
 // Shuffle and pick 50 questions
-const questions = allQuestions.sort(() => Math.random() - 0.5).slice(0, 5);
+const questions = allQuestions.sort(() => Math.random() - 0.5).slice(0, 15);
 
 questions.forEach((question) => {
   question.options = question.options.sort(() => Math.random() - 0.5);
