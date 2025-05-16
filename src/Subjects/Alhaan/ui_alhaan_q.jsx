@@ -5,7 +5,7 @@ import { motion, AnimatePresence } from "framer-motion";
 import Confetti from "react-confetti";
 import { FaShareAlt, FaRedo, FaFilePdf, FaList } from "react-icons/fa";
 import { jsPDF } from "jspdf";
-import useWindowSize from "../../../utility/useWindowSize";
+import useWindowSize from "../../utility/useWindowSize";
 import styles from "./ui_alhaan_q.module.css";
 import { GraduationCap } from "lucide-react";
 import signatureImage from "../../../../public/signature.png";
