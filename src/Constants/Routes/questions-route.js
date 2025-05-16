@@ -1,6 +1,7 @@
 const ROUTES = {
     alhaan_dir : {
-        alhaan: "/4e6b6e1fa6aa78891e0b3ad5efdaec0211e99de3249905fe62cc05cf4d8c6fa0",
+        // alhaan: "/4e6b6e1fa6aa78891e0b3ad5efdaec0211e99de3249905fe62cc05cf4d8c6fa0",
+        alhaan: "/5e314bf3a4f39a51736d66acc5a259059e3f11263af328eec622c2ab9b413b4d",
     },
     // NLP
     natural_language_processing_dir: {
