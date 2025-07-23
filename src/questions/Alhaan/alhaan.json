@@ -1,310 +1,134 @@
 [
   {
-    "question": "What does 'x' usually represent in algebra?",
+    "question": "What is 1,234,567 + 2,345,678?",
     "options": [
-      "A variable",
-      "A multiplication sign",
-      "A shape",
-      "A color"
+      "3,580,245",
+      "3,579,245",
+      "3,580,155",
+      "3,580,346"
     ],
-    "answer": "A variable",
+    "answer": "3,580,245",
     "tag": "Beginner"
   },
   {
-    "question": "Which of these is an example of an algebraic expression?",
+    "question": "Calculate 3,210,456 + 4,321,789.",
     "options": [
-      "2 + x",
-      "2 + 2",
-      "5 x 3",
-      "10 ÷ 2"
+      "7,532,245",
+      "7,532,144",
+      "7,531,245",
+      "7,532,345"
     ],
-    "answer": "2 + x",
+    "answer": "7,532,245",
     "tag": "Beginner"
   },
   {
-    "question": "In the expression 3x + 2, what is the coefficient of x?",
+    "question": "Find the sum: 5,678,912 + 6,789,123.",
     "options": [
-      "3",
-      "2",
-      "x",
-      "5"
+      "12,468,035",
+      "12,468,034",
+      "12,468,135",
+      "12,467,035"
     ],
-    "answer": "3",
+    "answer": "12,468,035",
+    "tag": "Intermediate"
+  },
+  {
+    "question": "Add 7,123,456 and 2,987,654.",
+    "options": [
+      "10,111,110",
+      "10,111,109",
+      "10,101,110",
+      "10,211,110"
+    ],
+    "answer": "10,111,110",
+    "tag": "Intermediate"
+  },
+  {
+    "question": "What is 9,876,543 + 8,765,432?",
+    "options": [
+      "18,641,975",
+      "18,641,974",
+      "18,641,985",
+      "18,640,975"
+    ],
+    "answer": "18,641,975",
+    "tag": "Advanced"
+  },
+  {
+    "question": "Compute 6,543,219 + 7,654,328.",
+    "options": [
+      "14,197,547",
+      "14,197,537",
+      "14,197,647",
+      "14,196,547"
+    ],
+    "answer": "14,197,547",
+    "tag": "Advanced"
+  },
+  {
+    "question": "What is 24,680,135 − 12,345,679?",
+    "options": [
+      "12,334,456",
+      "12,334,457",
+      "12,334,356",
+      "12,333,456"
+    ],
+    "answer": "12,334,456",
     "tag": "Beginner"
   },
   {
-    "question": "What is a variable in algebra?",
+    "question": "Subtract: 30,120,045 − 10,025,030.",
     "options": [
-      "A letter that represents a number",
-      "A punctuation mark",
-      "A constant value",
-      "A unit of measurement"
+      "20,095,015",
+      "20,095,014",
+      "20,094,015",
+      "20,095,115"
     ],
-    "answer": "A letter that represents a number",
+    "answer": "20,095,015",
     "tag": "Beginner"
   },
   {
-    "question": "Which of these is a correct equation?",
+    "question": "Find the difference: 45,678,901 − 23,456,789.",
     "options": [
-      "x + 5 = 10",
-      "x + = 5 10",
-      "10 = x + =",
-      "5 10 x + ="
+      "22,222,112",
+      "22,222,111",
+      "22,221,112",
+      "22,322,112"
     ],
-    "answer": "x + 5 = 10",
-    "tag": "Beginner"
+    "answer": "22,222,112",
+    "tag": "Intermediate"
   },
   {
-    "question": "What does it mean to 'solve for x'?",
+    "question": "Calculate 56,789,012 − 34,567,890.",
     "options": [
-      "Find the value of x",
-      "Add x to the answer",
-      "Replace x with a letter",
-      "Draw the letter x"
+      "22,221,122",
+      "22,221,121",
+      "22,220,122",
+      "22,321,122"
     ],
-    "answer": "Find the value of x",
-    "tag": "Beginner"
+    "answer": "22,221,122",
+    "tag": "Intermediate"
   },
   {
-    "question": "Which symbol is used to show equality in algebra?",
+    "question": "What is 90,654,321 − 23,456,789?",
     "options": [
-      "=",
-      "+",
-      "-",
-      ">"
+      "67,197,532",
+      "67,197,533",
+      "67,197,432",
+      "67,297,532"
     ],
-    "answer": "=",
-    "tag": "Beginner"
+    "answer": "67,197,532",
+    "tag": "Advanced"
   },
   {
-    "question": "If x = 4, what is the value of x + 3?",
+    "question": "Subtract 12,345,678 from 98,765,430.",
     "options": [
-      "7",
-      "4",
-      "3",
-      "12"
+      "86,419,752",
+      "86,419,753",
+      "86,419,652",
+      "86,519,752"
     ],
-    "answer": "7",
-    "tag": "Beginner"
-  },
-  {
-    "question": "Which of the following is a constant?",
-    "options": [
-      "5",
-      "x",
-      "y",
-      "z"
-    ],
-    "answer": "5",
-    "tag": "Beginner"
-  },
-  {
-    "question": "What is the value of 2x when x = 6?",
-    "options": [
-      "12",
-      "8",
-      "4",
-      "6"
-    ],
-    "answer": "12",
-    "tag": "Beginner"
-  },
-  {
-    "question": "What does an equation always contain?",
-    "options": [
-      "An equals sign",
-      "A question mark",
-      "An arrow",
-      "A bracket"
-    ],
-    "answer": "An equals sign",
-    "tag": "Beginner"
-  },
-  {
-    "question": "If x = 2, what is the value of 3x + 1?",
-    "options": [
-      "7",
-      "6",
-      "5",
-      "8"
-    ],
-    "answer": "7",
-    "tag": "Beginner"
-  },
-  {
-    "question": "Which of these shows multiplication in algebra?",
-    "options": [
-      "3x",
-      "3+x",
-      "3/x",
-      "3-x"
-    ],
-    "answer": "3x",
-    "tag": "Beginner"
-  },
-  {
-    "question": "What is an algebraic expression?",
-    "options": [
-      "A combination of numbers, variables, and operations",
-      "Just a number",
-      "Only a variable",
-      "Only a shape"
-    ],
-    "answer": "A combination of numbers, variables, and operations",
-    "tag": "Beginner"
-  },
-  {
-    "question": "Which of the following is a term?",
-    "options": [
-      "5x",
-      "+",
-      "=",
-      "()"
-    ],
-    "answer": "5x",
-    "tag": "Beginner"
-  },
-  {
-    "question": "What is the opposite of addition in algebra?",
-    "options": [
-      "Subtraction",
-      "Multiplication",
-      "Division",
-      "Squaring"
-    ],
-    "answer": "Subtraction",
-    "tag": "Beginner"
-  },
-  {
-    "question": "In the equation x - 2 = 4, what is the value of x?",
-    "options": [
-      "6",
-      "2",
-      "8",
-      "4"
-    ],
-    "answer": "6",
-    "tag": "Beginner"
-  },
-  {
-    "question": "If x = 5, what is x × x?",
-    "options": [
-      "25",
-      "10",
-      "5",
-      "0"
-    ],
-    "answer": "25",
-    "tag": "Beginner"
-  },
-  {
-    "question": "What is meant by ‘like terms’ in algebra?",
-    "options": [
-      "Terms with the same variable and exponent",
-      "Terms with different letters",
-      "Terms with different signs",
-      "Terms with different shapes"
-    ],
-    "answer": "Terms with the same variable and exponent",
-    "tag": "Beginner"
-  },
-  {
-    "question": "What is '4 + x' an example of?",
-    "options": [
-      "An algebraic expression",
-      "A sentence",
-      "A number line",
-      "A graph"
-    ],
-    "answer": "An algebraic expression",
-    "tag": "Beginner"
-  },
-  {
-    "question": "Which is the correct solution for x in: x + 7 = 10?",
-    "options": [
-      "3",
-      "17",
-      "10",
-      "7"
-    ],
-    "answer": "3",
-    "tag": "Beginner"
-  },
-  {
-    "question": "What do we call the number written without a variable?",
-    "options": [
-      "Constant",
-      "Variable",
-      "Coefficient",
-      "Equation"
-    ],
-    "answer": "Constant",
-    "tag": "Beginner"
-  },
-  {
-    "question": "What is the inverse of multiplication?",
-    "options": [
-      "Division",
-      "Addition",
-      "Subtraction",
-      "Multiplication"
-    ],
-    "answer": "Division",
-    "tag": "Beginner"
-  },
-  {
-    "question": "What kind of number is x in the equation x + 4 = 9?",
-    "options": [
-      "Variable",
-      "Constant",
-      "Term",
-      "Symbol"
-    ],
-    "answer": "Variable",
-    "tag": "Beginner"
-  },
-  {
-    "question": "In algebra, solving means:",
-    "options": [
-      "Finding the value of a variable",
-      "Making a chart",
-      "Writing a story",
-      "Drawing a shape"
-    ],
-    "answer": "Finding the value of a variable",
-    "tag": "Beginner"
-  },
-  {
-    "question": "Which of the following equations is true if x = 2?",
-    "options": [
-      "x + 3 = 5",
-      "x - 1 = 3",
-      "x + 4 = 10",
-      "2x = 3"
-    ],
-    "answer": "x + 3 = 5",
-    "tag": "Beginner"
-  },
-  {
-    "question": "What is the answer to 10 - x when x = 4?",
-    "options": [
-      "6",
-      "4",
-      "14",
-      "10"
-    ],
-    "answer": "6",
-    "tag": "Beginner"
-  },
-  {
-    "question": "What is an equation?",
-    "options": [
-      "A statement that two expressions are equal",
-      "A variable",
-      "An operation",
-      "A question"
-    ],
-    "answer": "A statement that two expressions are equal",
-    "tag": "Beginner"
+    "answer": "86,419,752",
+    "tag": "Advanced"
   }
 ]

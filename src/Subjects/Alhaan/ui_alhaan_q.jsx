@@ -24,7 +24,7 @@ const Quiz = ({ participantName }) => {
   useEffect(() => {
     const askForCode = () => {
       const code = prompt("Enter Secret-Code ID");
-      if (code === "20al14") {
+      if (code === "maths23") {
         setvaliduser(code);
       } else {
         askForCode(); // Ask again if wrong
