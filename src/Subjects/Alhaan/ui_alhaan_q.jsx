@@ -287,9 +287,9 @@ const Quiz = ({ participantName }) => {
     // 10. Date and Certificate ID at bottom
     doc.setFont("helvetica", "normal");
     doc.setFontSize(12);
-    doc.text("Date: 28 May 2025", margin + 20, pageHeight - margin - 30);
+    doc.text("Date: 23 July 2025", margin + 20, pageHeight - margin - 30);
     doc.text(
-      "Certificate ID: SN-58674E4",
+      "Certificate ID: CN-000001",
       pageWidth - margin - 20,
       pageHeight - margin - 30,
       { align: "right" }
