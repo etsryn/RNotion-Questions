@@ -19,7 +19,7 @@ questions.forEach((question) => {
 });
 
 const Quiz = ({ participantName }) => {
-    const [validuser, setvaliduser] = useState(null);
+  const [validuser, setvaliduser] = useState(null);
 
   useEffect(() => {
     const askForCode = () => {
@@ -33,7 +33,7 @@ const Quiz = ({ participantName }) => {
 
     askForCode(); // Start the prompt
   }, []);
-      
+
 
   const [idx, setIdx] = useState(0);
   const [sel, setSel] = useState("");
@@ -80,7 +80,14 @@ const Quiz = ({ participantName }) => {
     setFinished(false);
     setResponses([]);
   };
-
+  const getCurrentDate = () => {
+    const today = new Date();
+    return today.toLocaleDateString("en-GB", {
+      day: "2-digit",
+      month: "long",
+      year: "numeric"
+    }); // Output: 23 July 2025
+  };
   // Circular indicator
   const pct = Math.round((score / questions.length) * 100);
   const radius = 60;
@@ -166,9 +173,8 @@ const Quiz = ({ participantName }) => {
       doc.text(qLines, margin, y);
       y += qLines.length * 14 + 5;
 
-      const ansText = `Your Answer: ${r.selected} (${
-        r.correct ? "Correct" : "Wrong"
-      })`;
+      const ansText = `Your Answer: ${r.selected} (${r.correct ? "Correct" : "Wrong"
+        })`;
       const ansLines = doc.splitTextToSize(
         ansText,
         pageWidth - 2 * margin - 20
@@ -197,7 +203,7 @@ const Quiz = ({ participantName }) => {
     const pageWidth = doc.internal.pageSize.getWidth();
     const pageHeight = doc.internal.pageSize.getHeight();
     const margin = 50;
-
+    const currentDate = getCurrentDate();
     // 1. Light background to look premium
     doc.setFillColor(245, 245, 245);
     doc.rect(0, 0, pageWidth, pageHeight, "F");
@@ -287,7 +293,7 @@ const Quiz = ({ participantName }) => {
     // 10. Date and Certificate ID at bottom
     doc.setFont("helvetica", "normal");
     doc.setFontSize(12);
-    doc.text("Date: 23 July 2025", margin + 20, pageHeight - margin - 30);
+    doc.text(`Date: ${currentDate}`, margin + 20, pageHeight - margin - 30);
     doc.text(
       "Certificate ID: CN-000001",
       pageWidth - margin - 20,
@@ -356,9 +362,8 @@ const Quiz = ({ participantName }) => {
                   Question {idx + 1} of {questions.length}
                 </span>
                 <span
-                  className={`${styles.questionTag} ${
-                    styles[current.tag.toLowerCase()]
-                  }`}
+                  className={`${styles.questionTag} ${styles[current.tag.toLowerCase()]
+                    }`}
                 >
                   {current.tag}
                 </span>
@@ -389,11 +394,9 @@ const Quiz = ({ participantName }) => {
                       key={opt}
                       onClick={() => onSelect(opt)}
                       disabled={answered}
-                      className={`${styles.option} ${
-                        isCorrect ? styles.correct : ""
-                      } ${isWrong ? styles.incorrect : ""} ${
-                        sel === opt && !answered ? styles.selected : ""
-                      }`}
+                      className={`${styles.option} ${isCorrect ? styles.correct : ""
+                        } ${isWrong ? styles.incorrect : ""} ${sel === opt && !answered ? styles.selected : ""
+                        }`}
                       initial={{ x: -50, opacity: 0 }}
                       animate={{ x: 0, opacity: 1 }}
                       exit={{ x: 50, opacity: 0 }}
@@ -555,9 +558,9 @@ const Quiz = ({ participantName }) => {
               duration={1000}
               bounce={true} // Enable bounce effect
               randomness={true} // Randomize confetti size, angle, etc.
-              // gravity={}          // Faster falling confetti
-              // initialVelocityX={10}  // Optional: Control the initial horizontal velocity
-              // initialVelocityY={15}  // Optional: Control the initial vertical velocity
+            // gravity={}          // Faster falling confetti
+            // initialVelocityX={10}  // Optional: Control the initial horizontal velocity
+            // initialVelocityY={15}  // Optional: Control the initial vertical velocity
             />
           </div>
         )}
