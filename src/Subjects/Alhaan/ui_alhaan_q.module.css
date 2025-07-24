@@ -323,41 +323,47 @@
 
 /* set-1.module.css additions */
 .reportSection {
-    background: rgba(20,20,20,0.85);
+    background: rgba(20, 20, 20, 0.85);
     padding: 20px;
     border-radius: 12px;
     border-left: 4px solid darkgray;
-    box-shadow: 0 4px 12px rgba(0,0,0,0.7);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.7);
     max-height: 240px;
     overflow-y: auto;
     margin: 16px 0;
-  }
-  .reportHeader {
+}
+
+.reportHeader {
     margin: 0 0 12px;
     font-size: 1.2rem;
     color: #fff;
     border-bottom: 1px solid darkgray;
     padding-bottom: 4px;
-  }
-  .reportSection ul {
+}
+
+.reportSection ul {
     list-style: none;
     padding: 0;
     margin: 0;
-  }
-  .reportSection li {
+}
+
+.reportSection li {
     margin-bottom: 10px;
     color: darkgray;
     line-height: 1.4;
-  }
-  .pdfCorrect {
+}
+
+.pdfCorrect {
     color: #1abc9c;
     font-weight: bold;
-  }
-  .pdfWrong {
+}
+
+.pdfWrong {
     color: #e74c3c;
     font-weight: bold;
-  }
-  .toggleReport {
+}
+
+.toggleReport {
     margin: 16px auto;
     background: #1e1e1e;
     color: #1abc9c;
@@ -368,8 +374,9 @@
     align-items: center;
     gap: 8px;
     border: 1px solid #1abc9c;
-  }
-  .pdfButton {
+}
+
+.pdfButton {
     margin-top: 16px;
     background: #000;
     color: darkgray;
@@ -381,66 +388,86 @@
     align-items: center;
     gap: 6px;
     margin: 3vh auto;
-  }
-  .pdfButton:hover {
-    border: 1px solid #1abc9c;
-  }
-  /* WebKit browsers (Chrome, Safari, Edge) */
-.reportSection::-webkit-scrollbar {
-    width: 8px;               /* width of the entire scrollbar */
-  }
-  
-  .reportSection::-webkit-scrollbar-track {
-    background: rgba(20,20,20,0.5);  /* color of the track */
-    border-radius: 4px;
-  }
-  
-  .reportSection::-webkit-scrollbar-thumb {
-    background-color: #a9a9a9; /* color of the draggable thumb */
-    border-radius: 4px;        /* roundness of the thumb */
-    border: 2px solid rgba(20,20,20,0.85); /* creates padding around thumb */
-  }
-  
-  /* Firefox */
-  .reportSection {
-    scrollbar-width: thin;               /* "auto" or "thin" */
-    scrollbar-color: #a9a9a9 rgba(20,20,20,0.5);
-  }
+}
 
-  .questionHeader {
+.pdfButton:hover {
+    border: 1px solid #1abc9c;
+}
+
+/* WebKit browsers (Chrome, Safari, Edge) */
+.reportSection::-webkit-scrollbar {
+    width: 8px;
+    /* width of the entire scrollbar */
+}
+
+.reportSection::-webkit-scrollbar-track {
+    background: rgba(20, 20, 20, 0.5);
+    /* color of the track */
+    border-radius: 4px;
+}
+
+.reportSection::-webkit-scrollbar-thumb {
+    background-color: #a9a9a9;
+    /* color of the draggable thumb */
+    border-radius: 4px;
+    /* roundness of the thumb */
+    border: 2px solid rgba(20, 20, 20, 0.85);
+    /* creates padding around thumb */
+}
+
+/* Firefox */
+.reportSection {
+    scrollbar-width: thin;
+    /* "auto" or "thin" */
+    scrollbar-color: #a9a9a9 rgba(20, 20, 20, 0.5);
+}
+
+.questionHeader {
     display: flex;
     justify-content: space-between;
     align-items: center;
     margin-bottom: 0.5rem;
-  }
-  
-  .questionNumber {
+}
+
+.questionNumber {
     font-weight: 600;
     font-size: 1rem;
-  }
-  
-  .questionTag {
+}
+
+.questionTag {
     padding: 0.2rem 0.6rem;
     border-radius: 0.25rem;
     font-size: 0.85rem;
     color: #fff;
     text-transform: uppercase;
-  }
-  
-  /* Color-coding per tag */
-  .questionTag.beginner {
+}
+
+/* Color-coding per tag */
+.questionTag.beginner {
     background-color: #4caf50;
-  }
-  .questionTag.intermediate {
+}
+
+.questionTag.intermediate {
     background-color: #ff9800;
-  }
-  .questionTag.advanced {
+}
+
+.questionTag.advanced {
     background-color: #f44336;
-  }
-  .timer {
-  text-align: right;
-  font-size: 1.1rem;
-  font-weight: bold;
-  color: #d32f2f;
-  margin-top: 8px;
+}
+
+.timer {
+    text-align: right;
+    font-size: 1.1rem;
+    font-weight: bold;
+    color: #1abc9c;
+    margin-top: -8px;
+    margin-bottom: 16px;
+    background: rgba(26, 188, 156, 0.1);
+    padding: 6px 12px;
+    border: 1px solid #1abc9c;
+    border-radius: 8px;
+    display: inline-block;
+    backdrop-filter: blur(4px);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.4);
+    transition: all 0.3s ease-in-out;
 }
