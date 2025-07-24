@@ -46,21 +46,16 @@ const Quiz = ({ participantName }) => {
     const [responses, setResponses] = useState([]);
     const current = questions[idx];
     const progress = ((idx + (answered ? 1 : 0)) / questions.length) * 100;
-    const [timeLeft, setTimeLeft] = useState(10); // 600 seconds = 10 min
-    const autoSubmitTriggered = useRef(false);
-
+    const [timeLeft, setTimeLeft] = useState(60); // 600 seconds = 10 min
     useEffect(() => {
         if (finished) return;
 
         const interval = setInterval(() => {
             setTimeLeft((prev) => {
                 if (prev <= 1) {
-                    if (!autoSubmitTriggered.current) {
-                        autoSubmitTriggered.current = true; // prevent double alert
-                        clearInterval(interval);
-                        setFinished(true);
-                        alert("Time's up! Your quiz is Auto-submitted.");
-                    }
+                    clearInterval(interval);
+                    setFinished(true);
+                    alert("Time's up! Your quiz is Auto-submitted.");
                     return 0;
                 }
                 return prev - 1;
@@ -70,13 +65,12 @@ const Quiz = ({ participantName }) => {
         return () => clearInterval(interval);
     }, [finished]);
 
-
     useEffect(() => {
         if (typeof window !== "undefined")
             window.scrollTo({ top: 0, behavior: "smooth" });
     }, [idx]);
     useEffect(() => {
-        const duration = 0.1 * 60 * 1000; // 10 minutes
+        const duration = 1 * 60 * 1000; // 10 minutes
 
         const timer = setTimeout(() => {
             setFinished(true);
