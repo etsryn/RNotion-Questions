@@ -354,10 +354,12 @@ const Quiz = ({ participantName }) => {
 
     return (
         <div className={styles.wrapper}>
-            <div className={styles.timer}>
-                ⏱ Time Left: {Math.floor(timeLeft / 60)}:
-                {(timeLeft % 60).toString().padStart(2, "0")}
-            </div>
+            {!finished && (
+                <div className={styles.timer}>
+                    ⏱ Time Left: {Math.floor(timeLeft / 60)}:
+                    {(timeLeft % 60).toString().padStart(2, "0")}
+                </div>
+            )}
             <motion.div
                 className={styles.quizContainer}
                 initial={{ opacity: 0 }}
