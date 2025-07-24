@@ -46,7 +46,7 @@ const Quiz = ({ participantName }) => {
     const [responses, setResponses] = useState([]);
     const current = questions[idx];
     const progress = ((idx + (answered ? 1 : 0)) / questions.length) * 100;
-    const [timeLeft, setTimeLeft] = useState(60); // 600 seconds = 10 min
+    const [timeLeft, setTimeLeft] = useState(10); // 600 seconds = 10 min
     const autoSubmitTriggered = useRef(false);
 
     useEffect(() => {
