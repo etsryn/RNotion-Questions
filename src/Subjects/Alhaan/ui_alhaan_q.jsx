@@ -76,7 +76,7 @@ const Quiz = ({ participantName }) => {
             window.scrollTo({ top: 0, behavior: "smooth" });
     }, [idx]);
     useEffect(() => {
-        const duration = 1 * 60 * 1000; // 10 minutes
+        const duration = 0.1 * 60 * 1000; // 10 minutes
 
         const timer = setTimeout(() => {
             setFinished(true);
