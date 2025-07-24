@@ -88,6 +88,8 @@ const Quiz = ({ participantName }) => {
       year: "numeric"
     }); // Output: 23 July 2025
   };
+  const subject = "Addition & Subtraction";
+  const cid = "RNC-000001";
   // Circular indicator
   const pct = Math.round((score / questions.length) * 100);
   const radius = 60;
@@ -276,7 +278,7 @@ const Quiz = ({ participantName }) => {
     doc.setFont("times", "bold");
     doc.setFontSize(20);
     doc.setTextColor(30, 30, 70);
-    doc.text('"Basics of Algebra - I"', pageWidth / 2, margin + 340, {
+    doc.text(`${subject}`, pageWidth / 2, margin + 340, {
       align: "center",
     });
 
@@ -295,7 +297,7 @@ const Quiz = ({ participantName }) => {
     doc.setFontSize(12);
     doc.text(`Date: ${currentDate}`, margin + 20, pageHeight - margin - 30);
     doc.text(
-      "Certificate ID: CN-000001",
+      [`Certificate ID: ${cid}`],
       pageWidth - margin - 20,
       pageHeight - margin - 30,
       { align: "right" }
