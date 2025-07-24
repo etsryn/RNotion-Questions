@@ -1,134 +1,123 @@
 [
   {
-    "question": "What is 1,234,567 + 2,345,678?",
+    "question": "Result Multiplication is called ?",
     "options": [
-      "3,580,245",
-      "3,579,245",
-      "3,580,155",
-      "3,580,346"
+      "Sum",
+      "Product",
+      "Difference",
+      "I don't know"
     ],
-    "answer": "3,580,245",
+    "answer": "Product",
     "tag": "Beginner"
   },
   {
-    "question": "Calculate 3,210,456 + 4,321,789.",
+    "question": "Calculate the product of 325 and 128",
     "options": [
-      "7,532,245",
-      "7,532,144",
-      "7,531,245",
-      "7,532,345"
+      "32,600",
+      "41,600",
+      "71,600",
+      "71,200"
     ],
-    "answer": "7,532,245",
-    "tag": "Beginner"
-  },
-  {
-    "question": "Find the sum: 5,678,912 + 6,789,123.",
-    "options": [
-      "12,468,035",
-      "12,468,034",
-      "12,468,135",
-      "12,467,035"
-    ],
-    "answer": "12,468,035",
-    "tag": "Intermediate"
-  },
-  {
-    "question": "Add 7,123,456 and 2,987,654.",
-    "options": [
-      "10,111,110",
-      "10,111,109",
-      "10,101,110",
-      "10,211,110"
-    ],
-    "answer": "10,111,110",
-    "tag": "Intermediate"
-  },
-  {
-    "question": "What is 9,876,543 + 8,765,432?",
-    "options": [
-      "18,641,975",
-      "18,641,974",
-      "18,641,985",
-      "18,640,975"
-    ],
-    "answer": "18,641,975",
+    "answer": "41,600",
     "tag": "Advanced"
   },
   {
-    "question": "Compute 6,543,219 + 7,654,328.",
+    "question": "multiplier is 548 and Multiplicand is 754 find product.",
     "options": [
-      "14,197,547",
-      "14,197,537",
-      "14,197,647",
-      "14,196,547"
+      "1,13,192",
+      "2,13,192",
+      "3,13,192",
+      "4,13,192"
     ],
-    "answer": "14,197,547",
+    "answer": "4,13,192",
     "tag": "Advanced"
   },
   {
-    "question": "What is 24,680,135 − 12,345,679?",
+    "question": "Which property states that order of multiplication of 2 numbers does not matter ?",
     "options": [
-      "12,334,456",
-      "12,334,457",
-      "12,334,356",
-      "12,333,456"
+      "Closure Property",
+      "Commutative Property",
+      "Associative Property",
+      "Distributive Property"
     ],
-    "answer": "12,334,456",
+    "answer": "Commutative Property",
     "tag": "Beginner"
   },
   {
-    "question": "Subtract: 30,120,045 − 10,025,030.",
+    "question": "Which property states that order of multiplication of 3 numbers does not matter ?",
     "options": [
-      "20,095,015",
-      "20,095,014",
-      "20,094,015",
-      "20,095,115"
+      "Closure Property",
+      "Commutative Property",
+      "Associative Property",
+      "Distributive Property"
     ],
-    "answer": "20,095,015",
+    "answer": "Associative Property",
     "tag": "Beginner"
   },
   {
-    "question": "Find the difference: 45,678,901 − 23,456,789.",
+    "question": "Product of 9874 x 2578 will be same as",
     "options": [
-      "22,222,112",
-      "22,222,111",
-      "22,221,112",
-      "22,322,112"
+      "9874 x 2587",
+      "2578 x 9847",
+      "2578 x 9874",
+      "1,54,55,172"
     ],
-    "answer": "22,222,112",
+    "answer": "2578 x 9874",
+    "tag": "Beginner"
+  },
+  {
+    "question": "Multiply 94191 * 2500000",
+    "options": [
+      "1,35,47,75,00,000",
+      "2,35,47,75,00,000",
+      "3,35,47,75,00,000",
+      "4,35,47,75,00,000"
+    ],
+    "answer": "2,35,47,75,00,000",
     "tag": "Intermediate"
   },
   {
-    "question": "Calculate 56,789,012 − 34,567,890.",
+    "question": "Which of the option is correct ?",
     "options": [
-      "22,221,122",
-      "22,221,121",
-      "22,220,122",
-      "22,321,122"
+      "Multiplicand x Multiplier = Multiplicand",
+      "Multiplicand x Product = Multiplier",
+      "Product x Multiplier = Multiplicand",
+      "Multiplicand x Multiplier = Product"
     ],
-    "answer": "22,221,122",
+    "answer": "Multiplicand x Multiplier = Product",
+    "tag": "Beginner"
+  },
+  {
+    "question": "Solve 94665 x 0 x 54654",
+    "options": [
+      "94665",
+      "54654",
+      "No possible to multiply",
+      "Answer not in options"
+    ],
+    "answer": "Answer not in options",
+    "tag": "Beginner"
+  },
+  {
+    "question": "Which of the following is correct Distributive Property for 5 x (18 + 9)",
+    "options": [
+      "(18 x 18) + (5 x 9)",
+      "(18 x 5) + (18 x 18)",
+      "(5 x 18) + (5 x 9)",
+      "5 x (18 + 5) x 9"
+    ],
+    "answer": "(5 x 18) + (5 x 9)",
     "tag": "Intermediate"
   },
   {
-    "question": "What is 90,654,321 − 23,456,789?",
+    "question": "Solve 87985 * 13",
     "options": [
-      "67,197,532",
-      "67,197,533",
-      "67,197,432",
-      "67,297,532"
+      "11,43,805",
+      "12,43,805",
+      "13,43,805",
+      "14,43,805"
     ],
-    "answer": "67,197,532",
-    "tag": "Advanced"
-  },
-  {
-    "question": "Subtract 12,345,678 from 98,765,430.",
-    "options": [
-      "86,419,752",
-      "86,419,753",
-      "86,419,652",
-      "86,519,752"
-    ],
-    "answer": "86,419,752",
+    "answer": "11,43,805",
     "tag": "Advanced"
   }
 ]

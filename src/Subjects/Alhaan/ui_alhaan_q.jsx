@@ -17,9 +17,9 @@ const questions = allQuestions.sort(() => Math.random() - 0.5).slice(0, 15);
 questions.forEach((question) => {
     question.options = question.options.sort(() => Math.random() - 0.5);
 });
-const subject = "Addition & Subtraction";
-const cid = "RNC-000001";
-const secret_code = "maths23"
+const subject = "Multiplication and It's Properties";
+const cid = "RNC-000002";
+const secret_code = "alhaanisidiot"
 
 const Quiz = ({ participantName }) => {
     const [validuser, setvaliduser] = useState(null);
